@@ -1,4 +1,41 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "twentyfourteen"
+baseURL = "https://www.dinamici.org"
+description = "The Community of Italian Dynamicists"
+languageCode = "en-US"
+theme = "mainroad"
+title = "DinAmicI"
+[Params]
+description = "The Community of Italian Dynamicists"
+mainSections = ["news", "dai-seminar", "events", "open-positions"]
+mathjax = true
+mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
+mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
+pager = true
+opengraph = true
+schema = true # Enable Schema
+twitter_cards = true # Enable Twitter Cards if true
+readmore = true
+[Params.logo]
+image = "static/DAI.png"
+subtitle = "The Community of Italian Dynamicists"
+[Params.sidebar]
+home = "left"
+list = "left"
+single = "left"
+widgets = ["ddg-search", "recent", "categories", "social"]
+[Params.style.vars]
+highlightColor = "#E5622A"
+[Params.widgets.social]
+twitter = "dinamici"
+[[Params.widgets.social.custom]]
+icon = "svg/facebook.svg"
+title = "Facebook"
+url = "https://www.facebook.com/groups/1709850812592546"
+[[Params.widgets.social.custom]]
+icon = "svg/youtube.svg"
+title = "Youtube"
+url = "https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg"
+[permalinks]
+posts = "/:year/:month/:slug/"
+[taxonomies]
+author = "author"
+category = "categories"
