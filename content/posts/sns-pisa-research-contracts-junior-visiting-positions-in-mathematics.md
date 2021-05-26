@@ -1,6 +1,6 @@
 +++
 aliases = ["/sns-pisa-research-contracts-junior-visiting-positions-in-mathematics/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2017-10-24 15:14:39"
 slug = "sns-pisa-research-contracts-junior-visiting-positions-in-mathematics"
 title = "SNS Pisa - Research contracts “Junior Visiting Positions” in mathematics"

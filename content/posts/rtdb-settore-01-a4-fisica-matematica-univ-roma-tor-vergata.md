@@ -1,6 +1,6 @@
 +++
 aliases = ["/rtdb-settore-01-a4-fisica-matematica-univ-roma-tor-vergata/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2019-10-30 19:13:54"
 slug = "rtdb-settore-01-a4-fisica-matematica-univ-roma-tor-vergata"
 title = "RTDb settore 01/A4 (Fisica Matematica) - Università di Roma \"Tor Vergata\""

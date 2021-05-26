@@ -1,6 +1,6 @@
 +++
 aliases = ["/dai-on-twitter/"]
-categories = ["forum", "news"]
+categories = ["news"]
 date = "2016-12-02 18:52:33"
 slug = "dai-on-twitter"
 title = "DAI on Twitter!"

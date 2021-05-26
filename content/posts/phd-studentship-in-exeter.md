@@ -1,6 +1,6 @@
 +++
 aliases = ["/phd-studentship-in-exeter/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2015-12-13 03:14:14"
 slug = "phd-studentship-in-exeter"
 title = "PhD studentship in Exeter"

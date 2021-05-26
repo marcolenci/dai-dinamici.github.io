@@ -1,6 +1,6 @@
 +++
 aliases = ["/phd-studentships-in-reading-uk/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2019-06-12 16:42:03"
 slug = "phd-studentships-in-reading-uk"
 title = "PhD Studentships in Reading, UK"

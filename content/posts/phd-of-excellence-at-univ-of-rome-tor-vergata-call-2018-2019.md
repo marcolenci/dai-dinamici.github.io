@@ -1,6 +1,6 @@
 +++
 aliases = ["/phd-of-excellence-at-univ-of-rome-tor-vergata-call-2018-2019/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2018-05-17 10:15:02"
 slug = "phd-of-excellence-at-univ-of-rome-tor-vergata-call-2018-2019"
 title = "PhD of Excellence at Univ. of Rome Tor Vergata (Call 2018-2019)"

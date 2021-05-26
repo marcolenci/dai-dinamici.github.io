@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar", "seminar"]
+aliases = ["/event/andreas-knauf-friedrich-alexander-universitat-erlangen-nurnberg-germany/"]
+categories = ["dai-seminar"]
 date = "2020-06-11 07:07:48"
 slug = "andreas-knauf-friedrich-alexander-universitat-erlangen-nurnberg-germany"
 title = "Andreas Knauf  (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany)"

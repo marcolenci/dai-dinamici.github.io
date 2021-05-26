@@ -1,6 +1,6 @@
 +++
 aliases = ["/workshop-dinamici-iv/"]
-categories = ["events", "news", "workshop"]
+categories = ["events", "news"]
 date = "2015-05-12 18:16:27"
 slug = "workshop-dinamici-iv"
 title = "Workshop DinAmicI IV"

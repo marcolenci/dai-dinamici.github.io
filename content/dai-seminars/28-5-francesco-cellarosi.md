@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar", "seminar"]
+aliases = ["/event/28-5-francesco-cellarosi/"]
+categories = ["dai-seminar"]
 date = "2020-05-04 12:22:09"
 slug = "28-5-francesco-cellarosi"
 title = "Francesco Cellarosi  (Queen's University, Canada)"

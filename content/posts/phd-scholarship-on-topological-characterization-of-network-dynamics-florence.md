@@ -1,6 +1,6 @@
 +++
 aliases = ["/phd-scholarship-on-topological-characterization-of-network-dynamics-florence/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2017-07-31 19:24:15"
 slug = "phd-scholarship-on-topological-characterization-of-network-dynamics-florence"
 title = "PhD Scholarship on \"Topological characterization of network dynamics\", Florence"

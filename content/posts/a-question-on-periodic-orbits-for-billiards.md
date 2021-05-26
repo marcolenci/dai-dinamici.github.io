@@ -1,6 +1,6 @@
 +++
 aliases = ["/a-question-on-periodic-orbits-for-billiards/"]
-categories = ["billiard ball problem", "forum", "periodic orbits"]
+categories = []
 date = "2016-06-21 09:47:50"
 slug = "a-question-on-periodic-orbits-for-billiards"
 title = "A question on periodic orbits for billiards"

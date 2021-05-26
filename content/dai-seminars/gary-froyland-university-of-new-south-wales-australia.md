@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/gary-froyland-university-of-new-south-wales-australia/"]
+categories = ["dai-seminar"]
 date = "2021-01-26 12:12:10"
 slug = "gary-froyland-university-of-new-south-wales-australia"
 title = "Gary Froyland (University of New South Wales, Australia)"

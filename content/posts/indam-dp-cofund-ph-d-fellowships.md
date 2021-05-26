@@ -1,6 +1,6 @@
 +++
 aliases = ["/indam-dp-cofund-ph-d-fellowships/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2016-12-02 14:37:27"
 slug = "indam-dp-cofund-ph-d-fellowships"
 title = "INdAM-DP-COFUND Ph.D. Fellowships"

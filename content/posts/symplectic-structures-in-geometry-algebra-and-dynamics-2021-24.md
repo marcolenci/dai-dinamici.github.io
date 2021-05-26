@@ -1,6 +1,6 @@
 +++
 aliases = ["/symplectic-structures-in-geometry-algebra-and-dynamics-2021-24/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2020-12-14 17:54:33"
 slug = "symplectic-structures-in-geometry-algebra-and-dynamics-2021-24"
 title = "Symplectic Structures in Geometry, Algebra and Dynamics 2021-24"

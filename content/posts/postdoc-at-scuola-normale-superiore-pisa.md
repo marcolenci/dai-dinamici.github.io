@@ -1,6 +1,6 @@
 +++
 aliases = ["/postdoc-at-scuola-normale-superiore-pisa/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2019-01-06 21:02:53"
 slug = "postdoc-at-scuola-normale-superiore-pisa"
 title = "Postdoc at Scuola Normale Superiore, Pisa"

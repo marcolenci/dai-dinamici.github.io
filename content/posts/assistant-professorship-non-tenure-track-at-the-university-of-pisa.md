@@ -1,6 +1,6 @@
 +++
 aliases = ["/assistant-professorship-non-tenure-track-at-the-university-of-pisa/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2017-11-06 18:16:33"
 slug = "assistant-professorship-non-tenure-track-at-the-university-of-pisa"
 title = "Assistant Professorship (non-tenure track) at the University of Pisa"

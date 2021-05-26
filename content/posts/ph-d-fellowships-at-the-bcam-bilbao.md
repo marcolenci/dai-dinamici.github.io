@@ -1,6 +1,6 @@
 +++
 aliases = ["/ph-d-fellowships-at-the-bcam-bilbao/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2016-01-13 16:24:05"
 slug = "ph-d-fellowships-at-the-bcam-bilbao"
 title = "Ph.D. Fellowships at the BCAM, Bilbao"

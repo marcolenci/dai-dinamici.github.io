@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/michele-gianfelice-universita-della-calabria-italy/"]
+categories = ["dai-seminar"]
 date = "2021-01-11 13:27:47"
 slug = "michele-gianfelice-universita-della-calabria-italy"
 title = "Michele Gianfelice (Università della Calabria, Italy)"

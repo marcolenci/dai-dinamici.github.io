@@ -1,6 +1,6 @@
 +++
 aliases = ["/4-postdocs-in-mathematics-at-sns-pisa/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2016-12-02 14:30:47"
 slug = "4-postdocs-in-mathematics-at-sns-pisa"
 title = "4 Postdocs in Mathematics at SNS Pisa"

@@ -1,6 +1,6 @@
 +++
 aliases = ["/phd-studentship-at-loughborough/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2019-03-29 22:15:34"
 slug = "phd-studentship-at-loughborough"
 title = "PhD studentship at Loughborough"

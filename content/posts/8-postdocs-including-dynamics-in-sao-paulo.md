@@ -1,6 +1,6 @@
 +++
 aliases = ["/8-postdocs-including-dynamics-in-sao-paulo/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2017-12-21 18:00:37"
 slug = "8-postdocs-including-dynamics-in-sao-paulo"
 title = "8 Postdocs (including Dynamics) in São Paulo"

@@ -1,6 +1,6 @@
 +++
 aliases = ["/post-doctoral-position-in-paris-in-symplectic-contact-topology-dynamics/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2019-10-28 14:27:38"
 slug = "post-doctoral-position-in-paris-in-symplectic-contact-topology-dynamics"
 title = "Post-doctoral position in Paris in Symplectic/Contact Topology/Dynamics"

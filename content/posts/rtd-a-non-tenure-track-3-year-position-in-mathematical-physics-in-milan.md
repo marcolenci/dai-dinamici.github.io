@@ -1,6 +1,6 @@
 +++
 aliases = ["/rtd-a-non-tenure-track-3-year-position-in-mathematical-physics-in-milan/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2020-07-02 08:03:14"
 slug = "rtd-a-non-tenure-track-3-year-position-in-mathematical-physics-in-milan"
 title = "RTD-A (non-tenure-track 3-year position) in Mathematical Physics in Milan"

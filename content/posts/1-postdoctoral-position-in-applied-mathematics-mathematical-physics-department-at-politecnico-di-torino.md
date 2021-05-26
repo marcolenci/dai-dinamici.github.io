@@ -1,6 +1,6 @@
 +++
 aliases = ["/1-postdoctoral-position-in-applied-mathematics-mathematical-physics-department-at-politecnico-di-torino/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2016-12-15 14:12:24"
 slug = "1-postdoctoral-position-in-applied-mathematics-mathematical-physics-department-at-politecnico-di-torino"
 title = "1 Postdoctoral position in Applied Mathematics / Mathematical Physics at Politecnico di Torino"

@@ -1,6 +1,6 @@
 +++
 aliases = ["/scholarships-for-mathematicians-granted-by-accademia-dei-lincei/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2017-10-19 12:54:22"
 slug = "scholarships-for-mathematicians-granted-by-accademia-dei-lincei"
 title = "Scholarships for mathematicians granted by Accademia dei Lincei"

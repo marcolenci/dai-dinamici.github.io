@@ -1,6 +1,6 @@
 +++
 aliases = ["/research-fellow-position-at-the-university-of-st-andrews/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2019-02-28 09:14:22"
 slug = "research-fellow-position-at-the-university-of-st-andrews"
 title = "Research Fellow position at the University of St Andrews"

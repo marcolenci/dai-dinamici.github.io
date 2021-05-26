@@ -1,6 +1,6 @@
 +++
 aliases = ["/rtdb-in-mathematical-physics-university-of-milano-bicocca/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2021-04-08 13:31:04"
 slug = "rtdb-in-mathematical-physics-university-of-milano-bicocca"
 title = "RTDb in Mathematical Physics (University of Milano - Bicocca)"

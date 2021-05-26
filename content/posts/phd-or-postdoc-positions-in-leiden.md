@@ -1,6 +1,6 @@
 +++
 aliases = ["/phd-or-postdoc-positions-in-leiden/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2021-01-05 14:31:03"
 slug = "phd-or-postdoc-positions-in-leiden"
 title = "PhD or postdoc positions in Leiden"

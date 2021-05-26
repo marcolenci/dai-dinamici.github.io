@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/francoise-pene-universite-de-bretagne-occidentale-france/"]
+categories = ["dai-seminar"]
 date = "2020-06-18 11:00:20"
 slug = "francoise-pene-universite-de-bretagne-occidentale-france"
 title = "Françoise Pène  (Université de Bretagne Occidentale, France)"

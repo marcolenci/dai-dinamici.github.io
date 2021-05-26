@@ -1,6 +1,6 @@
 +++
 aliases = ["/aberystwyth-studentships-available/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2015-09-23 08:08:15"
 slug = "aberystwyth-studentships-available"
 title = "Aberystwyth Studentships Available"

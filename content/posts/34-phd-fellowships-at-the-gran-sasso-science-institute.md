@@ -1,6 +1,6 @@
 +++
 aliases = ["/34-phd-fellowships-at-the-gran-sasso-science-institute/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2018-06-01 08:53:07"
 slug = "34-phd-fellowships-at-the-gran-sasso-science-institute"
 title = "34 PhD fellowships at the Gran Sasso Science Institute"

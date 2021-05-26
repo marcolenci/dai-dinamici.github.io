@@ -1,6 +1,6 @@
 +++
 aliases = ["/phd-scholarships-at-the-university-of-groningen/"]
-categories = ["news", "open position", "open positions"]
+categories = ["news", "open-positions", "open-positions"]
 date = "2020-03-03 21:51:52"
 slug = "phd-scholarships-at-the-university-of-groningen"
 title = "PhD scholarships at the university of Groningen"

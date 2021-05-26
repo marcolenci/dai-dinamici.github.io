@@ -1,6 +1,6 @@
 +++
 aliases = ["/new-website/"]
-categories = ["news", "site"]
+categories = ["news"]
 date = "2015-02-25 16:02:56"
 slug = "new-website"
 title = "New website"

@@ -1,6 +1,6 @@
 +++
 aliases = ["/rtd-di-tipo-a-roma-la-sapienza/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2019-01-16 10:50:28"
 slug = "rtd-di-tipo-a-roma-la-sapienza"
 title = "RTD di tipo a, Roma La Sapienza"

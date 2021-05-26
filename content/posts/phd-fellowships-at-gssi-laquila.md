@@ -1,6 +1,6 @@
 +++
 aliases = ["/phd-fellowships-at-gssi-laquila/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2019-04-25 16:36:24"
 slug = "phd-fellowships-at-gssi-laquila"
 title = "PhD Fellowships at GSSI, L'Aquila"

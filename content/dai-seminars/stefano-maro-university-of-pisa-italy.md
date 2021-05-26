@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/stefano-maro-university-of-pisa-italy/"]
+categories = ["dai-seminar"]
 date = "2020-11-03 21:29:00"
 slug = "stefano-maro-university-of-pisa-italy"
 title = "Stefano Marò (Università di Pisa, Italy)"

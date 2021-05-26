@@ -1,6 +1,6 @@
 +++
 aliases = ["/17-phd-and-8-postdoc-positions-universities-bochum-cologne-and-munster/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2016-12-05 11:56:01"
 slug = "17-phd-and-8-postdoc-positions-universities-bochum-cologne-and-munster"
 title = "17 PhD and 8 postdoc positions - Universities Bochum, Cologne and Münster"

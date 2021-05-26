@@ -1,6 +1,6 @@
 +++
 aliases = ["/postdoc-at-northumbria-university-newcastle/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2020-11-11 13:40:08"
 slug = "postdoc-at-northumbria-university-newcastle"
 title = "Postdoc at Northumbria University Newcastle"

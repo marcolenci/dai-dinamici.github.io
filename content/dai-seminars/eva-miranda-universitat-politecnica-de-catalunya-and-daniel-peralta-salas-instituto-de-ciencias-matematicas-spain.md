@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/eva-miranda-universitat-politecnica-de-catalunya-and-daniel-peralta-salas-instituto-de-ciencias-matematicas-spain/"]
+categories = ["dai-seminar"]
 date = "2021-03-24 09:39:26"
 slug = "eva-miranda-universitat-politecnica-de-catalunya-and-daniel-peralta-salas-instituto-de-ciencias-matematicas-spain"
 title = "Eva Miranda (Universitat Politècnica de Catalunya) and Daniel Peralta-Salas (Instituto de Ciencias Matemáticas, Spain)"

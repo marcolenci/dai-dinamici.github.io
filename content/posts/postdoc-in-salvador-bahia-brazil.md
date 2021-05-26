@@ -1,6 +1,6 @@
 +++
 aliases = ["/postdoc-in-salvador-bahia-brazil/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2017-03-12 23:19:47"
 slug = "postdoc-in-salvador-bahia-brazil"
 title = "Postdoc in Salvador, Bahia, Brazil"

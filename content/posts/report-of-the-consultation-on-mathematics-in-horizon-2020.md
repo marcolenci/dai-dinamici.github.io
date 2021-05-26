@@ -1,6 +1,6 @@
 +++
 aliases = ["/report-of-the-consultation-on-mathematics-in-horizon-2020/"]
-categories = ["forum", "news"]
+categories = ["news"]
 date = "2016-08-08 08:42:58"
 slug = "report-of-the-consultation-on-mathematics-in-horizon-2020"
 title = "Report of the consultation on Mathematics in Horizon 2020"

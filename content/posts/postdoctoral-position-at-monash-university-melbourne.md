@@ -1,6 +1,6 @@
 +++
 aliases = ["/postdoctoral-position-at-monash-university-melbourne/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2017-12-20 18:31:30"
 slug = "postdoctoral-position-at-monash-university-melbourne"
 title = "Postdoctoral position at Monash University, Melbourne"

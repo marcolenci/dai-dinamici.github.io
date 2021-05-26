@@ -1,6 +1,6 @@
 +++
 aliases = ["/associate-professorship-at-scuola-normale-superiore-in-pisa/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2018-01-05 10:37:42"
 slug = "associate-professorship-at-scuola-normale-superiore-in-pisa"
 title = "Associate professorship at Scuola Normale Superiore in Pisa"

@@ -1,6 +1,6 @@
 +++
 aliases = ["/indam-research-projects-for-young-researchers/"]
-categories = ["news", "open positions", "research projects"]
+categories = ["news", "open-positions"]
 date = "2017-04-21 17:08:40"
 slug = "indam-research-projects-for-young-researchers"
 title = "INdAM Research Projects for Young Researchers"

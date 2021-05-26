@@ -1,6 +1,6 @@
 +++
 aliases = ["/ph-d-positions-in-cardiff-uk/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2017-11-22 07:16:51"
 slug = "ph-d-positions-in-cardiff-uk"
 title = "Ph.D. positions in Cardiff (UK)"

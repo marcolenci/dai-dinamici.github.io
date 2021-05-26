@@ -9,11 +9,11 @@ mainSections = ["news", "dai-seminar", "events", "open-positions"]
 mathjax = true
 mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
 mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
-pager = true
 opengraph = true
-schema = true # Enable Schema
-twitter_cards = true # Enable Twitter Cards if true
+pager = true
 readmore = true
+schema = true
+twitter_cards = true
 [Params.logo]
 image = "static/DAI.png"
 subtitle = "The Community of Italian Dynamicists"
@@ -36,6 +36,6 @@ title = "Youtube"
 url = "https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg"
 [permalinks]
 posts = "/:year/:month/:slug/"
-[taxonomies]
-author = "author"
-category = "categories"
+# [taxonomies]
+# author = "author"
+# category = "categories"

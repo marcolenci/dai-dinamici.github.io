@@ -1,6 +1,6 @@
 +++
 aliases = ["/recruitment-in-ergodic-theory-dynamical-systems-at-university-of-warwick/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2020-05-08 07:15:48"
 slug = "recruitment-in-ergodic-theory-dynamical-systems-at-university-of-warwick"
 title = "Recruitment  in Ergodic Theory & Dynamical Systems at University of  Warwick"

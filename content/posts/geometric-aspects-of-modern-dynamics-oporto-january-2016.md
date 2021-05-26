@@ -1,6 +1,6 @@
 +++
 aliases = ["/geometric-aspects-of-modern-dynamics-oporto-january-2016/"]
-categories = ["conference", "events", "news"]
+categories = ["events", "news"]
 date = "2015-09-23 08:14:32"
 slug = "geometric-aspects-of-modern-dynamics-oporto-january-2016"
 title = "\"Geometric Aspects of Modern Dynamics\", Oporto, January 2016"

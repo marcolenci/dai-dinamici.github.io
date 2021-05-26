@@ -1,6 +1,6 @@
 +++
 aliases = ["/two-year-research-fellowship-at-the-university-of-pisa/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2020-03-03 10:20:27"
 slug = "two-year-research-fellowship-at-the-university-of-pisa"
 title = "Two-year research fellowship at the University of Pisa"

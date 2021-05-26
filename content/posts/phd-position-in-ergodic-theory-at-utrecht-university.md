@@ -1,6 +1,6 @@
 +++
 aliases = ["/phd-position-in-ergodic-theory-at-utrecht-university/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2021-05-17 15:59:44"
 slug = "phd-position-in-ergodic-theory-at-utrecht-university"
 title = "PhD position in Ergodic Theory at Utrecht University"

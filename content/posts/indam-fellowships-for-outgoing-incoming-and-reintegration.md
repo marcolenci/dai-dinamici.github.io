@@ -1,6 +1,6 @@
 +++
 aliases = ["/indam-fellowships-for-outgoing-incoming-and-reintegration/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2015-11-02 16:33:34"
 slug = "indam-fellowships-for-outgoing-incoming-and-reintegration"
 title = "INdAM Outgoing, Incoming and Reintegration fellowships"

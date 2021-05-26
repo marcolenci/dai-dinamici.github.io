@@ -1,6 +1,6 @@
 +++
 aliases = ["/london-mathematical-laboratory-summer-school-2018/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2018-01-19 15:26:14"
 slug = "london-mathematical-laboratory-summer-school-2018"
 title = "London Mathematical Laboratory Summer School 2018"

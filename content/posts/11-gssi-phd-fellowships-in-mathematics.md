@@ -1,6 +1,6 @@
 +++
 aliases = ["/11-gssi-phd-fellowships-in-mathematics/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2016-06-02 10:38:48"
 slug = "11-gssi-phd-fellowships-in-mathematics"
 title = "11 GSSI PhD fellowships in Mathematics"

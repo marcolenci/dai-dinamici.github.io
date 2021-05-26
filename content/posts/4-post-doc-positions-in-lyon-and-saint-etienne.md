@@ -1,6 +1,6 @@
 +++
 aliases = ["/4-post-doc-positions-in-lyon-and-saint-etienne/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2019-11-05 18:15:52"
 slug = "4-post-doc-positions-in-lyon-and-saint-etienne"
 title = "4 postdoc positions in Lyon and Saint-Etienne"

@@ -1,6 +1,6 @@
 +++
 aliases = ["/postdoctoral-position-in-sao-carlos-brazil/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2018-03-15 18:44:55"
 slug = "postdoctoral-position-in-sao-carlos-brazil"
 title = "Postdoctoral position in São Carlos, Brazil"

@@ -1,6 +1,6 @@
 +++
 aliases = ["/call-for-phd-and-professor-in-dynamical-systems-at-the-university-of-groningen/"]
-categories = ["news", "open positions", "phd", "tenure-track"]
+categories = ["news", "open-positions"]
 date = "2020-07-08 09:57:32"
 slug = "call-for-phd-and-professor-in-dynamical-systems-at-the-university-of-groningen"
 title = "Call for PhD and professor in Dynamical Systems  at the University of Groningen"

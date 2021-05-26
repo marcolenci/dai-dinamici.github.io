@@ -1,6 +1,6 @@
 +++
 aliases = ["/post-doctoral-position-in-paris-in-dynamical-systems/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2020-11-29 18:52:56"
 slug = "post-doctoral-position-in-paris-in-dynamical-systems"
 title = "Another postdoc in Paris"

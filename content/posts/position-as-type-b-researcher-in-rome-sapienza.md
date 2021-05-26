@@ -1,6 +1,6 @@
 +++
 aliases = ["/position-as-type-b-researcher-in-rome-sapienza/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2015-09-02 07:54:59"
 slug = "position-as-type-b-researcher-in-rome-sapienza"
 title = "Position as Type B Researcher in Rome Sapienza"

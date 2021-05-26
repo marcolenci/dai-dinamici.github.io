@@ -1,6 +1,6 @@
 +++
 aliases = ["/junior-postdoc-positions-in-bologna/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2016-11-16 03:14:01"
 slug = "junior-postdoc-positions-in-bologna"
 title = "Junior postdoc positions in Bologna"

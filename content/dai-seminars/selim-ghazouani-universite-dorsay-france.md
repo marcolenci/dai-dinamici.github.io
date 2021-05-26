@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/selim-ghazouani-universite-dorsay-france/"]
+categories = ["dai-seminar"]
 date = "2021-04-16 21:04:47"
 slug = "selim-ghazouani-universite-dorsay-france"
 title = "Selim Ghazouani (Université d’Orsay, France)"

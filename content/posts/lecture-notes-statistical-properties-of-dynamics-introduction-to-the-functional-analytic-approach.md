@@ -1,6 +1,6 @@
 +++
 aliases = ["/lecture-notes-statistical-properties-of-dynamics-introduction-to-the-functional-analytic-approach/"]
-categories = ["forum", "lecture notes", "news"]
+categories = ["news"]
 date = "2015-08-24 15:49:42"
 slug = "lecture-notes-statistical-properties-of-dynamics-introduction-to-the-functional-analytic-approach"
 title = "Lecture notes: \"Statistical properties of dynamics. Introduction to the functional analytic approach\""

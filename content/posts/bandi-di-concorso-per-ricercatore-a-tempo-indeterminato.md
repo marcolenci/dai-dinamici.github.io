@@ -1,6 +1,6 @@
 +++
 aliases = ["/bandi-di-concorso-per-ricercatore-a-tempo-indeterminato/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2016-07-05 08:11:22"
 slug = "bandi-di-concorso-per-ricercatore-a-tempo-indeterminato"
 title = "Bandi di concorso per ricercatore a tempo indeterminato"

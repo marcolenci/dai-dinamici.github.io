@@ -1,6 +1,6 @@
 +++
 aliases = ["/temporary-research-position-in-pisa/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2019-02-20 12:50:40"
 slug = "temporary-research-position-in-pisa"
 title = "RTD di tipo A (non tenure-track), University of Pisa"

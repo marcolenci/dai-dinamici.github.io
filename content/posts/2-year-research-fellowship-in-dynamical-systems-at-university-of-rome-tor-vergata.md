@@ -1,6 +1,6 @@
 +++
 aliases = ["/2-year-research-fellowship-in-dynamical-systems-at-university-of-rome-tor-vergata/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2019-12-05 17:14:55"
 slug = "2-year-research-fellowship-in-dynamical-systems-at-university-of-rome-tor-vergata"
 title = "2-year  research fellowship in Dynamical Systems at University of Rome Tor Vergata"

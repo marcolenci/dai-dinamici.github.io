@@ -1,6 +1,6 @@
 +++
 aliases = ["/renormalization-in-dynamics-pisa-april-2016/"]
-categories = ["conference", "events", "news"]
+categories = ["events", "news"]
 date = "2015-11-19 10:52:20"
 slug = "renormalization-in-dynamics-pisa-april-2016"
 title = "\"Renormalization in Dynamics\" - Pisa, April 2016"

@@ -1,5 +1,5 @@
 +++
-alias = ["/event"]
+aliases = ["/event/seminar-by-marta-maggioni-universiteit-leiden-netherlands-postponed-to-july-1/"]
 categories = []
 date = "2020-06-10 08:34:39"
 slug = "seminar-by-marta-maggioni-universiteit-leiden-netherlands-postponed-to-july-1"

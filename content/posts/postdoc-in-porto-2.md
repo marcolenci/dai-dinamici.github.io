@@ -1,6 +1,6 @@
 +++
 aliases = ["/postdoc-in-porto-2/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2017-08-12 13:39:19"
 slug = "postdoc-in-porto-2"
 title = "Postdoc in Porto"

@@ -1,6 +1,6 @@
 +++
 aliases = ["/rtd-di-tipo-b-tenure-track-pisa/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2019-02-15 12:29:02"
 slug = "rtd-di-tipo-b-tenure-track-pisa"
 title = "RTD di tipo B (tenure-track), University of Pisa"

@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar", "seminar"]
+aliases = ["/event/sunrose-shrestha-tufts-university-usa/"]
+categories = ["dai-seminar"]
 date = "2020-06-04 13:29:58"
 slug = "sunrose-shrestha-tufts-university-usa"
 title = "Sunrose Shrestha  (Tufts University, USA)"

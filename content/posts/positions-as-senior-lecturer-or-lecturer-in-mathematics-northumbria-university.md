@@ -1,6 +1,6 @@
 +++
 aliases = ["/positions-as-senior-lecturer-or-lecturer-in-mathematics-northumbria-university/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2018-11-19 12:41:29"
 slug = "positions-as-senior-lecturer-or-lecturer-in-mathematics-northumbria-university"
 title = "Positions as Senior Lecturer or Lecturer in Mathematics, Northumbria University"

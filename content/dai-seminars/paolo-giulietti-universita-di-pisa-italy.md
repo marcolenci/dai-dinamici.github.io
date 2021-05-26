@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/paolo-giulietti-universita-di-pisa-italy/"]
+categories = ["dai-seminar"]
 date = "2021-02-17 15:15:05"
 slug = "paolo-giulietti-universita-di-pisa-italy"
 title = "Paolo Giulietti (Università di Pisa, Italy)"

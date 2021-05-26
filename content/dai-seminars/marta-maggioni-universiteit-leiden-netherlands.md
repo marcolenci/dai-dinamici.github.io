@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/marta-maggioni-universiteit-leiden-netherlands/"]
+categories = ["dai-seminar"]
 date = "2020-05-20 19:31:13"
 slug = "marta-maggioni-universiteit-leiden-netherlands"
 title = "Marta Maggioni (Universiteit Leiden, Netherlands)"

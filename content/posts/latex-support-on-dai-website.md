@@ -1,6 +1,6 @@
 +++
 aliases = ["/latex-support-on-dai-website/"]
-categories = ["forum", "how to", "site"]
+categories = []
 date = "2015-02-25 16:41:05"
 slug = "latex-support-on-dai-website"
 title = "Latex support on this website"

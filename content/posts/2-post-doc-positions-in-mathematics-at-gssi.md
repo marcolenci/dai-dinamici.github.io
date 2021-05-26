@@ -1,6 +1,6 @@
 +++
 aliases = ["/2-post-doc-positions-in-mathematics-at-gssi/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2021-02-28 08:17:35"
 slug = "2-post-doc-positions-in-mathematics-at-gssi"
 title = "Postdoc positions at GSSI (L'Aquila)"

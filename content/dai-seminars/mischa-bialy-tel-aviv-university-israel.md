@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/mischa-bialy-tel-aviv-university-israel/"]
+categories = ["dai-seminar"]
 date = "2021-01-26 08:29:01"
 slug = "mischa-bialy-tel-aviv-university-israel"
 title = "Misha Bialy (Tel Aviv University, Israel)"

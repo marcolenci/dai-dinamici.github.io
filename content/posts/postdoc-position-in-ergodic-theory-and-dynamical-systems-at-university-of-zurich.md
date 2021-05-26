@@ -1,6 +1,6 @@
 +++
 aliases = ["/postdoc-position-in-ergodic-theory-and-dynamical-systems-at-university-of-zurich/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2019-12-19 12:06:30"
 slug = "postdoc-position-in-ergodic-theory-and-dynamical-systems-at-university-of-zurich"
 title = "Postdoc position in Ergodic Theory and Dynamical Systems at University of Zurich"

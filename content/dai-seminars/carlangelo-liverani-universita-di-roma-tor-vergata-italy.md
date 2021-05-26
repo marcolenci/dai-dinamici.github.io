@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/carlangelo-liverani-universita-di-roma-tor-vergata-italy/"]
+categories = ["dai-seminar"]
 date = "2020-11-10 13:58:20"
 slug = "carlangelo-liverani-universita-di-roma-tor-vergata-italy"
 title = "Carlangelo Liverani (Università di Roma Tor Vergata, Italy)"

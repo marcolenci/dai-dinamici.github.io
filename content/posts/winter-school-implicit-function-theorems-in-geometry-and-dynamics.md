@@ -1,6 +1,6 @@
 +++
 aliases = ["/winter-school-implicit-function-theorems-in-geometry-and-dynamics/"]
-categories = ["events", "news", "winter school"]
+categories = ["events", "news"]
 date = "2019-11-04 13:58:30"
 slug = "winter-school-implicit-function-theorems-in-geometry-and-dynamics"
 title = "Winter school: Implicit Function Theorems in Geometry and Dynamics"

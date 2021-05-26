@@ -1,6 +1,6 @@
 +++
 aliases = ["/seminar-prof-heinz-hanssmann-university-of-utrecht/"]
-categories = ["events", "news", "seminar"]
+categories = ["events", "news"]
 date = "2016-02-08 20:08:54"
 slug = "seminar-prof-heinz-hanssmann-university-of-utrecht"
 title = "Seminar Prof. Heinz Hanssmann (University of Utrecht)"

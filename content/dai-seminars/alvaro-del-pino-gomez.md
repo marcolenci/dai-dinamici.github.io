@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/alvaro-del-pino-gomez/"]
+categories = ["dai-seminar"]
 date = "2021-03-08 15:14:43"
 slug = "alvaro-del-pino-gomez"
 title = "Álvaro del Pino Gómez (Utrecht University, The Netherlands)"

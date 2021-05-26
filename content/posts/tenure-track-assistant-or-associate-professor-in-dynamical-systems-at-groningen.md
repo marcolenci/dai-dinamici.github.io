@@ -1,6 +1,6 @@
 +++
 aliases = ["/tenure-track-assistant-or-associate-professor-in-dynamical-systems-at-groningen/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2020-06-30 08:37:22"
 slug = "tenure-track-assistant-or-associate-professor-in-dynamical-systems-at-groningen"
 title = "Tenure Track Assistant or Associate Professor in Dynamical Systems at Groningen"

@@ -1,6 +1,6 @@
 +++
 aliases = ["/phd-positions-at-gssi/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2017-03-21 21:01:00"
 slug = "phd-positions-at-gssi"
 title = "PhD positions at GSSI"

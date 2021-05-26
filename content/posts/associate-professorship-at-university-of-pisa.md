@@ -1,6 +1,6 @@
 +++
 aliases = ["/associate-professorship-at-university-of-pisa/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2018-05-04 15:42:16"
 slug = "associate-professorship-at-university-of-pisa"
 title = "Associate professorship at University of Pisa"

@@ -1,6 +1,6 @@
 +++
 aliases = ["/tenure-track-assistant-professor-in-dynamical-systems-at-epfl-lausanne/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2020-08-22 16:21:09"
 slug = "tenure-track-assistant-professor-in-dynamical-systems-at-epfl-lausanne"
 title = "Tenure Track Assistant Professor in Dynamical Systems at EPFL Lausanne"

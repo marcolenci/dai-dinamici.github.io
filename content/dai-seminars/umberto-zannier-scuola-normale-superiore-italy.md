@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/umberto-zannier-scuola-normale-superiore-italy/"]
+categories = ["dai-seminar"]
 date = "2021-04-29 08:40:46"
 slug = "umberto-zannier-scuola-normale-superiore-italy"
 title = "Umberto Zannier (Scuola Normale Superiore, Italy)"

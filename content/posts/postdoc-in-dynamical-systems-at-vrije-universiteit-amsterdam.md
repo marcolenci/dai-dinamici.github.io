@@ -1,6 +1,6 @@
 +++
 aliases = ["/postdoc-in-dynamical-systems-at-vrije-universiteit-amsterdam/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2020-12-14 06:47:19"
 slug = "postdoc-in-dynamical-systems-at-vrije-universiteit-amsterdam"
 title = "Postdoc in Dynamical Systems at Vrije Universiteit Amsterdam"

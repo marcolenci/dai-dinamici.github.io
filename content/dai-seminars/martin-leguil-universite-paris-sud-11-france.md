@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar", "seminar"]
+aliases = ["/event/martin-leguil-universite-paris-sud-11-france/"]
+categories = ["dai-seminar"]
 date = "2020-05-04 12:20:21"
 slug = "martin-leguil-universite-paris-sud-11-france"
 title = "Martin Leguil  (Université Paris-Sud 11, France)"

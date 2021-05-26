@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/andrea-venturelli-universite-davignon-france/"]
+categories = ["dai-seminar"]
 date = "2021-01-07 09:00:26"
 slug = "andrea-venturelli-universite-davignon-france"
 title = "Andrea Venturelli (Université d’Avignon, France)"

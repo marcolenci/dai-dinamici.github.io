@@ -1,6 +1,6 @@
 +++
 aliases = ["/msca-phd-position-in-munich/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2020-11-06 22:44:41"
 slug = "msca-phd-position-in-munich"
 title = "MSCA PhD position in Munich"

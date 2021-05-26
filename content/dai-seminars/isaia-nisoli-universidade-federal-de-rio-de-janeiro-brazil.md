@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/isaia-nisoli-universidade-federal-de-rio-de-janeiro-brazil/"]
+categories = ["dai-seminar"]
 date = "2020-11-11 15:00:18"
 slug = "isaia-nisoli-universidade-federal-de-rio-de-janeiro-brazil"
 title = "Isaia Nisoli  (Universidade Federal do Rio de Janeiro, Brazil)"

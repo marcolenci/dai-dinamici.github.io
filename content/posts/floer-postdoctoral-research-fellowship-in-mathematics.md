@@ -1,6 +1,6 @@
 +++
 aliases = ["/floer-postdoctoral-research-fellowship-in-mathematics/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2016-12-05 11:56:54"
 slug = "floer-postdoctoral-research-fellowship-in-mathematics"
 title = "Floer Postdoctoral Research Fellowship in Mathematics"

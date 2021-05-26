@@ -1,6 +1,6 @@
 +++
 aliases = ["/tenure-track-faculty-position-at-queens/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2015-09-17 01:45:32"
 slug = "tenure-track-faculty-position-at-queens"
 title = "Tenure-track faculty position at Queen's"

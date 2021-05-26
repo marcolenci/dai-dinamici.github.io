@@ -1,6 +1,6 @@
 +++
 aliases = ["/3-year-research-associate-position-in-loughborough/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2015-12-15 04:02:37"
 slug = "3-year-research-associate-position-in-loughborough"
 title = "3-year research associate position in Loughborough"

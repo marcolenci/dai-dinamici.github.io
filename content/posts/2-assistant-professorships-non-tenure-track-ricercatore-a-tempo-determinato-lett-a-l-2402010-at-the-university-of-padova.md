@@ -1,6 +1,6 @@
 +++
 aliases = ["/2-assistant-professorships-non-tenure-track-ricercatore-a-tempo-determinato-lett-a-l-2402010-at-the-university-of-padova/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2017-10-29 07:39:15"
 slug = "2-assistant-professorships-non-tenure-track-ricercatore-a-tempo-determinato-lett-a-l-2402010-at-the-university-of-padova"
 title = "2 Assistant Professorships (non tenure-track) at the University of Padova"

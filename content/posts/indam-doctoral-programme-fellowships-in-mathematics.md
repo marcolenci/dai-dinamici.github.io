@@ -1,6 +1,6 @@
 +++
 aliases = ["/indam-doctoral-programme-fellowships-in-mathematics/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2018-04-25 07:39:33"
 slug = "indam-doctoral-programme-fellowships-in-mathematics"
 title = "INdAM Doctoral Programme fellowships in Mathematics"

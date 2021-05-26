@@ -1,6 +1,6 @@
 +++
 aliases = ["/postdoctoral-position-at-unsw-sydney/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2017-12-20 18:20:25"
 slug = "postdoctoral-position-at-unsw-sydney"
 title = "Postdoctoral position at UNSW, Sydney"

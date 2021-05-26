@@ -1,6 +1,6 @@
 +++
 aliases = ["/cellarosis-seminar-in-bologna-july-22-2015/"]
-categories = ["events", "news", "seminar"]
+categories = ["events", "news"]
 date = "2015-07-16 08:58:17"
 slug = "cellarosis-seminar-in-bologna-july-22-2015"
 title = "Cellarosi's seminar in Bologna, July 22, 2015"

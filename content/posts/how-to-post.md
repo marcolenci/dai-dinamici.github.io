@@ -1,6 +1,6 @@
 +++
 aliases = ["/how-to-post/"]
-categories = ["forum", "how to", "site"]
+categories = []
 date = "2015-07-03 08:15:16"
 slug = "how-to-post"
 title = "How to post"

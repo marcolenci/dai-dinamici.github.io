@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/tanja-schindler-scuola-normale-superiore-italy/"]
+categories = ["dai-seminar"]
 date = "2021-04-08 22:04:06"
 slug = "tanja-schindler-scuola-normale-superiore-italy"
 title = "Tanja Schindler (Scuola Normale Superiore, Italy)"

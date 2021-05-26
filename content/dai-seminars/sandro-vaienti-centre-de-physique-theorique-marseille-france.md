@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar", "seminar"]
+aliases = ["/event/sandro-vaienti-centre-de-physique-theorique-marseille-france/"]
+categories = ["dai-seminar"]
 date = "2020-05-04 12:24:50"
 slug = "sandro-vaienti-centre-de-physique-theorique-marseille-france"
 title = "Sandro Vaienti (Centre de Physique Théorique, Marseille, France)"

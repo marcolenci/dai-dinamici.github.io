@@ -1,6 +1,6 @@
 +++
 aliases = ["/1-year-post-doc-in-naples-funded-by-erc-prof-g-pinzari/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2016-09-13 18:30:28"
 slug = "1-year-post-doc-in-naples-funded-by-erc-prof-g-pinzari"
 title = "1 year post-doc in Naples (Funded by ERC - Prof. G. Pinzari)"

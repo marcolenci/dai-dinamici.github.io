@@ -1,6 +1,6 @@
 +++
 aliases = ["/postdoc-position-in-roma-tor-vergata/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2017-10-14 19:12:39"
 slug = "postdoc-position-in-roma-tor-vergata"
 title = "Postdoc position in Roma \"Tor Vergata\""

@@ -1,6 +1,6 @@
 +++
 aliases = ["/postdoctoral-positions-at-icmat-madrid/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2017-02-10 15:26:07"
 slug = "postdoctoral-positions-at-icmat-madrid"
 title = "Postdoctoral positions at ICMAT - Madrid"

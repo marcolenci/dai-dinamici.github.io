@@ -1,6 +1,6 @@
 +++
 aliases = ["/phd-position-at-the-university-of-vienna/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2019-10-29 19:11:39"
 slug = "phd-position-at-the-university-of-vienna"
 title = "PhD position at the University of Vienna"

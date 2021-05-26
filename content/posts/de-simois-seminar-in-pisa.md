@@ -1,6 +1,6 @@
 +++
 aliases = ["/de-simois-seminar-in-pisa/"]
-categories = ["events", "news", "seminar"]
+categories = ["events", "news"]
 date = "2015-07-16 08:46:34"
 slug = "de-simois-seminar-in-pisa"
 title = "De Simoi's seminar in Pisa"

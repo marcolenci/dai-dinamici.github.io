@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/alessandro-della-corte-universita-di-camerino-italy/"]
+categories = ["dai-seminar"]
 date = "2021-02-23 16:22:09"
 slug = "alessandro-della-corte-universita-di-camerino-italy"
 title = "Alessandro Della Corte (Università di Camerino, Italy)"

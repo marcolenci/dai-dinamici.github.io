@@ -1,6 +1,6 @@
 +++
 aliases = ["/postdocs-in-all-areas-of-mathematics-at-ictp-trieste/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2017-12-14 10:13:43"
 slug = "postdocs-in-all-areas-of-mathematics-at-ictp-trieste"
 title = "Postdocs in all areas of mathematics at ICTP Trieste"

@@ -1,6 +1,6 @@
 +++
 aliases = ["/vacancy-tenure-track-researcher-in-mathematical-physics-u-rome-tor-vergata/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2018-02-20 15:13:30"
 slug = "vacancy-tenure-track-researcher-in-mathematical-physics-u-rome-tor-vergata"
 title = "Vacancy: Tenure-track Researcher in Mathematical Physics (U. Rome Tor Vergata)"

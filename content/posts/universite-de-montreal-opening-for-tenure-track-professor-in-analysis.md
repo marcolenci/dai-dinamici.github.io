@@ -1,6 +1,6 @@
 +++
 aliases = ["/universite-de-montreal-opening-for-tenure-track-professor-in-analysis/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2015-09-17 01:52:49"
 slug = "universite-de-montreal-opening-for-tenure-track-professor-in-analysis"
 title = "Université de Montréal opening for tenure-track professor in  Analysis"

@@ -1,6 +1,6 @@
 +++
 aliases = ["/8-permanent-positions-in-mathematics-at-ufal-brazil/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2016-04-11 12:37:54"
 slug = "8-permanent-positions-in-mathematics-at-ufal-brazil"
 title = "8 permanent positions in Mathematics at UFAL - Brazil"

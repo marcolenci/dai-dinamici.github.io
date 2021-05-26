@@ -1,6 +1,6 @@
 +++
 aliases = ["/vacancy-researcher-in-mathematical-physics-at-university-of-roma-tre/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2018-07-09 10:25:01"
 slug = "vacancy-researcher-in-mathematical-physics-at-university-of-roma-tre"
 title = "Vacancy: Researcher in Mathematical Physics at University of Roma Tre"

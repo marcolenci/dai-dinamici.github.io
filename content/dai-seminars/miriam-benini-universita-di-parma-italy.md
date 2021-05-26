@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar"]
+aliases = ["/event/miriam-benini-universita-di-parma-italy/"]
+categories = ["dai-seminar"]
 date = "2020-11-12 14:07:49"
 slug = "miriam-benini-universita-di-parma-italy"
 title = "Anna Miriam Benini  (Università di Parma, Italy)"

@@ -1,6 +1,6 @@
 +++
 aliases = ["/two-esr-early-stage-researcher-positions-at-the-department-of-mathematics-university-of-rome-tor-vergata/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2019-02-08 19:14:21"
 slug = "two-esr-early-stage-researcher-positions-at-the-department-of-mathematics-university-of-rome-tor-vergata"
 title = "Two ESR (Early Stage Researcher) positions, University of Rome Tor Vergata"

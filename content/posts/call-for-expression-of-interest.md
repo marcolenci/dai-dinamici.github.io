@@ -1,6 +1,6 @@
 +++
 aliases = ["/call-for-expression-of-interest/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2020-06-22 19:35:15"
 slug = "call-for-expression-of-interest"
 title = "Call for expression of interest, Rome Tor Vergata"

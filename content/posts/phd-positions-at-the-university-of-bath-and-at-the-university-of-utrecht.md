@@ -1,6 +1,6 @@
 +++
 aliases = ["/phd-positions-at-the-university-of-bath-and-at-the-university-of-utrecht/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2020-07-17 12:31:26"
 slug = "phd-positions-at-the-university-of-bath-and-at-the-university-of-utrecht"
 title = "PhD and postdoc positions at Bath and Utrecht"

@@ -1,6 +1,6 @@
 +++
 aliases = ["/9-phd-scholarships-in-lisbon/"]
-categories = ["news", "open positions"]
+categories = ["news", "open-positions"]
 date = "2019-02-27 17:07:09"
 slug = "9-phd-scholarships-in-lisbon"
 title = "9 PhD Scholarships in Lisbon"

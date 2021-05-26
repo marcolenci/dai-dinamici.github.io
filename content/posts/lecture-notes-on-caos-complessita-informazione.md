@@ -1,6 +1,6 @@
 +++
 aliases = ["/lecture-notes-on-caos-complessita-informazione/"]
-categories = ["forum", "lecture notes", "news"]
+categories = ["news"]
 date = "2015-08-04 10:42:16"
 slug = "lecture-notes-on-caos-complessita-informazione"
 title = "Lecture notes on \"Complessità Caos Informazione\""

@@ -1,6 +1,6 @@
 +++
-alias = ["/event"]
-categories = ["dai seminar", "seminar"]
+aliases = ["/event/giulio-tiozzo-university-of-toronto-canada/"]
+categories = ["dai-seminar"]
 date = "2020-05-04 12:18:03"
 slug = "giulio-tiozzo-university-of-toronto-canada"
 title = "Giulio Tiozzo (University of Toronto, Canada)"
