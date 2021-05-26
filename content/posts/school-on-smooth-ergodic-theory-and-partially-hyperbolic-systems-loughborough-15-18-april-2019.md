@@ -17,7 +17,7 @@ M. Pollicott.
 
 Financial support to cover local expenses (accommodation and meals) is
 available for 40 PhD students/Postdocs. To receive financial support
-please contact <W.Bahsoun@lboro.ac.uk> **by 30 January 2019 at the
+please contact [W.Bahsoun@lboro.ac.uk](W.Bahsoun@lboro.ac.uk) **by 30 January 2019 at the
 latest. **
 
 Please follow the link below for more details and updates:

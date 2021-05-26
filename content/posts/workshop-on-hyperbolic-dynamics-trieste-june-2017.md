@@ -19,4 +19,4 @@ Rodriguez-Hertz, Sarig, Schmeling, Senti, Shub, Viana, Wilkinson, Zhang
 **Organizers:** Dmitry Dolgopyat, Federico Rodriguez-Hertz, Omri Sarig.
 Local Organiser: Stefano Luzzatto.
 
-**Workshop's website:** <http://indico.ictp.it/event/7970/>
+**Workshop's website:** [http://indico.ictp.it/event/7970/](http://indico.ictp.it/event/7970/)

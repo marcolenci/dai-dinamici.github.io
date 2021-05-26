@@ -28,7 +28,7 @@ and Combinatorics, Geometry, Topology, and Algebra and by the journal
 Theoretical and Applied Mechanics.
 
 All interested should contact Filip Jevtić by e-mail:
-<BelDyn21@mi.sanu.ac.rs>  
+[BelDyn21@mi.sanu.ac.rs](BelDyn21@mi.sanu.ac.rs)  
 by June 17, 2021.
 
 The application material consists of a CV, a short statement of interest

@@ -10,8 +10,7 @@ The school:
 
 **"Stable and Chaotic Motions in the Planetary Problem"**
 
-will take place in Asiago (Italy), <span class="aBn" tabindex="0"
-term="goog_568468149"><span class="aQJ">June 10-15 2018</span></span>,
+will take place in Asiago (Italy), June 10-15 2018,
 funded by the homonym ERC project Stable and Chaotic Motions in the
 Planetary problem.
 
@@ -39,9 +38,8 @@ The precise titles and abstracts will be soon announced. The lectures
 will be held at the Astrophysical Observatory in Asiago.
 
 If you are interested to participate, please register by sending an
-e-mail to <asiagoschool@math.unipd.it>, by includig also a short CV,
-before <span class="aBn" tabindex="0" term="goog_568468150"><span
-class="aQJ">30 April</span></span>.
+e-mail to [asiagoschool@math.unipd.it](asiagoschool@math.unipd.it), by includig also a short CV,
+before 30 April.
 
 The participation to the school is open to Phd students, Post doc
 researchers and researchers. We strongly encourage the participation of

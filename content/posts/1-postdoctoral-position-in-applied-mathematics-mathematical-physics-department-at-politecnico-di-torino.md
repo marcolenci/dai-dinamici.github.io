@@ -12,46 +12,22 @@ Politecnico di Torino
 
 Deadline for applications: 12th January 2017
 
-<div>
-
 Call:
 <http://www.swas.polito.it/services/concorsi/assric.asp?id_documento_padre=134082>
-
-</div>
 
 The selected candidate is expected to start his/her appointment on 16th
 February 2017.
 
-<div>
-
 Research topics include:
 
-</div>
+- Vehicular and pedestrian traffic models
 
-<div>
+- Boltzmann-type kinetic equations
 
-\- Vehicular and pedestrian traffic models
+- Fokker-Planck asymptotic analysis
 
-</div>
+- Multiscale conservation laws, transport of measures
 
-<div>
+- Uncertainty quantification, generalised polynomial chaos
 
-\- Boltzmann-type kinetic equations
-
-</div>
-
-<div>
-
-\- Fokker-Planck asymptotic analysis
-
-</div>
-
-<div>
-
-\- Multiscale conservation laws, transport of measures
-
-</div>
-
-\- Uncertainty quantification, generalised polynomial chaos
-
-For informal inquiries contact <andrea.tosin@polito.it>
+For informal inquiries contact [andrea.tosin@polito.it](andrea.tosin@polito.it)

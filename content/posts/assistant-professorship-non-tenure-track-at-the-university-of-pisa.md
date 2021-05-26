@@ -19,4 +19,4 @@ The instructions to apply may be found in the announcement (selection
 code A\_15):
 <https://alboufficiale.unipi.it/wp-content/uploads/2017/11/Bando_a_19_posti-2017_albo.pdf>
 
-For further information, please contact <claudio.bonanno@unipi.it>
+For further information, please contact [claudio.bonanno@unipi.it](claudio.bonanno@unipi.it)

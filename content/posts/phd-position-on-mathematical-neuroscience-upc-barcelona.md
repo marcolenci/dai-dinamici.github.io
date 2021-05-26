@@ -19,11 +19,7 @@ First **deadline** is February 6.
 
 More information about the fellowship application procedure:
 
-<div class="wp-block-embed__wrapper">
-
 https://bgsmath.cat/event/inphinit-doctoral-fellowship-call-2019/
-
-</div>
 
 <https://obrasociallacaixa.org/en/investigacion-y-becas/programa-de-becas-de-posgrado/inphinit/incoming>
 

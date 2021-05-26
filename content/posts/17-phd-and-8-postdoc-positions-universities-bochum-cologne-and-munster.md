@@ -11,8 +11,7 @@ the universities of Bochum, Cologne and Münster within the Collaborative
 Research Centre / Transregio (CRC/TRR 191) on “Symplectic Structures in
 Geometry, Algebra and Dynamics”.
 
-The deadline for the applications is <span class="aBn"><span
-class="aQJ">January 6, 2017</span></span>.
+The deadline for the applications is January 6, 2017.
 
 Information on the projects and instructions for applying can be found
 at the link: <http://www.mi.uni-koeln.de/~geiges/SFB-ausschreibung.pdf>

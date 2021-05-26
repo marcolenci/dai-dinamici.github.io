@@ -15,4 +15,4 @@ you to officially join our unit by filling in the form that you find at
 <https://umi.dm.unibo.it/gruppi-umi-2/.>
 
 For more information please contact Claudio Bonanno at
-<claudio.bonanno@unipi.it>
+[claudio.bonanno@unipi.it](claudio.bonanno@unipi.it)

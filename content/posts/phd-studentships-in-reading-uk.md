@@ -36,4 +36,4 @@ please see the attached file (note that due to restrictions on funding
 these EPSRC studentships are only open to UK/EU individuals who meet
 UKRI eligibility conditions).
 
-**Application Deadline: 28<sup>th</sup> June 2019.**
+**Application Deadline: 28[sup](sup)th[/sup](/sup) June 2019.**

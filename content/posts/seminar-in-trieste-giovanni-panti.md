@@ -11,10 +11,6 @@ Tuesday 4th October at 17:00
 
 "A geometric model for the natural extension of continued fraction maps"
 
-<div>
-
-<div>
-
 Abstract: Just as classical "Floor" continued fractions induce the Gauss
 map on the real unit interval, other euclidean division algorithms
 (Ceiling, Even, Odd, NearestInteger, ...) induce piecewise-fractional
@@ -26,6 +22,4 @@ exploiting both the interpretation of continued fractions as symbolic
 dynamics for the geodesic flow on the modular surface, and the
 projective duality between the hyperbolic plane and the de Sitter space.
 
-</div>
 
-</div>

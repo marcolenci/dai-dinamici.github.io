@@ -5,7 +5,7 @@ date = "2020-11-11 15:00:18"
 slug = "isaia-nisoli-universidade-federal-de-rio-de-janeiro-brazil"
 title = "Isaia Nisoli  (Universidade Federal do Rio de Janeiro, Brazil)"
 +++
-<div class="tribe-events-single-event-description tribe-events-content">
+
 
 *Speaker:* **Isaia Nisoli**  (Universidade Federal do Rio de Janeiro,
 Brazil)
@@ -23,8 +23,6 @@ strictly connected with non-uniform hyperbolicity and the coexistence of
 regions of expansion and contraction in phase space; the result is
 attained through a result on the continuity of the Lyapunov exponent of
 the stationary measure with respect to the size of the noise.
-
-</div>
 
 **NOTE:** *The seminar will be streamed live on our [YouTube
 channel](https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg) then

@@ -6,39 +6,19 @@ slug = "ph-d-studentships-at-loughborough"
 title = "Ph.D. Studentships at Loughborough"
 +++
 
-<div>
+
 
 **Ph.D. Studentships at Loughborough University**
-
-</div>
-
-<div>
 
 **Title: **Rare Events in Dynamical Systems via Transfer Operator
 Techniques
 
-</div>
-
-<div>
-
-**Supervisor:** Wael Bahsoun (<W.Bahsoun@lboro.ac.uk>; phone
+**Supervisor:** Wael Bahsoun ([W.Bahsoun@lboro.ac.uk](W.Bahsoun@lboro.ac.uk); phone
 +44-15-09-222883).
-
-</div>
-
-<div>
 
 **Nature of work:** Theory
 
-</div>
-
-<div>
-
 **Area:** Mathematics: Ergodic Theory and Dynamical Systems
-
-</div>
-
-<div>
 
 **Brief description:** The study of rare events in dynamical systems is
 currently one of the most active branches of research in ergodic theory.
@@ -50,34 +30,14 @@ goal of the project is to use spectral techniques (via the so called
 Perron-Frobenius operator) to approximate escape rates in open systems
 and to compute the Hausdorff dimension of survival sets.
 
-</div>
-
-<div>
-
 **How to apply:**
 
-</div>
-
-<div>
-
 All applications should be made online
-at <http://www.lboro.ac.uk/study/apply/research/>.  Under programme
+at [http://www.lboro.ac.uk/study/apply/research/](http://www.lboro.ac.uk/study/apply/research/).  Under programme
 name, select ‘Mathematical Sciences’. Please quote reference number:
- MA/WB/2018. Closing date of advert: **16<sup>th</sup> February 2018.**
-
-</div>
-
-<div>
-
-</div>
-
-<div>
+ MA/WB/2018. Closing date of advert: **16[sup](sup)th[/sup](/sup) February 2018.**
 
 **Funding and eligibility:**
-
-</div>
-
-<div>
 
 The studentships are open to UK/EU graduates with backgrounds in
 relevant disciplines and who are articulate, well qualified and highly
@@ -88,23 +48,11 @@ the studentship will be used towards the cost of the International
 tuition fee in the first instance.  Please see individual studentship
 funding criteria for full details and eligibility conditions.
 
-</div>
-
-<div>
-
 Funded studentships will be awarded on a competitive basis across the
 projects to successful applicants who have applied for the
 above-mentioned projects.
 
-</div>
-
-<div>
-
 Successful candidates will be expected to register for
-1<sup>st</sup> October 2018 or as soon as possible thereafter.
+1[sup](sup)st[/sup](/sup) October 2018 or as soon as possible thereafter.
 
-</div>
 
-<div>
-
-</div>

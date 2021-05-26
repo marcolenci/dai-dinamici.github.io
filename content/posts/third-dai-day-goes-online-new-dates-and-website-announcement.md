@@ -15,6 +15,6 @@ announced](https://www.dinamici.org/third-dai-day-save-the-date/).
 
 A website with the program of the event and all related information
 (including a link to download the poster) is up:
-<http://daiday2020.unisalento.it>
+[http://daiday2020.unisalento.it](http://daiday2020.unisalento.it)
 
 See you all online!

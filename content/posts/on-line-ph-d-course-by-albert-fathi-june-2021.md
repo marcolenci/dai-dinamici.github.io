@@ -39,4 +39,4 @@ downloading the app, but directly via browser):
 Department Project MATH@TOV CUP E83C18000100006*   
   
 For any information, please feel free to contact Alfonso Sorrentino
-(<sorrentin@mat.uniroma2.it>)
+([sorrentin@mat.uniroma2.it](sorrentin@mat.uniroma2.it))

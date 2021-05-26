@@ -6,18 +6,12 @@ slug = "bandi-di-concorso-per-ricercatore-a-tempo-indeterminato"
 title = "Bandi di concorso per ricercatore a tempo indeterminato"
 +++
 
-<div class="gmail_default">
+
 
 E’ stato pubblicato il bando 368.15 per l'Area strategica Matematica
 Applicata per l’assunzione, con contratto di lavoro a tempo pieno e
 indeterminato, di n. 2 unità di personale con il profilo di Ricercatore,
 presso strutture del Consiglio Nazionale delle Ricerche con sede in una
 delle seguenti città: Pavia, Roma.
-
-</div>
-
-<div class="gmail_default">
-
-</div>
 
 <http://150.146.18.54/iacsite/index.php?page=list_events_new&cod=604>

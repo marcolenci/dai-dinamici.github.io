@@ -37,7 +37,6 @@ PI by e-mail <erc-chaos@math.cnrs.fr>.
 
 The applications are accepted until the position is filled. To receive
 full consideration applications and letters of recommendation should
-arrive before <span class="aBn" tabindex="0"
-term="goog_1350230096"><span class="aQJ">1 January 2018</span></span>.
+arrive before 1 January 2018.
 
-**Website:** <https://www.mathjobs.org/jobs/jobs/11145>
+**Website:** [https://www.mathjobs.org/jobs/jobs/11145](https://www.mathjobs.org/jobs/jobs/11145)

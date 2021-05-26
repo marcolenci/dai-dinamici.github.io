@@ -18,17 +18,14 @@ The official advertisement can be found here:
 <http://www.uva.nl/en/research/phd/phd-vacancies/item/16-056_2-phd-candidates-in-analysis.html>
 
 The positions are for 4 years and should lead to a Ph.D. thesis. They
-should start no later than <span class="aBn" tabindex="0"
-term="goog_941739871"><span class="aQJ">1 September 2016</span></span>
-for project I and no later than <span class="aBn" tabindex="0"
-term="goog_941739872"><span class="aQJ">1 August 2016</span></span> for
+should start no later than 1 September 2016
+for project I and no later than 1 August 2016 for
 project II.
 
-The application deadline for these positions is <span class="aBn"
-tabindex="0" term="goog_941739873"><span class="aQJ">31 March
-2016</span></span>.
+The application deadline for these positions is 31 March
+2016.
 
 For additional information please contact prof. dr. Ale Jan Homburg
-(<a.j.homburg@uva.nl>) or dr. Han Peters (<h.peters@uva.nl>)
+([a.j.homburg@uva.nl](a.j.homburg@uva.nl)) or dr. Han Peters ([h.peters@uva.nl](h.peters@uva.nl))
 
  

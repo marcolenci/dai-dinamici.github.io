@@ -14,4 +14,4 @@ SNSF grant “Ergodic and spectral properties of surface flows”.
 Deadline: January 5, 2020
 
 For more information visit the website
-<https://www.mathjobs.org/jobs/jobs/15253>
+[https://www.mathjobs.org/jobs/jobs/15253](https://www.mathjobs.org/jobs/jobs/15253)

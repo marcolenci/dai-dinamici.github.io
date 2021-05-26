@@ -14,4 +14,4 @@ Problem
 **Deadline for application**: 20 May 2019
 
 **Info** (in Italian) and **application form** (Italian and English):
-<https://www.math.unipd.it/it/news/?id=2437>
+[https://www.math.unipd.it/it/news/?id=2437](https://www.math.unipd.it/it/news/?id=2437)

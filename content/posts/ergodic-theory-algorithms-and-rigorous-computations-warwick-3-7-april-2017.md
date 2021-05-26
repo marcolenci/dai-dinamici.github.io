@@ -13,8 +13,6 @@ Warwick, 3-7 April 2017
 **Organising Committee:** W.Bahsoun (Loughborough), S.Galatolo (Pisa),
 M.Pollicott (Warwick), B.Saussol (Brest) and S.Vaienti (Toulon)
 
-<div>
-
 **Local Organisers**: W.Bahsoun and M.Pollicott
 
 **Confirmed Speakers**: Viviane Baladi (MJ-PRG, CNRS) Michael Dellnitz
@@ -24,8 +22,6 @@ Froyland (New South Wales) Georg Gottwald (Sydney) Sébastien Gouëzel
 Padberg-Gehle (Dresden) Carlangelo Liverani (Rome II) Ian Melbourne
 (Warwick) Francoise Pene (Brest) Cecilia González-Tokman (Queensland)
 Warwick Tucker (Uppsala) Polina Vytnova (QM-UL)
-
-</div>
 
 *This meeting is supported by a Leverhulme Trust Network grant.*
 

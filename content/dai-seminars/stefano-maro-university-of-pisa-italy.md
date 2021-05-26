@@ -5,7 +5,7 @@ date = "2020-11-03 21:29:00"
 slug = "stefano-maro-university-of-pisa-italy"
 title = "Stefano Marò (Università di Pisa, Italy)"
 +++
-<div class="tribe-events-single-event-description tribe-events-content">
+
 
 *Speaker:* **Stefano Marò**  (Università di Pisa, Italy)
 
@@ -24,8 +24,6 @@ boundary for which the billiard map admits invariant probability
 measures with positive metric entropy. The proof relies on variational
 techniques based on Aubry-Mather theory. Joint work with Claudio
 Bonanno.
-
-</div>
 
 **NOTE:** *The seminar will be streamed live on our [YouTube
 channel](https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg) then

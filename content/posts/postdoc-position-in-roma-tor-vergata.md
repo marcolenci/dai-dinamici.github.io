@@ -16,4 +16,4 @@ Information and instructions to apply can be found at
 
 <http://web.uniroma2.it/module/name/Content/newlang/italiano/action/showpage/navpath/RIC/content_id/46403/section_id/4992>
 
-For more information, please write to <arosio@mat.uniroma2.it>.
+For more information, please write to [arosio@mat.uniroma2.it](arosio@mat.uniroma2.it).

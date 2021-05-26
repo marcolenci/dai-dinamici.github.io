@@ -6,14 +6,14 @@ slug = "ictp-indam-research-in-pairs-in-mathematics"
 title = "ICTP-INdAM Research in Pairs in Mathematics"
 +++
 
-<div class="content">
+
 
 ICTP and the Istituto Nazionale di Alta Matematica (INdAM) have launched
 a joint program of "Research in Pairs" aimed to fund research project in
 Mathematics to be carried out in collaboration between mathematicians
 from developing countries and INdAM members either at ICTP in Trieste or
 in any research unit of INdAM (see the list at
-<http://www.altamatematica.it/it/node/43>).
+[http://www.altamatematica.it/it/node/43](http://www.altamatematica.it/it/node/43)).
 
 Applications must be submitted using the online system
 <https://e-applications.ictp.it/applicant/login/math_pairs>; the
@@ -52,28 +52,12 @@ a final report.
 **Contacts:**
 
 Secretariat: Mabilo Koutou Telephone: +39-040-2240455 E-mail:
-<math@ictp.it>ICTP Mathematics Section on Facebook
+[math@ictp.it](math@ictp.it)ICTP Mathematics Section on Facebook
 
 **Deadline: 15 September 2016**
 
-<div class="field field-type-date field-field-scadenza-bando">
-
-<div class="field-items">
-
-<div class="field-item odd">
-
 **More info:**
 
-</div>
+[http://www.altamatematica.it/it/node/515](http://www.altamatematica.it/it/node/515)
 
-<div class="field-item odd">
 
-<http://www.altamatematica.it/it/node/515>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

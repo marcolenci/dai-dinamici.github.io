@@ -9,8 +9,8 @@ title = "Postdoc at Exeter"
 **Postdoctoral position in Dynamical Systems at the University of
 Exeter**
 
-This post is available from <span term="goog_753984452">01 November
-2017</span> for 36 months to support the work of Mark Holland.
+This post is available from 01 November
+2017 for 36 months to support the work of Mark Holland.
 
 The University of Exeter is a Russell Group university that combines
 world-class research with very high levels of student satisfaction.
@@ -53,7 +53,7 @@ please [click
 here.](http://www.admin.ex.ac.uk/personnel/jobs/P58224.pdf)
 
 For further information please contact Mark Holland by
-e-mail <m.p.holland@exeter.ac.uk>
+e-mail [m.p.holland@exeter.ac.uk](m.p.holland@exeter.ac.uk)
 
 The College is working towards department Silver Athena SWAN awards as a
 commitment to providing equality of opportunity and advancing the

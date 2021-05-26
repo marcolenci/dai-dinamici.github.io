@@ -23,11 +23,11 @@ information from the PhD School Coordinator.
 > the call for these positions will open in June, it will be announced
 > on our webpage
 >
-> <http://www.dm.unipi.it/webnew/en/dottorato/phd>
+> [http://www.dm.unipi.it/webnew/en/dottorato/phd](http://www.dm.unipi.it/webnew/en/dottorato/phd)
 >
 > and on the university webpage
 >
-> <http://dottorato.unipi.it/index.php/en/>
+> [http://dottorato.unipi.it/index.php/en/](http://dottorato.unipi.it/index.php/en/)
 >
 > Moreover students from abroad can also apply to the following program:
 >

@@ -5,13 +5,13 @@ date = "2020-06-18 11:00:20"
 slug = "francoise-pene-universite-de-bretagne-occidentale-france"
 title = "Françoise Pène  (Université de Bretagne Occidentale, France)"
 +++
-<div class="tribe-events-single-event-description tribe-events-content">
+
 
 *Speaker:* **Françoise Pène**  (Université de Bretagne Occidentale,
 France)
 
-*Title: **<span class="im">Invariance by induction of the asymptotic
-variance</span>***
+*Title: **Invariance by induction of the asymptotic
+variance***
 
 *Abstract:* It is well known that the integral of an observable is
 preserved by induction. We are interested here in extensions of this
@@ -26,4 +26,4 @@ the Green-Kubo formula for the induced system. Under general assumptions
 preserved by induction and that the natural third order quantity is
 preserved up to an error term. This is joint work with Damien Thomine.
 
-</div>
+

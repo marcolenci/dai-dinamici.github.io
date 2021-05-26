@@ -11,12 +11,6 @@ Wednesday, 14th December 2016, 14:30 - 15:30
 
 Title: "Small divisor problems: some old and new open problems"
 
-<div>
-
-<div>
-
 Venue:  Luigi Stasi Seminar Room, ICTP.
 
-</div>
 
-</div>

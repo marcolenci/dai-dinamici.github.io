@@ -16,7 +16,7 @@ wind-tree models, and her seminal work on higher genus generalizations
 of Markov and Lagrange spectra.
 
 You can find the list of Corinna's prize papers
-at <https://math.psu.edu/dynsys/Brinprize> or  <https://www-math.umd.edu/dynamics-conference.html>
+at [https://math.psu.edu/dynsys/Brinprize](https://math.psu.edu/dynsys/Brinprize) or  <https://www-math.umd.edu/dynamics-conference.html>
 
 The award ceremony was planned for 18/04/2020 as part of the 2020
 Maryland Spring dynamical systems conference, which has been canceled.

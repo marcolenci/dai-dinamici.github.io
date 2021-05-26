@@ -17,12 +17,12 @@ ergodic theory, locally homogeneous spaces.
 
 Applications should be uploaded (as PDFs) by** September 30, 2020 **to
 
-<https://facultyrecruiting.epfl.ch/positiondetails/23691270>
+[https://facultyrecruiting.epfl.ch/positiondetails/23691270](https://facultyrecruiting.epfl.ch/positiondetails/23691270)
 
 Enquiries may be addressed to:  
 **Prof. Victor Panaretos**  
 Chair of the Search Committee  
-**E-mail**: <direction.math@epfl.ch>
+**E-mail**: [direction.math@epfl.ch](direction.math@epfl.ch)
 
 For additional information, please
 consult [www.epfl.ch](https://www.epfl.ch/), [sb.epfl.ch](https://www.epfl.ch/schools/sb/), [math.epfl.ch](https://www.epfl.ch/schools/sb/research/math/)

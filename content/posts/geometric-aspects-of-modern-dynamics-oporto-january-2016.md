@@ -7,11 +7,10 @@ title = "\"Geometric Aspects of Modern Dynamics\", Oporto, January 2016"
 +++
 
 The conference "Geometric Aspects of Modern Dynamics" will be held in
-Oporto (Portugal) from <span class="aBn" tabindex="0"
-term="goog_1057806277"><span class="aQJ">January 11 until 15,
-2016</span></span>:
+Oporto (Portugal) from January 11 until 15,
+2016:
 
-<http://cmup.fc.up.pt/complexdynamics/>
+[http://cmup.fc.up.pt/complexdynamics/](http://cmup.fc.up.pt/complexdynamics/)
 
 Organizing Committee: Jasmin Raissy (U. Toulouse, France) Helena Reis
 (U. Porto, Portugal)

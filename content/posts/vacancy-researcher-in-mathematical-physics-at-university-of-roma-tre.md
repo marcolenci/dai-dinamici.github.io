@@ -14,8 +14,7 @@ scientifico-disciplinare di FISICA-MATEMATICA (MAT-07)
 La scadenza del bando è fissato al 2 agosto 2018. Per maggiori dettagli
 si può consultare il bando:
 
-<span
-style="font-size: small;"><https://www.albopretorionline.it/uniroma/alboente.aspx?ida=533226></span>
+[https://www.albopretorionline.it/uniroma/alboente.aspx?ida=533226](https://www.albopretorionline.it/uniroma/alboente.aspx?ida=533226)
 
  
 
@@ -30,6 +29,5 @@ The application deadline is August 2, 2018.
 
 For more information, see the job advertisement at
 
-<span
-style="font-size: small;"><https://www.albopretorionline.it/uniroma/alboente.aspx?ida=533226>
-</span>
+[https://www.albopretorionline.it/uniroma/alboente.aspx?ida=533226](https://www.albopretorionline.it/uniroma/alboente.aspx?ida=533226)
+

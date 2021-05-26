@@ -22,7 +22,7 @@ Geometry of Discrete Subgroups of Lie Groups **Secondary Subjects:**
 Fuchsian groups, Moduli Spaces, Thermodynamical formalism, Higgs
 bundles, ...
 
-Applications should be sent to <olivier.guichard@math.unistra.fr> and
-<francois.labourie@math.unice.fr> and include a curriculum vitae, a list
+Applications should be sent to [olivier.guichard@math.unistra.fr](olivier.guichard@math.unistra.fr) and
+[francois.labourie@math.unice.fr](francois.labourie@math.unice.fr) and include a curriculum vitae, a list
 of publication, a motivation letter with a research statement, as well
 as 3 or 4 reference names.

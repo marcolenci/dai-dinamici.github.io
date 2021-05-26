@@ -10,7 +10,7 @@ Applications are invited for a postdoctoral position in Ergodic Theory
 and Dynamical Systems within the project Non Uniform Hyperbolicity in
 Global Dynamics of Sylvain Crovisier funded by the ERC.
 
-\- Beginning: september 2019 - Length: 24 months - Location: Laboratoire
+- Beginning: september 2019 - Length: 24 months - Location: Laboratoire
 de Mathématiques d’Orsay, Université Paris-Sud 11, France - Teaching: no
 teaching load - Income: the salary is about 2 100 euros per month
 

@@ -15,4 +15,4 @@ Supervisor: Gabriella Pinzari
 
 Deadline: 5 October 2017
 
-Info (in Italian): <http://www.math.unipd.it/it/news/?id=2076>
+Info (in Italian): [http://www.math.unipd.it/it/news/?id=2076](http://www.math.unipd.it/it/news/?id=2076)

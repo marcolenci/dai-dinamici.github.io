@@ -6,9 +6,7 @@ title = "Welcome!"
 The **DinAmicI** are a group of Italian and adoptive Italian researchers
 in dynamical systems.
 
-
 ![DINAMICI_2_2](static/DINAMICI_2_2.gif)
-
 
 If you do research in dynamical systems and have anything to do with
 Italy (nationality, residence, current or past positions in Italian

@@ -7,11 +7,10 @@ title = "PhD positions at GSSI"
 +++
 
 The Gran Sasso Science Institute (GSSI) has opened a new call for PhD
-applications (**deadline <span term="goog_260835792">31 May
-2017</span>**).
+applications (**deadline 31 May
+2017**).
 
-**40 positions (all with fellowship)** are available starting from <span
-term="goog_260835793">1 November 2017</span> in:
+**40 positions (all with fellowship)** are available starting from 1 November 2017 in:
 
 -   **Astroparticle Physics**
 -   **Mathematics in** **Natural, Social and Life Sciences**
@@ -26,7 +25,7 @@ interdisciplinary environment.
 You can find details on the application procedure in the web page at 
 [www.gssi.it](http://www.gssi.it)
 
-<u>What we offer to our students</u> We want our students get the best
+[u](u)What we offer to our students[/u](/u) We want our students get the best
 possible experience during their time at the Gran Sasso Science
 Institute. We provide them **free housing plus the standard three years
 PhD grant**. Recreational and cultural services will be offered.

@@ -17,11 +17,10 @@ and pseudo-randomness” is available at the Scuola Normale Superiore in
 Pisa.
 
 PhD students can also apply, provided they obtain their PhD no later
-than <span class="aBn"><span class="aQJ">31st december
-2016</span></span>.
+than 31st december
+2016.
 
-\*Deadline for application is <span class="aBn"><span
-class="aQJ">September 26th 2016</span></span>.\*
+\*Deadline for application is September 26th 2016.\*
 
 The annual gross remuneration is around 32,000 Euros, corresponding to a
 monthly salary of approximately 2,000 Euros.

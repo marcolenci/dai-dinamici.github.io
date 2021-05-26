@@ -10,7 +10,7 @@ A website for our upcoming INdAM Workshop
 
 **DinAmicI V Modern Trends in the Ergodic Theory of Dynamical Systems**
 
-is up and running: <http://dinamici5.dm.unibo.it/>
+is up and running: [http://dinamici5.dm.unibo.it/](http://dinamici5.dm.unibo.it/)
 
 We encourage you to visit the site, download the workshop's wonderful
 poster and post it somewhere in your institution. *(Warning: the poster

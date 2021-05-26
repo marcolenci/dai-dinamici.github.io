@@ -22,4 +22,4 @@ Further details on the application and the ITN project may be found at
 [http://www.multiscale.systems/PDF\_files/jobs12.pdf](http://www.multiscale.systems/PDF_files/jobs12.pdf%0A).
 
 Informal inquiries regarding the position should be directed to
-<ckuehn@ma.tum.de>.
+[ckuehn@ma.tum.de](ckuehn@ma.tum.de).

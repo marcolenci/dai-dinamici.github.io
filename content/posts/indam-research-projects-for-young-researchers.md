@@ -20,6 +20,6 @@ position, which might be filled by the applicant him/herself. Each
 proposal must indicate an institution of reference, among [those
 recognized by INdAM](http://www.altamatematica.it/it/node/43).
 
-More info (in Italian): <http://www.altamatematica.it/it/node/549>
+More info (in Italian): [http://www.altamatematica.it/it/node/549](http://www.altamatematica.it/it/node/549)
 
 Deadline: May 11, 2017

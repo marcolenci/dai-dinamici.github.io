@@ -28,4 +28,4 @@ The following short courses are planned:
 -   **Linearly recurrent systems** (Valérie Berthé - Univ. Paris
     Diderot)
 
-For further information visit <https://www.math.uh.edu/dynamics/school/>
+For further information visit [https://www.math.uh.edu/dynamics/school/](https://www.math.uh.edu/dynamics/school/)

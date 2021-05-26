@@ -20,6 +20,4 @@ More info at: <https://cofund.altamatematica.it/dp-2015/main/website>
 
  
 
-<div canvas-width="67.39178102792526">
 
-</div>

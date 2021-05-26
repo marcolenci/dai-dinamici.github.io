@@ -20,16 +20,13 @@ experience) of their career and must not have been awarded a doctoral
 degree yet. They must also be in possession of a degree, which formally
 entitles them to embark in a Doctorate in Italy.
 
-DEADLINE FOR SUBMISSION OF PROPOSALS: <span class="aBn"><span
-class="aQJ">5pm</span></span> on <span class="aBn"><span class="aQJ">31
-May 2018</span></span>, Rome local time.
+DEADLINE FOR SUBMISSION OF PROPOSALS: 5pm on 31
+May 2018, Rome local time.
 
 DEADLINE FOR SUBMISSION OF THE DEGREE/DIPLOMA WHICH ALLOWS TO EMBARK IN
-THE DOCTORATE: for EU Citizens: <span class="aBn"><span
-class="aQJ">5pm</span></span> on <span class="aBn"><span class="aQJ">30
-September 2018</span></span>, Rome local time; for non-EU
-Citizens: <span class="aBn"><span class="aQJ">5pm</span></span> on <span
-class="aBn"><span class="aQJ">31 May 2018</span></span>, Rome local
+THE DOCTORATE: for EU Citizens: 5pm on 30
+September 2018, Rome local time; for non-EU
+Citizens: 5pm on 31 May 2018, Rome local
 time.
 
 All fellowships are of type Incoming: at the deadline for submission of

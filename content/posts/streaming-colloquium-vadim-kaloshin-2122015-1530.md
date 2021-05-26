@@ -6,20 +6,14 @@ slug = "streaming-colloquium-vadim-kaloshin-2122015-1530"
 title = "Streaming Colloquium Vadim Kaloshin (2/12/2015, 15:30)"
 +++
 
-<div id=":c6a" class="ii gt m1515eadff304fb9b adP adO">
 
-<div id=":c6b" class="a3s">
-
-<div dir="ltr">
-
-<div class="gmail_quote">
 
 We announce that the COLLOQUIUM at the Department of Mathematics,
 University of Roma Tor Vergata, by Prof. Vadim Kaloshin, University of
 Maryland (USA), will be available on Wednesday, December 2, at 15:30,
 live on streaming at
 
-<https://www.youtube.com/watch?v=qVLqwZFvUU4>
+[https://www.youtube.com/watch?v=qVLqwZFvUU4](https://www.youtube.com/watch?v=qVLqwZFvUU4)
 
 The title of the talk is:
 
@@ -47,24 +41,6 @@ mathematical results, where existence of iffusing orbitss shown. This
 work is based on joint papers with O. Castejon, M. Guardia, J. Zhang,
 and K. Zhang.
 
-<div class="yj6qo ajU">
-
-<div id=":3md" class="ajR">
-
 <img src="https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif" class="ajT" />
 
-</div>
 
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div id=":c4l" class="hq gt a10">
-
-</div>

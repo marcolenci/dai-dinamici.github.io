@@ -56,11 +56,11 @@ cover letter in which you describe your motivation, a curriculum vitae,
 a research statement, and the names and e-mail addresses of
 three references.
 
-**<u>Applications received by e-mail will not be processed.</u>**
+**[u](u)Applications received by e-mail will not be processed.[/u](/u)**
 
 **Vacancy questions**  
 If you have any questions regarding this vacancy, you may contact:
 
 Name: Jan Bouwe van den Berg  
 Position: Professor of Mathematics  
-E-mail: <janbouwe.vanden.berg@vu.nl>
+E-mail: [janbouwe.vanden.berg@vu.nl](janbouwe.vanden.berg@vu.nl)

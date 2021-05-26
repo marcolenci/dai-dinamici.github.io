@@ -13,7 +13,7 @@ systems*“.
 
 More information and the official call (with English version) can be
 found at: 
-<https://www.unipi.it/ateneo/bandi/assegni/2020/mat/02042020/index.htm>
+[https://www.unipi.it/ateneo/bandi/assegni/2020/mat/02042020/index.htm](https://www.unipi.it/ateneo/bandi/assegni/2020/mat/02042020/index.htm)
 
 Applications should be received by April 2, 2020.
 

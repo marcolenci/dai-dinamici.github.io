@@ -26,31 +26,23 @@ in the Mathematics selection process.
 
 The application must include the following documents:
 
-<div class="wp-block-group">
+- a curriculum vitae, including the complete list of publications;
 
-<div class="wp-block-group__inner-container">
+- a research statement;
 
-\- a curriculum vitae, including the complete list of publications;
-
-\- a research statement;
-
-\- up to three selected publications which will be evaluated
+- up to three selected publications which will be evaluated
 individually. The PhD thesis can be included, because it is considered a
 publication;
 
-\- a valid ID document.
-
-</div>
-
-</div>
+- a valid ID document.
 
 The candidate can also suggest the names of up to two external referees
 who will be contacted by GSSI for the submission of a reference letter
 once the application has been submitted.
 
 Applications are sent exclusively via the online application form at:
-<https://applications.gssi.it/postdoc>.
+[https://applications.gssi.it/postdoc](https://applications.gssi.it/postdoc).
 
 **Deadline for application:** March 18, 2021 - 5 p.m. (Italian time).
 
-For additional information please contact  <applications@gssi.it>.
+For additional information please contact  [applications@gssi.it](applications@gssi.it).

@@ -11,6 +11,6 @@ title = "INdAM Travel Grants"
 Deadline: June 15, 2017
 
 Announcement and application form (in Italian):
-<http://www.altamatematica.it/it/node/551>
+[http://www.altamatematica.it/it/node/551](http://www.altamatematica.it/it/node/551)
 
  

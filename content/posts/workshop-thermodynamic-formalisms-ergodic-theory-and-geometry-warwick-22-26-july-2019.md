@@ -24,4 +24,4 @@ and to request that the organisers arrange accommodation is **14 April
 
 The final deadline for registration is **2 June 2019**.  
   
-Please send any queries to <richard.j.sharp@gmail.com>
+Please send any queries to [richard.j.sharp@gmail.com](richard.j.sharp@gmail.com)

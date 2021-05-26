@@ -11,10 +11,10 @@ dynamical systems at Loughborough University, UK:
 
 <https://vacancies.lboro.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID%3d2538536IOU%1BUSESSION=0FB51543F51C4220B475A68B31B63BDC&WVID=5913100PrZ&LANG=USA>
 
-Deadline to apply: <span tabindex="0" term="goog_461506471">13 January
-2016</span>
+Deadline to apply: 13 January
+2016
 
-(Skype) Interviews: <span tabindex="0" term="goog_461506472">26 January
-2016</span>
+(Skype) Interviews: 26 January
+2016
 
-Start date: <span tabindex="0" term="goog_461506473">1 May 2016</span>
+Start date: 1 May 2016

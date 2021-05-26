@@ -13,4 +13,4 @@ of July 2019 (or few days later, if needed). To apply, follow the
 link:  
 <https://www.lboro.ac.uk/study/postgraduate/research-degrees/funded/statistical-aspects-randomly-perturbed-dynamical/>
 
-Send any questions to <w.bahsoun@lboro.ac.uk>
+Send any questions to [w.bahsoun@lboro.ac.uk](w.bahsoun@lboro.ac.uk)

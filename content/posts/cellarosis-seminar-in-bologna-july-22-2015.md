@@ -19,5 +19,5 @@ Abstract: I will present an overview of Sarnak’s conjecture on the
 disjointness of the Möbius function from any deterministic sequence and
 the related Chowla’s conjecture on the self-correlations of the Möbius
 function. Some progress towards weaker versions of these conjectures
-have been made recently, and I plan<span class="truncate_more"> to
-illustrate them</span>.
+have been made recently, and I plan to
+illustrate them.

@@ -9,7 +9,7 @@ title = "\"Renormalization in Dynamics\" - Pisa, April 2016"
 The conference "Renormalization in Dynamics" will be held in Pisa, from
 April 4 until 8, 2016.
 
-For all information see <http://www.crm.sns.it/event/360/>
+For all information see [http://www.crm.sns.it/event/360/](http://www.crm.sns.it/event/360/)
 
 There will be financial support for PhD students and young PostDocs. The
 deadline for application is 15th January 2016.

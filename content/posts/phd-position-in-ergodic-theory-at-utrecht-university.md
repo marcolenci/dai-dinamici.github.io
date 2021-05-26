@@ -36,6 +36,6 @@ systems and to provide a new approach, with the help of matching, to
 relate non-isomorphic systems that exhibit similar matching phenomena
 and to extract information from one system to the other.*
 
-Interested people can contact Prof. Karma Dajani at <k.dajani1@uu.nl>,
+Interested people can contact Prof. Karma Dajani at [k.dajani1@uu.nl](k.dajani1@uu.nl),
 and send her a CV, grade list, a small motivation letter and names of
 two references.

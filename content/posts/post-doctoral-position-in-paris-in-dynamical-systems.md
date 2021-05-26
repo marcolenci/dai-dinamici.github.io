@@ -16,10 +16,6 @@ This is a **two-year post-doctoral position** funded by the [European
 Research Council](http://erc.europa.eu/) (PI: Pierre Berger) via the
 French [CNRS](http://www.cnrs.fr/index.php).
 
-<div class="wp-block-group">
-
-<div class="wp-block-group__inner-container">
-
 -   **No teaching** requirements for this position.
 -   The starting date of is flexible.
 -   The salary is approximately 3000 euros/month before taxes.
@@ -27,26 +23,14 @@ French [CNRS](http://www.cnrs.fr/index.php).
     will be provided. Further funds are available for the invitation of
     collaborators.
 
-</div>
-
-</div>
-
 Applications must be submitted
 through [Mathjobs](https://www.mathjobs.org/jobs/list/16593) and should
 include:
-
-<div class="wp-block-group">
-
-<div class="wp-block-group__inner-container">
 
 -   CV + list of publications;
 -   research statement/project including description of past work (max 6
     pages);
 -   three reference letters.
-
-</div>
-
-</div>
 
 The review of applications will begin on **December 20, 2020**. Late
 applications will be considered.

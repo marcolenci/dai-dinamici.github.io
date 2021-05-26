@@ -28,10 +28,10 @@ be expected to travel and present at conferences and undertake
 secondments with industrial and/or academic partners overseas.
 
 Informal enquiries may be made to Prof. Gennady Mishuris
-(<ggm@aber.ac.uk>) or to Prof. Simon Cox (<sxc@aber.ac.uk>).
+([ggm@aber.ac.uk](ggm@aber.ac.uk)) or to Prof. Simon Cox ([sxc@aber.ac.uk](sxc@aber.ac.uk)).
 
 Further information about the department:
-<http://www.aber.ac.uk/en/maths/>
+[http://www.aber.ac.uk/en/maths/](http://www.aber.ac.uk/en/maths/)
 
 Details of the research interests of staff:
-<http://www.aber.ac.uk/en/maths/research/mathematicalmodelling/>
+[http://www.aber.ac.uk/en/maths/research/mathematicalmodelling/](http://www.aber.ac.uk/en/maths/research/mathematicalmodelling/)

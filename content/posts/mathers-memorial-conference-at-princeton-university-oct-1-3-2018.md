@@ -11,7 +11,7 @@ Dear colleagues,
 on October 1st - 3rd 2018, it will be held at Princeton University a
 meeting in tribute to the memory of John N. Mather (1942-2017):
 
-<http://web.math.princeton.edu/conference/mather/>
+[http://web.math.princeton.edu/conference/mather/](http://web.math.princeton.edu/conference/mather/)
 
 Here is a list of speakers, who have accepted to give lectures on John's
 fundamental contributions to many areas of mathematics:
@@ -23,7 +23,7 @@ L. Polterovich (Tel Aviv University) A. Sorrentino  (Univ. of Rome Tor
 Vergata) D. Sullivan (Stony Brook Univ.)(
 
 The link for the registration is the following:
- <https://goo.gl/forms/KbrbSReUYy7bfLOJ3>
+ [https://goo.gl/forms/KbrbSReUYy7bfLOJ3](https://goo.gl/forms/KbrbSReUYy7bfLOJ3)
 
 We would be grateful if you could forward this announcement  to
 interested people.

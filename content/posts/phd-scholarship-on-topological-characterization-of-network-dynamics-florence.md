@@ -42,7 +42,7 @@ performed remotely via Skype or other services for foreign students
 (fair knowledge of English is required).
 
 For more information, feel free to contact the scholarship tutors
-Giacomo Innocenti (<giacomo.innocenti@unifi.it>) or Duccio Fanelli
-(<duccio.fanelli@unifi.it>) at any time.
+Giacomo Innocenti ([giacomo.innocenti@unifi.it](giacomo.innocenti@unifi.it)) or Duccio Fanelli
+([duccio.fanelli@unifi.it](duccio.fanelli@unifi.it)) at any time.
 
  

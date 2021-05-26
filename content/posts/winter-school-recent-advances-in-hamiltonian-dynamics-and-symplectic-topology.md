@@ -10,13 +10,13 @@ Winter school *"Recent advances in Hamiltonian dynamics and symplectic
 topology”, * February 12 to 16, 2018, University of Padova. For more
 information see:
 
-<https://events.math.unipd.it/hamschool2018>
+[https://events.math.unipd.it/hamschool2018](https://events.math.unipd.it/hamschool2018)
 
 The school will cover lodging expenses of a limited number of
 participants. Interested people are invited to send an e-mail to this
 address:
 
-<hamschool2018@gmail.com>
+[hamschool2018@gmail.com](hamschool2018@gmail.com)
 
 Organizing committee:
 

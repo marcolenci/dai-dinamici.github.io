@@ -13,21 +13,8 @@ Research activity: seen the development plan of the Mathematics Area,
 the research activity will focus on nonlinear analysis,  dynamical
 systems, and Hamiltonian equations.
 
-<div class="field-item even">
-
-**Deadline for Applications**: <span class="date-display-single"><span
-class="date-display-single">22/11/2018</span></span>
-
-</div>
-
-<div class="field-item even">
-
-<div class="field-item even">
+**Deadline for Applications**: 22/11/2018
 
 <https://www.sissa.it/bandi/procedura-selettiva-n1-ricercatore-tempo-determinato-della-durata-di-3-anni-con-regime>
-
-</div>
-
-</div>
 
 <http://bandi.miur.it/jobs.php/public/job/id_job/60107>

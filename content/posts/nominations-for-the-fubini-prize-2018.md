@@ -38,4 +38,4 @@ Sciences on October 4th 2018.
 
       \*\*\*\*\*\* Please submit your nominations before June 30th 2018.
 If you need more information, please contact Susanna Terracini
-(<susanna.terracini@unito.it>)
+([susanna.terracini@unito.it](susanna.terracini@unito.it))

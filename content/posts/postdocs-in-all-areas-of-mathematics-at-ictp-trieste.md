@@ -10,17 +10,16 @@ Every year, ICTP's [Mathematics
 section](https://www.ictp.it/research/math.aspx "MATH") offers research
 opportunities for outstanding mathematicians from developing countries,
 including postdoctorates. The section is now accepting applications for
-its Postdoctoral Fellowships; the deadline is **<span class="aBn"
-tabindex="0" term="goog_369722478"><span class="aQJ">7 January
-2018</span></span>**.
+its Postdoctoral Fellowships; the deadline is **7 January
+2018**.
 
 Postdoctoral Fellowships are intended for young mathematicians with a
 strong research record. Fellows must have completed a PhD in mathematics
 prior to the start of their fellowship. Women are particularly
 encouraged to apply. The fellowships have a 12-month duration with a
 possible extension for a further 12 months; the initial period will be
-<span class="aBn" tabindex="0" term="goog_369722479"><span class="aQJ">1
-September 2018 - 31 August 2019</span></span>. Candidates must apply
+1
+September 2018 - 31 August 2019. Candidates must apply
 using the [online
 application](https://e-applications.ictp.it/applicant/login/MP18).
 

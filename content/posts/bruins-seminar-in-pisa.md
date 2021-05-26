@@ -6,12 +6,10 @@ slug = "bruins-seminar-in-pisa"
 title = "Bruin's seminar in Pisa"
 +++
 
-<div class="entry-content">
+
 
 Thursday 12th November 2015, h 9:30 Sala Conferenze, Collegio Puteano,
 Centro De Giorgi, Pisa
-
-</div>
 
 Henk Bruin (University of Vienna)
 

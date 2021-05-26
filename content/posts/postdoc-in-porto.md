@@ -15,9 +15,8 @@ preferably obtained less than 6 years ago and have research experience
 in at least one of the main research areas of the project.
 
 The initial contract will be for 12 months, renewable for another 12
-months on mutual agreement. The expected starting date is <span
-class="aBn" tabindex="0" term="goog_1395295815"><span class="aQJ">May
-1</span></span>, 2017 though some flexibility may be possible. The
+months on mutual agreement. The expected starting date is May
+1, 2017 though some flexibility may be possible. The
 monthly salary is 1495 euros (tax free). There are no compulsory
 teaching duties associated with this position.
 
@@ -26,17 +25,15 @@ the University of Porto (Faculty of Sciences) and work under the
 supervision of one of the senior members of the project, Jorge Milhazes
 Freitas, Jorge Rocha, José Ferreira Alves or Maria Carvalho.
 
-Applications can be submitted from <span class="aBn" tabindex="0"
-term="goog_1395295816"><span class="aQJ">March 8, 2017</span></span> and
-the deadline is <span class="aBn" tabindex="0"
-term="goog_1395295817"><span class="aQJ">March 27, 2017</span></span>.
+Applications can be submitted from March 8, 2017 and
+the deadline is March 27, 2017.
 
-Applications should be sent by e-mail to <recrutamento@fc.up.pt> with
-copy to <jfalves@fc.up.pt>. They should contain the reference
+Applications should be sent by e-mail to [recrutamento@fc.up.pt](recrutamento@fc.up.pt) with
+copy to [jfalves@fc.up.pt](jfalves@fc.up.pt). They should contain the reference
 FCUP-PTDC/MAT-CAL/3884/2014-BPD in the subject field and include the
 following:
 
-\- Letter of motivation; - Proposed work plan (research statement); - CV
+- Letter of motivation; - Proposed work plan (research statement); - CV
 (including list of publications); - Copy of PhD certificate; - A
 physical address for correspondence; - Any other documents considered
 relevant by the applicant.
@@ -46,7 +43,7 @@ sent directly to the above e-mail addresses.
 
 For information about the project, please see the website:
 <https://cmup.fc.up.pt/main/content/probabilistic-methods-chaotic-dynamics>
-Questions can be addressed to José F. Alves &lt;<jfalves@fc.up.pt>&gt;.
+Questions can be addressed to José F. Alves &lt;[jfalves@fc.up.pt](jfalves@fc.up.pt)&gt;.
 
 \*Disclaimer:\*
 

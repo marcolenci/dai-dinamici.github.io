@@ -5,7 +5,7 @@ date = "2020-06-11 07:07:48"
 slug = "andreas-knauf-friedrich-alexander-universitat-erlangen-nurnberg-germany"
 title = "Andreas Knauf  (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany)"
 +++
-<div class="tribe-events-single-event-description tribe-events-content">
+
 
 *Speaker:* **Andreas Knauf** (Friedrich-Alexander-Universität
 Erlangen-Nürnberg, Germany)
@@ -26,4 +26,4 @@ ideas connected with the proof (Poincaré section techniques for
 wandering sets, non-deterministic particle systems, and walks on a poset
 of set partitions).
 
-</div>
+

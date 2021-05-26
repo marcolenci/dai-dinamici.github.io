@@ -7,8 +7,8 @@ title = "London Mathematical Laboratory Summer School 2018"
 +++
 
 Applications are invited for the London Mathematical Laboratory (LML)
-Summer School from <span term="goog_1891825280">Monday 23rd July –
-Friday 17th August 2018</span>. Successful applicants will carry out a
+Summer School from Monday 23rd July –
+Friday 17th August 2018. Successful applicants will carry out a
 four-week research project under supervision at LML. Travel to and from
 London, accommodation, and a stipend of £1,000 will be provided.
 

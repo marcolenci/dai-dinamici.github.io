@@ -8,8 +8,7 @@ title = "Perspectives in Hamiltonian Dynamics (Venice, June 18-22)"
 
 **"Perspectives in Hamiltonian dynamics"**
 
-will be held in Venice (Italy) <span class="aBn" tabindex="0"
-term="goog_568468145"><span class="aQJ">June 18-22 2018</span></span>,
+will be held in Venice (Italy) June 18-22 2018,
 funded by the homonym ERC project Stable and Chaotic Motions in the
 Planetary problem.
 
@@ -39,14 +38,12 @@ Roma) Dimitri Treschev (Steklov Mathematical Institute of Russian
 Academy of Sciences) Dimitri Turaev (Imperial College, London)
 
 If you wish to participate, please register by sending an e-mail to
-<venice2018@math.unipd.it> by <span class="aBn" tabindex="0"
-term="goog_568468146"><span class="aQJ">May 15, 2018</span></span>.
+[venice2018@math.unipd.it](venice2018@math.unipd.it) by May 15, 2018.
 
 We foresee a limited number of slots for contributed talks and will be
 able to cover local expenses for a limited number of young participants.
 To apply for contributed talk/financial support please register early in
-advance (before <span class="aBn" tabindex="0"
-term="goog_568468147"><span class="aQJ">April 30, 2018</span></span>)
+advance (before April 30, 2018)
 and mention it in the registration e-mail and include a short CV. The
 selection of contributed talks and of the financial support will be
 confirmed by e-mail.
@@ -54,9 +51,7 @@ confirmed by e-mail.
 Full information concerning the location and accommodation will follow.
 
 A tentative web-page including minimal information is here:
-[https://ercprojectpinzari.wordpress.com/conference-in-venice-18-<span
-class="aBn" term="goog_568468148"><span
-class="aQJ">22-june-2018</span></span>/](https://ercprojectpinzari.wordpress.com/conference-in-venice-18-22-june-2018/)
+[https://ercprojectpinzari.wordpress.com/conference-in-venice-18-22-june-2018/](https://ercprojectpinzari.wordpress.com/conference-in-venice-18-22-june-2018/)
 A full web-page is still under construction and will be publicized in a
 next announcement.
 

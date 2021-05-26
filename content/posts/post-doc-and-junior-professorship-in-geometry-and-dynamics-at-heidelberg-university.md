@@ -15,7 +15,7 @@ Mathematical Institute of Heidelberg University, starting in the fall of
 2021. The duration of the appointment is 2 years with a possible
 extension for a third year if funding is available.
 
-<https://www.mathjobs.org/jobs/list/16551>
+[https://www.mathjobs.org/jobs/list/16551](https://www.mathjobs.org/jobs/list/16551)
 
 The research station bundles fundamental research activities in geometry
 and dynamical systems and promotes interaction of these fields with
@@ -50,7 +50,7 @@ of six years. Provided that the general legal (German civil service law)
 and budgetary conditions are satisfied, the appointee can be granted
 temporary civil-servant status.
 
-<https://www.mathjobs.org/jobs/list/16508>
+[https://www.mathjobs.org/jobs/list/16508](https://www.mathjobs.org/jobs/list/16508)
 
 Position description: seeking a mathematician with a focus in Topology /
 Geometry in the broad sense. The professorship shall strengthen or

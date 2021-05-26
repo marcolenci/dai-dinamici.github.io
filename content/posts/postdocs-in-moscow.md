@@ -43,4 +43,4 @@ required.
 
 **Deadline for application:** February 9, 2021
 
-**All info at:** <https://math.hse.ru/mirror/pubs/share/428424926.pdf>
+**All info at:** [https://math.hse.ru/mirror/pubs/share/428424926.pdf](https://math.hse.ru/mirror/pubs/share/428424926.pdf)

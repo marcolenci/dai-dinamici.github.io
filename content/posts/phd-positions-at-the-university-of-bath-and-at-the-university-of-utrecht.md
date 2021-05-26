@@ -12,7 +12,7 @@ is Véronique Fischer. The student will be part of the project titled
 "*Quantum Limits for sub-elliptic operators*":  
 <https://www.findaphd.com/phds/project/quantum-limits-for-sub-elliptic-operators/?p122901>  
 As part of the same project there is also a call for Postdoc (Research
-Associate):  <https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=CC7693>  
+Associate):  [https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=CC7693](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=CC7693)  
 The deadline for both applications is Sunday, *September 13*, 2020.
 
 Another position is being advertised in contact and symplectic topology

@@ -6,35 +6,9 @@ slug = "workshop-mathematical-models-and-methods-in-earth-and-space-science-19-2
 title = "Workshop \"Mathematical Models and Methods in Earth and Space Science\", U. Rome Tor Vergata, 19-22 March 2019"
 +++
 
-<div class="gs">
 
-<div>
-
-<div id=":im" class="ii gt">
-
-<div class="a3s aXjCH" role="gridcell">
 
 The workshop
-
-</div>
-
-<div class="a3s aXjCH" role="gridcell">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="gs">
-
-<div>
-
-<div id=":im" class="ii gt">
-
-<div class="a3s aXjCH" role="gridcell">
 
 **"Mathematical Models and Methods in Earth and Space Science"**
 
@@ -64,33 +38,11 @@ Starck (CEA-Saclay, France) Emmanuel Trélat (Sorbonne Université - Paris
 6, France) Massimiliano Vasile (University of Strathclyde, UK)
 
 More information can be retrieved from the website:
-<http://www.mat.uniroma2.it/Progetto/mmmess19.php>
+[http://www.mat.uniroma2.it/Progetto/mmmess19.php](http://www.mat.uniroma2.it/Progetto/mmmess19.php)
 
 Participation is free, but registration is necessary (please, follow the
 instructions on the website). The deadline is 20th November 2018, but
 registration might be closed earlier, whenever the maximum capacity of
 the lecture room is reached.
 
-</div>
 
-</div>
-
-<div id=":za" class="hq gt a10">
-
-<div id=":z8" class="aQH">
-
-<div class="aZK">
-
-</div>
-
-</div>
-
-</div>
-
-<div class="hi">
-
-</div>
-
-</div>
-
-</div>

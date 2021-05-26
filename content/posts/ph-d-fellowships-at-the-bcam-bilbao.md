@@ -18,14 +18,13 @@ three-positions for PhD Fellowships in the center Research Lines:
 -   ML (supervisor: Jose Antonio Lozano)
 
 For further information visit the website:
-<http://www.bcamath.org/en/research/lines>
+[http://www.bcamath.org/en/research/lines](http://www.bcamath.org/en/research/lines)
 
 Applications must be submitted on-line at:
-<http://www.bcamath.org/en/research/job>
+[http://www.bcamath.org/en/research/job](http://www.bcamath.org/en/research/job)
 
-Deadline for submission: <span class="aBn" tabindex="0"
-term="goog_723917625"><span class="aQJ">March 30th 2016
-17:00</span></span> h  (CET)
+Deadline for submission: March 30th 2016
+17:00 h  (CET)
 
 The characteristics of the grants are the following:
 
@@ -45,9 +44,8 @@ The characteristics of the grants are the following:
 
 The timeline should be the following:
 
--   The call deadline is on <span class="aBn" tabindex="0"
-    term="goog_723917626"><span class="aQJ">March 30th 2016 at
-    17:00</span></span> h.
+-   The call deadline is on March 30th 2016 at
+    17:00 h.
 -   The Committee will communicate the candidates selection before the
     end of May 2016.
 -   The candidates should join the center in September/October 2016.

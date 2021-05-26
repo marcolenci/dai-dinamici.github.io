@@ -6,11 +6,7 @@ slug = "postdoc-in-orsay"
 title = "Postdoc in Orsay"
 +++
 
-<div class="page" title="Page 1">
 
-<div class="layoutArea">
-
-<div class="column">
 
 Applications are invited for a postdoctoral position in Ergodic Theory
 and Dynamical Systems within the project Non Uniform Hyperbolicity in
@@ -50,8 +46,4 @@ the candidate.
 
 **Contact:** <sylvain.crovisier@math.u-psud.fr>
 
-</div>
 
-</div>
-
-</div>

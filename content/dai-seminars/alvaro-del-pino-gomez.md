@@ -31,18 +31,4 @@ channel](https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg) then
 saved there. If you ask questions, with your video feed on or off, you
 agree to the use of your image/spoken words for said purpose.*
 
-<div class="wp-block-columns">
 
-<div class="wp-block-column" style="flex-basis:100%">
-
-<div class="wp-block-group">
-
-<div class="wp-block-group__inner-container">
-
-</div>
-
-</div>
-
-</div>
-
-</div>

@@ -6,11 +6,7 @@ slug = "postdoc-in-grenoble"
 title = "Postdoc in Grenoble"
 +++
 
-<div class="page" title="Page 1">
 
-<div class="layoutArea">
-
-<div class="column">
 
 Postdoctoral research position available:
 
@@ -53,10 +49,6 @@ as the candidate.
 **Deadline:** Friday the 15th December 2017 at 24:00 (Paris-time).
 
 **Contact:** <romain.joly@univ-grenoble-alpes.fr>
-<http://isdeec.math.cnrs.fr/Anglais/index.html>
+[http://isdeec.math.cnrs.fr/Anglais/index.html](http://isdeec.math.cnrs.fr/Anglais/index.html)
 
-</div>
 
-</div>
-
-</div>

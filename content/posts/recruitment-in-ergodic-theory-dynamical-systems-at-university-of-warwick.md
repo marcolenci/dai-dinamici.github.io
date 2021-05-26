@@ -17,4 +17,4 @@ positions in the area of Ergodic theory and Dynamical Systems:
 
 For more information, contact:
 
-Mark Poliicott <masdbl@warwick.ac.uk>
+Mark Poliicott [masdbl@warwick.ac.uk](masdbl@warwick.ac.uk)

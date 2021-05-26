@@ -6,11 +6,10 @@ slug = "postdoctoral-position-at-monash-university-melbourne"
 title = "Postdoctoral position at Monash University, Melbourne"
 +++
 
-<div>
+
 
 A candidate is sought for a position for the role of Postdoctoral
-Research Fellow on a project studying <span
-class="m_-1835693635451179662m_-6766006910911585787m_1916796948333396218gmail-il">chaotic</span> dynamical
+Research Fellow on a project studying chaotic dynamical
 systems on 3-dimensional manifolds. Candidates with expertise in any of
 the fields of dynamical systems, ergodic theory, foliation theory, and
 the geometry and topology of 3-manifolds are strongly encouraged to
@@ -34,23 +33,11 @@ quality journals.
 This role is a two year full-time position, with the possibility of
 further extension. Flexible working arrangements may be negotiated.
 
-</div>
-
-<div>
-
 **Closing date:**
 
 21 February 2018
 
-</div>
-
-<div>
-
-</div>
-
-<div>
-
 **Website:**
 <http://careers.pageuppeople.com/513/ci/en/job/571061/research-fellow-chaotic-dynamical-systems>
 
-</div>
+

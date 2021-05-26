@@ -29,7 +29,7 @@ and read the OFFICIAL CALL
 <https://en.sns.it/sites/sten/files/documenti/07-11-2018/614call.pdf>  
   
 Applicants must submit their applications SOLELY by using the on-line
-procedure SerSe (<https://serse.sns.it/en/>) available on the Scuola
+procedure SerSe ([https://serse.sns.it/en/](https://serse.sns.it/en/)) available on the Scuola
 Normale Superiore website and fulfill ALL the tender's requirements. No
 other submission method will be accepted.  
   

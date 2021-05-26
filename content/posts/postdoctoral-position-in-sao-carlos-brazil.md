@@ -6,18 +6,12 @@ slug = "postdoctoral-position-in-sao-carlos-brazil"
 title = "Postdoctoral position in São Carlos, Brazil"
 +++
 
-<div class="page" title="Page 1">
 
-<div class="section">
-
-<div class="layoutArea">
-
-<div class="column">
 
 The University of São Paulo campus São Carlos invites potential
 candidates for a two-year Postdoctoral position, renewable up to four
 years. Looking for candidates whose research is related to the interests
-of the Dynamical Systems group (see <http://sisdin.icmc.usp.br>):
+of the Dynamical Systems group (see [http://sisdin.icmc.usp.br](http://sisdin.icmc.usp.br)):
 Equilibrium states for partially hyperbolic diffeomorphisms (in
 particular measures of maximal entropy), Stable ergodicity for
 conservative diffeomorphisms, Comparing classical partially hyperbolic
@@ -28,32 +22,14 @@ Deformation theory in one- dimensional dynamics Dynamics defined by
 action of groups: Anosov (sub)systems and their representations in
 SL(n,R).
 
-</div>
-
-<div class="page" title="Page 1">
-
-<div class="section">
-
-<div class="layoutArea">
-
-<div class="column">
-
 The funding is provided by FAPESP (Thematic Project 17/06463-3), the
 research funding agency of the state of São Paulo, and benefits include:
 
-\- Monthly stipend of 7,174.00 BRL (tax free; around US$2100 ), -
+- Monthly stipend of 7,174.00 BRL (tax free; around US$2100 ), -
 Additional 15% of yearly income for research related expenses, -
 Start-up costs, including air travel and one extra month of pay, -
 Maternity and paternity leave as described on
-<http://www.fapesp.br/270>.
-
-<div class="page" title="Page 1">
-
-<div class="section">
-
-<div class="layoutArea">
-
-<div class="column">
+[http://www.fapesp.br/270](http://www.fapesp.br/270).
 
 Applicants should have a Ph.D. degree by the start date of the
 scholarship and should have graduated no longer than seven year ago. To
@@ -61,14 +37,6 @@ apply, candidates should send an email to tahzibi@icmc.usp.br: - CV, -
 Research Project, - Two letters of recommendation. Deadline to apply:
 15th april 2018 Result: The last week of April. The selected candidate
 will begin research no later than August 2018.
-
-<div class="page" title="Page 2">
-
-<div class="section">
-
-<div class="layoutArea">
-
-<div class="column">
 
 About University of São Paulo, campus São Carlos: University of São
 Paulo (USP) is the major Institution of higher learning and research in
@@ -87,32 +55,4 @@ C and the city provides an excellent condition of life.
 
  
 
-</div>
 
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

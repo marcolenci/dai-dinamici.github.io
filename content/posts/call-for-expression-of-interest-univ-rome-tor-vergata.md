@@ -26,13 +26,13 @@ Research (MIUR) under the program "Departments of Excellence" for the
 2018-2022 period. More information about the Department and this program
 can be found at
 
-<https://www.mat.uniroma2.it/>
+[https://www.mat.uniroma2.it/](https://www.mat.uniroma2.it/)
 
-see also <http://www.mat.uniroma2.it/Progetto/>
+see also [http://www.mat.uniroma2.it/Progetto/](http://www.mat.uniroma2.it/Progetto/)
 
 **What we offer:**
 
-\- **Associate Professor** is a tenured position. Applicants should have
+- **Associate Professor** is a tenured position. Applicants should have
 an established track-record of publications in top international
 journals and evidence of leadership and recognition in the international
 academic community, including grant applications and project management.
@@ -46,7 +46,7 @@ Professor, or must have been declared eligible by the Italian Ministery
 of University and Research (MIUR), or must be currently employed in an
 equivalent position in Italy or in a foreign Department.
 
-\- **Senior (Tenure-Track) Assistant Professor (RTD-B)** is for three
+- **Senior (Tenure-Track) Assistant Professor (RTD-B)** is for three
 years. Subject to evaluation, the position will be converted in a
 tenured Associate Professorship. Applicants for this position must have
 at least three years of experience after PhD completion, and an already
@@ -64,7 +64,7 @@ seminars and workshops.
 **Procedure:**
 
 Applicants should express their interest by sending an email
-to <progetto@mat.uniroma2.it>, including a Curriculum Vitae and a list
+to [progetto@mat.uniroma2.it](progetto@mat.uniroma2.it), including a Curriculum Vitae and a list
 of publications. The subject of the email should be Associate-surname or
 RTDB-surname. Selected candidates could be invited for a seminar. There
 are no restrictions regarding the nationality of the applicants.
@@ -80,8 +80,6 @@ applicants to inform them about the opening of the formal positions and
 the required documentation.
 
 For additional information, please contact us
-at: <progetto@mat.uniroma2.it>
+at: [progetto@mat.uniroma2.it](progetto@mat.uniroma2.it)
 
-<div class="yj6qo">
 
-</div>

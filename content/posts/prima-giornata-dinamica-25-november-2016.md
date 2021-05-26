@@ -29,7 +29,7 @@ values and periodic points"* 11:00-11:30  Coffee Break 11:30-12:20 
 
 Abstracts:
 
-\- **Mauro Artigiani** (SNS Pisa)
+- **Mauro Artigiani** (SNS Pisa)
 
 *"Lagrange spectrum of Veech translation surfaces"*
 
@@ -47,7 +47,7 @@ our construction we use coding of hyperbolic geodesics and we deduce a
 formula that allows to describe high values in the spectrum as a sum of
 two Cantor sets.
 
-\- **Anna Miriam Benini** (U. Roma "Tor Vergata")
+- **Anna Miriam Benini** (U. Roma "Tor Vergata")
 
 *"Singular values and periodic points"*
 
@@ -66,7 +66,7 @@ postsingular set, asserting that the number of non-repelling cycles is
 bounded by the number of singular values. This is joint work with N.
 Fagella.
 
-\- **Sara Munday** (U. Bologna)
+- **Sara Munday** (U. Bologna)
 
 *"Slippery Devil's Staircases"*
 
