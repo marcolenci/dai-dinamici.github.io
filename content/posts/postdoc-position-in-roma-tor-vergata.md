@@ -5,6 +5,7 @@ date = "2017-10-14 19:12:39"
 slug = "postdoc-position-in-roma-tor-vergata"
 title = "Postdoc position in Roma \"Tor Vergata\""
 +++
+
 A 1-year postdoc position is available in Rome Tor Vergata within the
 SIR project “New methods in holomorphic iteration”. There is no teaching
 load. The research theme is several complex variables and holomorphic

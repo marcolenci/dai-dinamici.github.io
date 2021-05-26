@@ -5,6 +5,7 @@ date = "2017-12-21 18:00:37"
 slug = "8-postdocs-including-dynamics-in-sao-paulo"
 title = "8 Postdocs (including Dynamics) in São Paulo"
 +++
+
 **Postdoctoral positions at the University of São Paulo, Brazil**
 
 The Low Dimensional Dynamics and Geometry Group of the Institute of

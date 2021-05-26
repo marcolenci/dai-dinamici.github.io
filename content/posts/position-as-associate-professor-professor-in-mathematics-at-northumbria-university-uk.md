@@ -5,6 +5,7 @@ date = "2018-01-29 08:37:19"
 slug = "position-as-associate-professor-professor-in-mathematics-at-northumbria-university-uk"
 title = "Position as Associate Professor/Professor in Mathematics at Northumbria University, UK"
 +++
+
 A position as Associate Professor/Professor in Mathematics has been
 opened at Northumbria University.
 

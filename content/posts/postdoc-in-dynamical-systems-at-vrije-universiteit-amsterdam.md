@@ -5,6 +5,7 @@ date = "2020-12-14 06:47:19"
 slug = "postdoc-in-dynamical-systems-at-vrije-universiteit-amsterdam"
 title = "Postdoc in Dynamical Systems at Vrije Universiteit Amsterdam"
 +++
+
 The Department of Mathematics of Vrije Universiteit Amsterdam welcomes
 applications for a three-year Postdoctoral position in Dynamical
 Systems, including (but not limited to) computational dynamics, data

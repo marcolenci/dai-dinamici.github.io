@@ -5,6 +5,7 @@ date = "2017-08-17 17:24:07"
 slug = "workshop-dynamical-systems-and-perturbations-saint-petersburg-october-2017"
 title = "Workshop \"Dynamical Systems and Perturbations\", Saint Petersburg, October 2017"
 +++
+
 The workshop *"Dynamical Systems and Perturbations",* in occasion with
 Sergei Pilyugin 70th birthday, will take place at the Euler
 International Mathematical Institute, Saint-Petersburg, on <span

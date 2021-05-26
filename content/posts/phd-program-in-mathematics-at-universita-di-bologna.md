@@ -5,6 +5,7 @@ date = "2021-04-21 15:06:06"
 slug = "phd-program-in-mathematics-at-universita-di-bologna"
 title = "PhD Program in Mathematics at Università di Bologna"
 +++
+
 The call for application for the Ph.D. Program in Mathematics (37th
 cycle - A.Y. 2021/2022) at [Università di
 Bologna](https://www.unibo.it/en) is now open. 7 fellowships are

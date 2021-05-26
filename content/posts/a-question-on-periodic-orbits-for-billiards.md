@@ -5,6 +5,7 @@ date = "2016-06-21 09:47:50"
 slug = "a-question-on-periodic-orbits-for-billiards"
 title = "A question on periodic orbits for billiards"
 +++
+
 In section 2.9 of the book "Notes on Dynamical Systems" by Moser and
 Zehnder, it is proved the following theorem as a corollary of the
 Poincaré-Birkhoff fixed point theorem:

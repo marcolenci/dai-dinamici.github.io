@@ -5,6 +5,7 @@ date = "2016-12-05 11:56:54"
 slug = "floer-postdoctoral-research-fellowship-in-mathematics"
 title = "Floer Postdoctoral Research Fellowship in Mathematics"
 +++
+
 The Floer Centre of Geometry invites applications for a 3 years
 postdoctoral fellowship to pursue research in mathematics at the
 University of Bochum.

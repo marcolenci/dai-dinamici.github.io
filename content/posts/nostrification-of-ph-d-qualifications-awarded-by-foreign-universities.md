@@ -5,6 +5,7 @@ date = "2017-08-07 17:23:25"
 slug = "nostrification-of-ph-d-qualifications-awarded-by-foreign-universities"
 title = "Nostrification of Ph.D. qualifications awarded by foreign universities"
 +++
+
 This year there have been some upgrades to the Italian laws ruling the
 recruitment in the universities. One of these upgrades concerns the
 documents required to apply for calls for the positions of "junior or

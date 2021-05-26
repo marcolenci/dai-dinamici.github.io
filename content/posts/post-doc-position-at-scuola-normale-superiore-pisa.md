@@ -5,6 +5,7 @@ date = "2015-12-14 18:27:19"
 slug = "post-doc-position-at-scuola-normale-superiore-pisa"
 title = "Post-doc position at Scuola Normale Superiore - Pisa"
 +++
+
 <div canvas-width="375.25999999999993">
 
 The Scuola Normale Superiore announces a selection for 4 post-doc

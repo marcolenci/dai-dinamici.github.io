@@ -5,6 +5,7 @@ date = "2018-06-24 15:48:16"
 slug = "nominations-for-the-fubini-prize-2018"
 title = "Nominations for the Fubini Prize 2018"
 +++
+
 Nominations for the Fubini Prize 2018
 
 We invite to nominate candidates for the Fubini Prize 2018. The prize

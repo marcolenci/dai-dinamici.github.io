@@ -5,6 +5,7 @@ date = "2018-04-09 18:06:32"
 slug = "giornata-analisi-armonica-probabilita-e-sistemi-dinamici-16-aprile-2018"
 title = "Giornata Analisi Armonica, Probabilita', e Sistemi Dinamici (16 aprile 2018)"
 +++
+
 Giornata di Analisi Armonica, Probabilita', e Sistemi Dinamici
 
 Location: Aula 1E (palazzina E) Dipartimento SBAI (Universita' di Roma

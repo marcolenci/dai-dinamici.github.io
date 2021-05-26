@@ -5,6 +5,7 @@ date = "2017-02-10 15:31:30"
 slug = "houston-summer-school-on-dynamical-systems-may-2017"
 title = "Houston Summer School on Dynamical Systems - May 2017"
 +++
+
 The Department of Mathematics at University of Houston will host the
 fifth annual Houston Summer School on Dynamical Systems from May 17-25,
 2017.

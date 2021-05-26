@@ -5,6 +5,7 @@ date = "2020-08-22 16:21:09"
 slug = "tenure-track-assistant-professor-in-dynamical-systems-at-epfl-lausanne"
 title = "Tenure Track Assistant Professor in Dynamical Systems at EPFL Lausanne"
 +++
+
 The School of Basic Sciences (Physics, Chemistry and Mathematics) at
 EPFL -Lausanne seeks to appoint a Tenure Track Assistant Professor of
 Mathematics with research interests in the theory of dynamical systems,

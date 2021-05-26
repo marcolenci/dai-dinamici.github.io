@@ -5,6 +5,7 @@ date = "2017-08-21 16:00:16"
 slug = "winter-school-recent-advances-in-hamiltonian-dynamics-and-symplectic-topology"
 title = "Winter school \"Recent advances in Hamiltonian dynamics and symplectic topology\", Padova, February 2018"
 +++
+
 Winter school *"Recent advances in Hamiltonian dynamics and symplectic
 topology”, * February 12 to 16, 2018, University of Padova. For more
 information see:

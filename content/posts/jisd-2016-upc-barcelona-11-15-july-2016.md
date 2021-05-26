@@ -5,6 +5,7 @@ date = "2016-02-29 19:06:35"
 slug = "jisd-2016-upc-barcelona-11-15-july-2016"
 title = "JISD 2016 (UPC Barcelona, 11-15 July 2016)"
 +++
+
 <div>
 
 JISD2016

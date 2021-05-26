@@ -5,6 +5,7 @@ date = "2020-06-05 08:11:58"
 slug = "school-modern-aspects-of-dynamical-systems-officially-postponed"
 title = "School \"Modern Aspects of Dynamical Systems\" officially postponed"
 +++
+
 The school
 
 **"Modern Aspects of Dynamical Systems"**

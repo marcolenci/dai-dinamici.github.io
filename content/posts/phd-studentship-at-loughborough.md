@@ -5,6 +5,7 @@ date = "2019-03-29 22:15:34"
 slug = "phd-studentship-at-loughborough"
 title = "PhD studentship at Loughborough"
 +++
+
 A PhD studentship in Dynamical Systems is advertised at Loughborough.
 
 The deadline to apply is 10 May 2019 and the starting date must be 1st

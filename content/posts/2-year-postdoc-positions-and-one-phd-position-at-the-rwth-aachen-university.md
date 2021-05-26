@@ -5,6 +5,7 @@ date = "2019-03-07 06:10:01"
 slug = "2-year-postdoc-positions-and-one-phd-position-at-the-rwth-aachen-university"
 title = "2-year Postdoc positions and one PhD position   at the RWTH Aachen University"
 +++
+
 Job openings to bring to the attention of potential candidates:
 
 -   two 2-year Postdoc positions

@@ -5,6 +5,7 @@ date = "2020-11-17 08:19:31"
 slug = "postdocs-at-scuola-normale-superiore-pisa"
 title = "Postdocs at Scuola Normale Superiore, Pisa"
 +++
+
 The Scuola Normale Superiore announces a selection for 5 post-doc
 research positions named *“Junior Visiting Positions”*. The positions
 will concern the following subject matters:

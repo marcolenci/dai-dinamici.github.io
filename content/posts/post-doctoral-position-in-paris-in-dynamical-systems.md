@@ -5,6 +5,7 @@ date = "2020-11-29 18:52:56"
 slug = "post-doctoral-position-in-paris-in-dynamical-systems"
 title = "Another postdoc in Paris"
 +++
+
 The [Institut de Mathématiques de Jussieu-Paris Rive
 Gauche](https://www.imj-prg.fr/) will offer one post-doctoral position
 in the field of in the field of **differentiable dynamical systems

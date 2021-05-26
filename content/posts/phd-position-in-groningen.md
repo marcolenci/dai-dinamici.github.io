@@ -5,6 +5,7 @@ date = "2021-01-08 14:35:59"
 slug = "phd-position-in-groningen"
 title = "PhD position in Groningen"
 +++
+
 A new PhD position call has been advertised as part of Marcello Seri's
 grant on **spectral aspects of magnetic fields via sub-Riemannian
 geometry** at the University of Groningen (Netherlands).

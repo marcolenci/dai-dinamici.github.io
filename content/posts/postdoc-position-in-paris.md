@@ -5,6 +5,7 @@ date = "2020-11-16 21:20:14"
 slug = "postdoc-position-in-paris"
 title = "Postdoc position in Paris"
 +++
+
 The [Institut de Mathématiques de Jussieu-Paris Rive
 Gauche](https://www.imj-prg.fr/) will offer one post-doctoral position
 in the field of **symplectic/contact topology and dynamics** starting

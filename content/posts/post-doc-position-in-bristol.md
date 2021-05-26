@@ -5,6 +5,7 @@ date = "2015-10-09 07:26:32"
 slug = "post-doc-position-in-bristol"
 title = "Postdoc position in Bristol"
 +++
+
 1-yr (potentially 2-yr) postdoctoral position with Corinna Ulcigrai at
 the University of Bristol:
 

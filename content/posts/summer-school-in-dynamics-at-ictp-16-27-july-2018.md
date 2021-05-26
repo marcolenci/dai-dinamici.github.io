@@ -5,6 +5,7 @@ date = "2018-03-24 03:52:42"
 slug = "summer-school-in-dynamics-at-ictp-16-27-july-2018"
 title = "Summer School in Dynamics at ICTP, 16-27 July 2018"
 +++
+
 <div>
 
 A Summer School in Dynamical Systems which will be held at ICTP, Trieste

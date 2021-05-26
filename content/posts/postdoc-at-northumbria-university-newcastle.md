@@ -5,6 +5,7 @@ date = "2020-11-11 13:40:08"
 slug = "postdoc-at-northumbria-university-newcastle"
 title = "Postdoc at Northumbria University Newcastle"
 +++
+
 A 12-month postdoctoral research position in Mathematics is now open
 within the MCNP (Mathematics of Complex and Nonlinear Phenomena) group
 in the Department of Mathematics, Physics and Electrical Engineering

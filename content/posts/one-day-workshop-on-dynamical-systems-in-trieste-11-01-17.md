@@ -5,6 +5,7 @@ date = "2016-12-30 11:22:30"
 slug = "one-day-workshop-on-dynamical-systems-in-trieste-11-01-17"
 title = "One-day workshop on Dynamical Systems in Trieste | 11.01.17"
 +++
+
 One-day workshop on Dynamical Systems in Trieste, Wednesday 11 January
 2017.
 

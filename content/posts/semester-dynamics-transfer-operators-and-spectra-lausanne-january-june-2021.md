@@ -5,6 +5,7 @@ date = "2020-12-04 15:00:04"
 slug = "semester-dynamics-transfer-operators-and-spectra-lausanne-january-june-2021"
 title = "Semester Dynamics, Transfer Operators, and Spectra, Lausanne, January-June 2021"
 +++
+
 Update regarding the semester [**Dynamics, Transfer Operators, and
 Spectra**](https://cib.epfl.ch/semesters/38/show), at [CIB, EPFL,
 Lausanne](https://cib.epfl.ch/), January-June 2021.

@@ -5,6 +5,7 @@ date = "2017-03-01 23:22:18"
 slug = "postdoc-in-porto"
 title = "Postdoc in Porto"
 +++
+
 Applications are invited for a postdoctoral position (BPD) in Ergodic
 Theory and Dynamical Systems within the project PTDC/MAT-CAL/3884/2014
 funded by the FCT (Portuguese Science and Technology Foundation).

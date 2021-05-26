@@ -5,6 +5,7 @@ date = "2020-12-11 17:45:55"
 slug = "18th-school-on-interactions-between-dynamical-systems-and-partial-differential-equations-jisd2021"
 title = "18th School on interactions between Dynamical Systems and Partial Differential Equations, June 28–July 2, 2021"
 +++
+
 **18th School on interactions between Dynamical Systems and Partial
 Differential Equations (JISD2021)**  
 **June 28  – July 2, 2021**  

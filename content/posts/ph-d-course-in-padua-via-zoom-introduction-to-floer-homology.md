@@ -5,6 +5,7 @@ date = "2020-09-13 08:18:13"
 slug = "ph-d-course-in-padua-via-zoom-introduction-to-floer-homology"
 title = "PhD Course in Padua  (via zoom): Introduction to Floer Homology"
 +++
+
 ##### 
 
 **Title of the course:** "Introduction to Floer Homology"

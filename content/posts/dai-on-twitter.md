@@ -5,6 +5,7 @@ date = "2016-12-02 18:52:33"
 slug = "dai-on-twitter"
 title = "DAI on Twitter!"
 +++
+
 It is with great pleasure that I announce that the DinAmicI now have a
 Twitter profile! <https://twitter.com/DinAmicI>
 

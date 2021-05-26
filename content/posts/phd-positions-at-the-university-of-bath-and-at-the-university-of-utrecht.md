@@ -5,6 +5,7 @@ date = "2020-07-17 12:31:26"
 slug = "phd-positions-at-the-university-of-bath-and-at-the-university-of-utrecht"
 title = "PhD and postdoc positions at Bath and Utrecht"
 +++
+
 A PhD position in the semiclassical theory of subelliptic operators is
 being advertised at the University of Bath (UK). The prospective advisor
 is Véronique Fischer. The student will be part of the project titled

@@ -5,6 +5,7 @@ date = "2017-02-23 10:49:37"
 slug = "dynamics-in-italy-june-2017"
 title = "Dynamics in Italy - June 2017"
 +++
+
 Italy is the place to be for young and old dynamicists this coming June
 2017. Three amazing events one after the other in Rome, Pisa and
 Trieste.

@@ -5,6 +5,7 @@ date = "2017-03-12 23:19:47"
 slug = "postdoc-in-salvador-bahia-brazil"
 title = "Postdoc in Salvador, Bahia, Brazil"
 +++
+
 <https://pgmat.ufba.br/pt-br/aberta-selecao-de-bolsista-de-pos-doutorado-pnpd-ufba>
 
 A vacancy for a post-doctorate research scholarship in the framework of

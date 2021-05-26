@@ -5,6 +5,7 @@ date = "2017-11-22 07:16:51"
 slug = "ph-d-positions-in-cardiff-uk"
 title = "Ph.D. positions in Cardiff (UK)"
 +++
+
 [Dr Jonathan
 Ben-Artzi](https://www.cardiff.ac.uk/people/view/475667-dr-jonathan-ben-artzi) 
 is advertising PhD studentships in Cardiff that are fully funded for 3.5

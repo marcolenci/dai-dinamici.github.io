@@ -5,6 +5,7 @@ date = "2017-11-23 22:15:42"
 slug = "postdocs-in-bologna"
 title = "Postdocs in Bologna"
 +++
+
 The Department of Mathematics of Università di Bologna has opened a call
 for two 1-year postdoctoral positions denominated *"Starting
 postdoctoral position in Mathematics and Applications in Sciences,

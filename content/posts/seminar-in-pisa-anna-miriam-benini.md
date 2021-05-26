@@ -5,6 +5,7 @@ date = "2016-01-21 11:09:25"
 slug = "seminar-in-pisa-anna-miriam-benini"
 title = "Seminar in Pisa: Anna Miriam Benini"
 +++
+
 <div class="entry-content" style="text-align: left;">
 
 Wednesday 27th January 2016, h 15:00

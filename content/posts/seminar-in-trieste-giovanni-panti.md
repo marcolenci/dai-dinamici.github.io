@@ -5,6 +5,7 @@ date = "2016-09-27 16:06:01"
 slug = "seminar-in-trieste-giovanni-panti"
 title = "Seminar in Trieste: Giovanni Panti"
 +++
+
 Tuesday 4th October at 17:00
 ([ICTP](http://www.ictp.it/research/math/seminars.aspx))
 

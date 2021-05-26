@@ -5,6 +5,7 @@ date = "2016-06-02 10:38:48"
 slug = "11-gssi-phd-fellowships-in-mathematics"
 title = "11 GSSI PhD fellowships in Mathematics"
 +++
+
 <div class="gmail_default">
 
 The new call for the Gran Sasso Science Institute (GSSI) PhD fellowships

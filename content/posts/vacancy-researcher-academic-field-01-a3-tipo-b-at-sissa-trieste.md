@@ -5,6 +5,7 @@ date = "2018-11-01 08:24:16"
 slug = "vacancy-researcher-academic-field-01-a3-tipo-b-at-sissa-trieste"
 title = "Vacancy: Researcher (type B) in Mathematical Analysis (01/A3) at SISSA, Trieste"
 +++
+
 Concorso for a *Ricercatore a Tempo Determinato di tipo B (RTD-B)* at
 Sissa, Trieste.
 

@@ -5,6 +5,7 @@ date = "2019-05-25 10:36:02"
 slug = "dinamici-vi-program-available"
 title = "DinAmicI VI: Program available"
 +++
+
 Please visit the page
 
 <http://www.crm.sns.it/event/450/timetable.html#title>

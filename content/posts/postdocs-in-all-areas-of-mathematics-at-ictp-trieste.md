@@ -5,6 +5,7 @@ date = "2017-12-14 10:13:43"
 slug = "postdocs-in-all-areas-of-mathematics-at-ictp-trieste"
 title = "Postdocs in all areas of mathematics at ICTP Trieste"
 +++
+
 Every year, ICTP's [Mathematics
 section](https://www.ictp.it/research/math.aspx "MATH") offers research
 opportunities for outstanding mathematicians from developing countries,

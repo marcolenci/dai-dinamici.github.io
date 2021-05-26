@@ -5,6 +5,7 @@ date = "2019-03-12 10:03:54"
 slug = "dinamici-vi-save-the-dates"
 title = "DinAmicI VI: save the dates!"
 +++
+
 The 6th edition of our beloved workshop, denominated with a spike of
 creativity
 

@@ -5,6 +5,7 @@ date = "2017-02-06 08:24:28"
 slug = "ergodic-theory-algorithms-and-rigorous-computations-warwick-3-7-april-2017"
 title = "Ergodic Theory, Algorithms and Rigorous Computations, Warwick, 3-7 April 2017"
 +++
+
 Workshop ***"Ergodic Theory, Algorithms and Rigorous Computations"***
 
 Warwick, 3-7 April 2017

@@ -5,6 +5,7 @@ date = "2018-11-29 09:28:28"
 slug = "school-on-smooth-ergodic-theory-and-partially-hyperbolic-systems-loughborough-15-18-april-2019"
 title = "School on Smooth Ergodic Theory and Partially Hyperbolic Systems, Loughborough, 15-18 April 2019"
 +++
+
 A School on Smooth Ergodic Theory and Partially Hyperbolic Systems is
 being organised at Loughborough, UK,  from 15-18 April 2019, by Wael
 Bahsoun and Brian Winn.

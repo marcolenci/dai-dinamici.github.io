@@ -5,6 +5,7 @@ date = "2016-09-13 10:57:10"
 slug = "workshop-dinamici-v-5-9-june-2017"
 title = "Workshop DinAmicI V, 5-9 June 2017"
 +++
+
 It is a pleasure to announce that our biennial meeting to be held in
 2017, will take place in Rome in the week 5-9 June.
 

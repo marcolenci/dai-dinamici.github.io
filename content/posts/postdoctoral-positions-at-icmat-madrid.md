@@ -5,6 +5,7 @@ date = "2017-02-10 15:26:07"
 slug = "postdoctoral-positions-at-icmat-madrid"
 title = "Postdoctoral positions at ICMAT - Madrid"
 +++
+
 The Instituto de Ciencias Matemáticas (ICMAT-Institute of Mathematical
 Sciences) offers postdoctoral appointments for researchers in
 Mathematics with an excellent curriculum who wish to pursue their

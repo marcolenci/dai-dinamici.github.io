@@ -5,6 +5,7 @@ date = "2016-09-26 07:46:27"
 slug = "prima-giornata-dinamica-25-novembre-2016"
 title = "Prima Giornata DinAmica - 25 November 2016"
 +++
+
 This is a call for the participation of all DinAmicI to the **Prima
 Giornata DinAmica,** our first social meeting to be held on 25 November
 at the Gran Sasso Science Institute in L'Aquila.

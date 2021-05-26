@@ -5,6 +5,7 @@ date = "2019-12-02 09:22:47"
 slug = "school-modern-aspects-of-dynamical-systems-registrations-are-now-open"
 title = "School \"Modern Aspects of Dynamical Systems\" - registrations are now open"
 +++
+
 This is to announce that registrations to the Fondazione CIME school
 **"Modern Aspects of Dynamical Systems"**, 20-24 July 2020, are now open
 until April 30th, 2020.

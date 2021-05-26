@@ -5,6 +5,7 @@ date = "2018-07-18 05:08:44"
 slug = "lysm-call-for-extended-missions-to-italy-or-france"
 title = "LYSM - Call for extended missions to Italy or France"
 +++
+
 Dear collegues,
 
 as many of you already know, the Hypatie Laboratory of Mathematical

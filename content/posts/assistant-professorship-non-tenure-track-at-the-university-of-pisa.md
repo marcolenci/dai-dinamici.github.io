@@ -5,6 +5,7 @@ date = "2017-11-06 18:16:33"
 slug = "assistant-professorship-non-tenure-track-at-the-university-of-pisa"
 title = "Assistant Professorship (non-tenure track) at the University of Pisa"
 +++
+
 Applications are warmly invited for 1 position as "Junior assistant
 professor" (Ricercatore a Tempo Determinato di tipo A) in "Mathematical
 Physics" at the University of Pisa.  The duration is 3 years.

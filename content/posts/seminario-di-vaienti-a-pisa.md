@@ -5,6 +5,7 @@ date = "2015-07-14 15:24:43"
 slug = "seminario-di-vaienti-a-pisa"
 title = "Vaienti's seminar in Pisa"
 +++
+
 Friday, July 17, 2015, h. 16:00-17:00 Sala Conferenze (Puteano, Centro
 De Giorgi)
 

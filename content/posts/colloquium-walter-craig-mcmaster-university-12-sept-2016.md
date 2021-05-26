@@ -5,6 +5,7 @@ date = "2016-09-01 15:40:00"
 slug = "colloquium-walter-craig-mcmaster-university-12-sept-2016"
 title = "Colloquium at Tor Vergata: Walter Craig (McMaster University) 12 Sept 2016"
 +++
+
 DEPARTMENT COLLOQUIUM
 
 12 SEPTEMBER 2016 , 15.00 (A refreshment will follow in the common room)

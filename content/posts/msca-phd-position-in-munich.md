@@ -5,6 +5,7 @@ date = "2020-11-06 22:44:41"
 slug = "msca-phd-position-in-munich"
 title = "MSCA PhD position in Munich"
 +++
+
 The research group on *Multiscale and Stochastic Dynamics* at the
 Technical University of Munich, coordinated by Prof. Christian Kuehn,
 seeks candidates for a ***3-year doctoral researcher position*** within

@@ -5,6 +5,7 @@ date = "2019-03-12 09:41:00"
 slug = "workshop-ergodic-theory-and-validated-dynamics-cirm-luminy-8-12-july-2019"
 title = "Workshop \"Ergodic Theory and Validated Dynamics\", CIRM, Luminy, 8-12 July 2019"
 +++
+
 Workshop  
 **Ergodic Theory and Validated Dynamics**  
 *CIRM, Luminy, 8-12 July 2019*

@@ -5,6 +5,7 @@ date = "2021-05-17 15:59:44"
 slug = "phd-position-in-ergodic-theory-at-utrecht-university"
 title = "PhD position in Ergodic Theory at Utrecht University"
 +++
+
 PhD position available in Ergodic Theory at Utrecht University with
 title *Merging Critical Orbits*. The position is sponsored by a grant
 from the Dutch National Science Foundation.

@@ -5,6 +5,7 @@ date = "2015-12-13 03:14:14"
 slug = "phd-studentship-in-exeter"
 title = "PhD studentship in Exeter"
 +++
+
 Funded Ph.D. studentship with Dalia Terhesiu at the University of
 Exeter:
 

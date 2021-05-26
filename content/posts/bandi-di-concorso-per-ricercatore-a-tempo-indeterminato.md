@@ -5,6 +5,7 @@ date = "2016-07-05 08:11:22"
 slug = "bandi-di-concorso-per-ricercatore-a-tempo-indeterminato"
 title = "Bandi di concorso per ricercatore a tempo indeterminato"
 +++
+
 <div class="gmail_default">
 
 E’ stato pubblicato il bando 368.15 per l'Area strategica Matematica

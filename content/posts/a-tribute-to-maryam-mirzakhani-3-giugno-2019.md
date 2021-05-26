@@ -5,6 +5,7 @@ date = "2019-05-03 07:53:00"
 slug = "a-tribute-to-maryam-mirzakhani-3-giugno-2019"
 title = "A tribute to Maryam Mirzakhani, Rome, 3 June 2019"
 +++
+
 The Department of Mathematics of Università di Roma "Tor Vergata", in
 collaboration with Accademia dei Lincei, has organized a meeting in
 memory of **Maryam Mirzakhani:**

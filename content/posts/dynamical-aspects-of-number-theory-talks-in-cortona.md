@@ -5,6 +5,7 @@ date = "2015-07-27 13:22:41"
 slug = "dynamical-aspects-of-number-theory-talks-in-cortona"
 title = "Dynamical aspects of number theory talks in Cortona"
 +++
+
 On Thursday 3rd September there will be a special session at the 17th
 European Women in Maths general meeting in Cortona on "Dynamical aspects
 of number theory".  It runs from 10:00 - 13:00, and there will be short

@@ -5,6 +5,7 @@ date = "2018-04-09 08:43:22"
 slug = "phd-in-pisa"
 title = "PhD in Pisa"
 +++
+
 In case you are looking for a PhD position in Mathematics at the
 University of Pisa for you or your students, I'm forwarding useful
 information from the PhD School Coordinator.

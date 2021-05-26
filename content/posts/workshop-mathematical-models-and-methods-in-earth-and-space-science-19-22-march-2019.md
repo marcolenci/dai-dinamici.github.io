@@ -5,6 +5,7 @@ date = "2018-10-09 15:29:44"
 slug = "workshop-mathematical-models-and-methods-in-earth-and-space-science-19-22-march-2019"
 title = "Workshop \"Mathematical Models and Methods in Earth and Space Science\", U. Rome Tor Vergata, 19-22 March 2019"
 +++
+
 <div class="gs">
 
 <div>

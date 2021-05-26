@@ -5,6 +5,7 @@ date = "2016-12-05 11:56:01"
 slug = "17-phd-and-8-postdoc-positions-universities-bochum-cologne-and-munster"
 title = "17 PhD and 8 postdoc positions - Universities Bochum, Cologne and Münster"
 +++
+
 17 PhD and 8 postdoc positions in mathematics are currently available at
 the universities of Bochum, Cologne and Münster within the Collaborative
 Research Centre / Transregio (CRC/TRR 191) on “Symplectic Structures in

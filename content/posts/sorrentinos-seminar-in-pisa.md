@@ -5,6 +5,7 @@ date = "2015-10-19 10:47:00"
 slug = "sorrentinos-seminar-in-pisa"
 title = "Sorrentino's seminar in Pisa"
 +++
+
 Monday 9th November 2015, h 15:00 - 17:00 Aula Seminari (Dipartimento di
 Matematica, Pisa)
 

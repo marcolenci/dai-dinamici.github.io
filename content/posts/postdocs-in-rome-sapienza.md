@@ -5,6 +5,7 @@ date = "2020-12-23 08:58:36"
 slug = "postdocs-in-rome-sapienza"
 title = "Postdocs in Rome Sapienza"
 +++
+
 The Department of Mathematics of Sapienza Università di Roma has opened
 calls for [a 1-year postdoctoral
 position](https://web.uniroma1.it/trasparenza/dettaglio_bando_albo/168016)

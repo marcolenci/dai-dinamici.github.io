@@ -5,6 +5,7 @@ date = "2016-08-08 08:42:58"
 slug = "report-of-the-consultation-on-mathematics-in-horizon-2020"
 title = "Report of the consultation on Mathematics in Horizon 2020"
 +++
+
 News for the European Commission about Horizon 2020 and Mathematics:
 
 "The online consultation on mathematics was carried out from 29 January

@@ -5,6 +5,7 @@ date = "2017-07-31 19:24:15"
 slug = "phd-scholarship-on-topological-characterization-of-network-dynamics-florence"
 title = "PhD Scholarship on \"Topological characterization of network dynamics\", Florence"
 +++
+
 The Ph.D. school in Information Engineering of the University of
 Florence has recently funded a scholarship in "Topological
 characterization of network dynamics". The scholarship falls within the

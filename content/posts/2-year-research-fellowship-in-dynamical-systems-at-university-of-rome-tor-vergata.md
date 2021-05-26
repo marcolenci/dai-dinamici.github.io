@@ -5,6 +5,7 @@ date = "2019-12-05 17:14:55"
 slug = "2-year-research-fellowship-in-dynamical-systems-at-university-of-rome-tor-vergata"
 title = "2-year  research fellowship in Dynamical Systems at University of Rome Tor Vergata"
 +++
+
 Opening for a **2-year  research fellowship in Dynamical Systems** at
 University of Rome Tor Vergata. This position is supported by the
 national grant MIUR-PRIN 2017 "*Regular and stochastic behaviour in

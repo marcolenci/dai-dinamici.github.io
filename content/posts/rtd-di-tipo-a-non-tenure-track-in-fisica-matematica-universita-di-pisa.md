@@ -5,6 +5,7 @@ date = "2019-11-29 17:22:43"
 slug = "rtd-di-tipo-a-non-tenure-track-in-fisica-matematica-universita-di-pisa"
 title = "RTD di tipo A (non-tenure track) in Fisica Matematica, Università di Pisa"
 +++
+
 E\` stato pubblicato sul sito web dell’Università di Pisa, il seguente
 bando per ricercatore a tempo determinato di tipo A (non-tenure track
 position)

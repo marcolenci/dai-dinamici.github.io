@@ -5,6 +5,7 @@ date = "2015-07-03 08:15:16"
 slug = "how-to-post"
 title = "How to post"
 +++
+
 If you'd like to post something on the website click on the "site admin"
 link on the main page. You'll find it under "Meta links" on the left
 hand side.  This will take you to your dashboard where you'll find a

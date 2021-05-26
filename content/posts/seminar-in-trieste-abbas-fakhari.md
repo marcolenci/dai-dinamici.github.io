@@ -5,6 +5,7 @@ date = "2016-08-17 09:03:37"
 slug = "seminar-in-trieste-abbas-fakhari"
 title = "Seminar in Trieste: Abbas Fakhari"
 +++
+
 Thursday 18th August at 14:30
 ([ICTP](http://www.ictp.it/research/math/seminars.aspx))
 

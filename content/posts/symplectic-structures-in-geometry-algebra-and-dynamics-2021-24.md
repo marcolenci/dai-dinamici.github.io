@@ -5,6 +5,7 @@ date = "2020-12-14 17:54:33"
 slug = "symplectic-structures-in-geometry-algebra-and-dynamics-2021-24"
 title = "Symplectic Structures in Geometry, Algebra and Dynamics 2021-24"
 +++
+
 The [German Research
 Foundation](https://www.google.com/url?q=https%3A%2F%2Fwww.dfg.de%2Fen%2Findex.jsp&sa=D&sntz=1&usg=AFQjCNFTRlcHYDf7xbq57y0VxHGNBHbzjw)
 has granted the funding of a Collaborative Research Centre / Transregio

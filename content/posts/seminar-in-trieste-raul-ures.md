@@ -5,6 +5,7 @@ date = "2016-09-02 15:46:55"
 slug = "seminar-in-trieste-raul-ures"
 title = "Seminar in Trieste: Raúl Ures"
 +++
+
 Thursday 29th September at 16:30
 ([ICTP](http://www.ictp.it/research/math/seminars.aspx))
 

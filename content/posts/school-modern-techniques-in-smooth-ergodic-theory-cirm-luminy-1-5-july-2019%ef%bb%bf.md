@@ -5,6 +5,7 @@ date = "2019-03-12 09:38:57"
 slug = "school-modern-techniques-in-smooth-ergodic-theory-cirm-luminy-1-5-july-2019%ef%bb%bf"
 title = "School \"Modern Techniques in Smooth Ergodic Theory\", CIRM, Luminy, 1-5 July 2019﻿"
 +++
+
 School  
 **Modern Techniques in Smooth Ergodic Theory**  
 *CIRM, Luminy, 1-5 July 2019*

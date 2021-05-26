@@ -5,6 +5,7 @@ date = "2019-02-27 17:12:43"
 slug = "conference-equidistribution-invariant-measures-and-applications-a-tribute-to-the-legacy-of-marina-ratner-jerusalem-may-19-24-2019"
 title = "Conference \"Equidistribution, invariant measures and applications: a tribute to the legacy of Marina Ratner\", Jerusalem, May 19-24, 2019"
 +++
+
 Conference   
 **"Equidistribution, invariant measures and applications: a tribute to
 the legacy of Marina Ratner"**  

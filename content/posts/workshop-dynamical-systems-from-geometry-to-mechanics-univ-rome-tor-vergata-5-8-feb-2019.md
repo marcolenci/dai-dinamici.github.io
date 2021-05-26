@@ -5,6 +5,7 @@ date = "2018-10-09 15:26:35"
 slug = "workshop-dynamical-systems-from-geometry-to-mechanics-univ-rome-tor-vergata-5-8-feb-2019"
 title = "Workshop \"Dynamical Systems: from geometry to mechanics\", U. Rome Tor Vergata, 5-8 Feb 2019"
 +++
+
 The workshop
 
 **"Dynamical Systems: from geometry to mechanics"**

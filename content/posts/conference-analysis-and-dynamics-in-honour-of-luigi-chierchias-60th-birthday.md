@@ -5,6 +5,7 @@ date = "2017-09-08 08:18:44"
 slug = "conference-analysis-and-dynamics-in-honour-of-luigi-chierchias-60th-birthday"
 title = "Conference \"Analysis and Dynamics\": in honour of Luigi Chierchia's 60th Birthday"
 +++
+
 ###### Analysis and Dynamics 
 
     Conference in occasion of Luigi Chierchia's 60th BirthdayMarina di San Gregorio, Lecce  12-15 October 2017 http://ricerca.mat.uniroma3.it/users/procesi/ConvegnoLuigi60.html

@@ -5,6 +5,7 @@ date = "2018-11-30 16:40:42"
 slug = "postdoc-positions-on-the-dynamic-of-complex-networks-upc-barcelona"
 title = "Postdoc positions on Dynamics of Complex Networks, UPC Barcelona"
 +++
+
 <div>
 
 Dr. Romualdo Pastor-Satorras is currently offering two postdoctoral

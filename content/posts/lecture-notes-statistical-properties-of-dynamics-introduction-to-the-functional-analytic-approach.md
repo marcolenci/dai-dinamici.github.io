@@ -5,6 +5,7 @@ date = "2015-08-24 15:49:42"
 slug = "lecture-notes-statistical-properties-of-dynamics-introduction-to-the-functional-analytic-approach"
 title = "Lecture notes: \"Statistical properties of dynamics. Introduction to the functional analytic approach\""
 +++
+
 I'm uploading the lecture notes of a minicourse, in the Pisa-Hokkaido
 summer school 2015.
 

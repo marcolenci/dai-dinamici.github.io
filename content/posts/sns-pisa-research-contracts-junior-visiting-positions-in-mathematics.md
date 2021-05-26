@@ -5,6 +5,7 @@ date = "2017-10-24 15:14:39"
 slug = "sns-pisa-research-contracts-junior-visiting-positions-in-mathematics"
 title = "SNS Pisa - Research contracts “Junior Visiting Positions” in mathematics"
 +++
+
 Position n. 4: Dynamical Systems, as part of the research project
 “Dynamics and Information Theory Research Institute” (Convenzione 2014
 Scuola-Unicredit S.p.a.).

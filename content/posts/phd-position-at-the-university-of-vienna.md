@@ -5,6 +5,7 @@ date = "2019-10-29 19:11:39"
 slug = "phd-position-at-the-university-of-vienna"
 title = "PhD position at the University of Vienna"
 +++
+
 There will be a four year PhD position available at the University of
 Vienna.  
 The research topic will be ergodic properties of minimal Cantor systems,

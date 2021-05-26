@@ -5,6 +5,7 @@ date = "2016-10-04 15:28:09"
 slug = "summer-school-in-nantes-july-3-7-2017-analytical-aspects-of-hyperbolic-flows"
 title = "Summer School in Nantes, July 3-7, 2017: Analytical aspects of hyperbolic flows"
 +++
+
 *Organization board*: Sebastien Gouëzel, Laurent Guillopé, Samuel Tapie
 
 *Scientific board*: Nalini Anantharaman, Viviane Baladi, Colin

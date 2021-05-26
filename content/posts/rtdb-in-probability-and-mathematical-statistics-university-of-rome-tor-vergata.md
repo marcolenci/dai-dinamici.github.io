@@ -5,6 +5,7 @@ date = "2021-03-03 13:27:52"
 slug = "rtdb-in-probability-and-mathematical-statistics-university-of-rome-tor-vergata"
 title = "RTDb in Probability and Mathematical Statistics (University of Rome Tor Vergata)"
 +++
+
 A tenure-track position (Ricercatore Tempo Determinato di tipo b - RTDb)
 has been announced at the Department of Mathematics, University of Rome
 Tor Vergata.  

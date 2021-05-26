@@ -5,6 +5,7 @@ date = "2020-10-01 08:52:34"
 slug = "third-dai-day-save-the-date"
 title = "Third DAI DAY - save the date"
 +++
+
 Dear DinAmicI,
 
 We're happy to announce that the next DAI DAY will take place on

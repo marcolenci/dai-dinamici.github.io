@@ -5,6 +5,7 @@ date = "2018-05-04 15:42:16"
 slug = "associate-professorship-at-university-of-pisa"
 title = "Associate professorship at University of Pisa"
 +++
+
 The University of Pisa invites applications for the position of
 Associate Professor in Mathematical Physics (Italian SSD MAT/07).
 Application deadline: the application must be received by 4th June 2018

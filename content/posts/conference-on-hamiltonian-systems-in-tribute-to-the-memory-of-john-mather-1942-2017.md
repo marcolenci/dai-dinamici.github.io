@@ -5,6 +5,7 @@ date = "2017-06-30 08:28:26"
 slug = "conference-on-hamiltonian-systems-in-tribute-to-the-memory-of-john-mather-1942-2017"
 title = "Conference on Hamiltonian Systems, in tribute to the memory of John Mather (1942-2017)."
 +++
+
 Conference on Hamiltonian Systems, in tribute to the memory of John
 Mather (1942-2017).
 

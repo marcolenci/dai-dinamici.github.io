@@ -5,6 +5,7 @@ date = "2021-02-28 08:17:35"
 slug = "2-post-doc-positions-in-mathematics-at-gssi"
 title = "Postdoc positions at GSSI (L'Aquila)"
 +++
+
 [GSSI](https://www.gssi.it/) (L'Aquila, Italy) announces **two postdoc
 positions**  for one or more of the following profiles: *Numerical
 methods for Partial differential equations and Dynamical systems,

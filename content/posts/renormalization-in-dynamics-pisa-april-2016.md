@@ -5,6 +5,7 @@ date = "2015-11-19 10:52:20"
 slug = "renormalization-in-dynamics-pisa-april-2016"
 title = "\"Renormalization in Dynamics\" - Pisa, April 2016"
 +++
+
 The conference "Renormalization in Dynamics" will be held in Pisa, from
 April 4 until 8, 2016.
 

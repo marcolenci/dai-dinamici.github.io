@@ -5,6 +5,7 @@ date = "2020-12-03 09:37:33"
 slug = "third-dai-day-goes-online-new-dates-and-website-announcement"
 title = "Third DAI Day goes online: New dates and website announcement"
 +++
+
 Due to the current Covid-related restrictions in Italy, the [Third
 DinAmicI Day](http://daiday2020.unisalento.it/) (also abbreviated 3rd
 DAI Day) will take place online. It will also be split into two

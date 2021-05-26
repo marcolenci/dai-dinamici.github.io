@@ -5,6 +5,7 @@ date = "2015-09-23 08:08:15"
 slug = "aberystwyth-studentships-available"
 title = "Aberystwyth Studentships Available"
 +++
+
 Up to three fully-funded studentships are available for highly-motivated
 candidates to undertake PhD research within the Department of
 Mathematics at Aberystwyth University.

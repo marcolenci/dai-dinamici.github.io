@@ -5,6 +5,7 @@ date = "2015-02-25 16:41:05"
 slug = "latex-support-on-dai-website"
 title = "Latex support on this website"
 +++
+
 This website uses [MathJax](http://www.mathjax.org "MathJax"), a
 JavaScript library able to compile and render latex live in your
 browser. The syntax is fully explained here:

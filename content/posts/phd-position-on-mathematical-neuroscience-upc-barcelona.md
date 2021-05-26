@@ -5,6 +5,7 @@ date = "2019-01-20 10:02:19"
 slug = "phd-position-on-mathematical-neuroscience-upc-barcelona"
 title = "PhD position in Mathematical Neuroscience, UPC Barcelona"
 +++
+
 ## 
 
 A **PhD fellowship** of the *INPHINIT INCOMING* programme  

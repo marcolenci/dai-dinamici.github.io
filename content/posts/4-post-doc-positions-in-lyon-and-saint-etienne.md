@@ -5,6 +5,7 @@ date = "2019-11-05 18:15:52"
 slug = "4-post-doc-positions-in-lyon-and-saint-etienne"
 title = "4 postdoc positions in Lyon and Saint-Etienne"
 +++
+
 The Excellence Laboratory Milyon (Labex Milyon) has an opening for
 **four postdoctoral positions** in Lyon and Saint-Etienne, France, in
 the fields of Mathematics, Computer Science and their interactions

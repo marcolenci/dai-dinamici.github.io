@@ -5,6 +5,7 @@ date = "2017-03-21 21:01:00"
 slug = "phd-positions-at-gssi"
 title = "PhD positions at GSSI"
 +++
+
 The Gran Sasso Science Institute (GSSI) has opened a new call for PhD
 applications (**deadline <span term="goog_260835792">31 May
 2017</span>**).

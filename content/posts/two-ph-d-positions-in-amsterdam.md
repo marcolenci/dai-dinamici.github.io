@@ -5,6 +5,7 @@ date = "2016-02-22 09:00:32"
 slug = "two-ph-d-positions-in-amsterdam"
 title = "Two Ph.D. positions in Amsterdam"
 +++
+
 The KdV Institute for Mathematics of the University of Amsterdam offers
 two Ph.D. positions in Dynamical Systems and Complex Analysis at the
 University of Amsterdam.

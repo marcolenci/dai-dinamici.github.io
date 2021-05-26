@@ -36,6 +36,3 @@ title = "Youtube"
 url = "https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg"
 [permalinks]
 posts = "/:year/:month/:slug/"
-# [taxonomies]
-# author = "author"
-# category = "categories"

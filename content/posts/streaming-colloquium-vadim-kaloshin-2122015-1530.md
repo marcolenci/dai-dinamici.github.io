@@ -5,6 +5,7 @@ date = "2015-12-01 17:57:12"
 slug = "streaming-colloquium-vadim-kaloshin-2122015-1530"
 title = "Streaming Colloquium Vadim Kaloshin (2/12/2015, 15:30)"
 +++
+
 <div id=":c6a" class="ii gt m1515eadff304fb9b adP adO">
 
 <div id=":c6b" class="a3s">

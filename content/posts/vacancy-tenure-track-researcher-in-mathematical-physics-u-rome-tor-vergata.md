@@ -5,6 +5,7 @@ date = "2018-02-20 15:13:30"
 slug = "vacancy-tenure-track-researcher-in-mathematical-physics-u-rome-tor-vergata"
 title = "Vacancy: Tenure-track Researcher in Mathematical Physics (U. Rome Tor Vergata)"
 +++
+
 Presso l'Università degli studi di Roma "Tor Vergata", Dipartimento di
 Matematica, è indetta la procedura per il reclutamento di un ricercatore
 a tempo determinato di tipo B (RTD-B) nell'ambito del settore

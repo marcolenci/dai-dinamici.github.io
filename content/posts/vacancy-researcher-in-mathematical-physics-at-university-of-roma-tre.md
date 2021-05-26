@@ -5,6 +5,7 @@ date = "2018-07-09 10:25:01"
 slug = "vacancy-researcher-in-mathematical-physics-at-university-of-roma-tre"
 title = "Vacancy: Researcher in Mathematical Physics at University of Roma Tre"
 +++
+
 Presso l'Università di Roma Tre, Dipartimento di Matematica e Fisica, è
 indetta la procedura per il reclutamento di un ricercatore a tempo
 determinato di tipo B (RTD-B) nell'ambito del settore

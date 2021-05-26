@@ -5,6 +5,7 @@ date = "2017-03-24 16:27:23"
 slug = "dinamici-v-website-and-poster"
 title = "DinAmicI V - website and poster"
 +++
+
 A website for our upcoming INdAM Workshop
 
 **DinAmicI V Modern Trends in the Ergodic Theory of Dynamical Systems**

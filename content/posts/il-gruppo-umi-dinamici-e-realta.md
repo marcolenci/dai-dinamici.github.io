@@ -5,6 +5,7 @@ date = "2020-08-07 08:27:52"
 slug = "il-gruppo-umi-dinamici-e-realta"
 title = "Il Gruppo UMI DinAmicI è realtà!"
 +++
+
 Abbiamo appreso che la Commissione Scientifica dell'UMI ha approvato la
 nostra richiesta di creazione del Gruppo UMI proposto dai DinAmicI.
 L'inizio ufficiale delle attività del gruppo è fissato a giorno 1

@@ -5,6 +5,7 @@ date = "2020-07-08 09:57:32"
 slug = "call-for-phd-and-professor-in-dynamical-systems-at-the-university-of-groningen"
 title = "Call for PhD and professor in Dynamical Systems  at the University of Groningen"
 +++
+
 The Bernoulli Institute of the University of Groningen (NL) is
 advertising a **4-year PhD** position in dynamical systems, to work on
 the combination of multi-timescale dynamical systems and networks. The

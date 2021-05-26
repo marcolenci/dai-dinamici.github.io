@@ -5,6 +5,7 @@ date = "2015-12-15 04:02:37"
 slug = "3-year-research-associate-position-in-loughborough"
 title = "3-year research associate position in Loughborough"
 +++
+
 3-year post-doctoral research associate position in ergodic theory and
 dynamical systems at Loughborough University, UK:
 

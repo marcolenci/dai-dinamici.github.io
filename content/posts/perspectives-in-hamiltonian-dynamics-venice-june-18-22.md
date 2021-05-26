@@ -5,6 +5,7 @@ date = "2018-02-13 16:16:12"
 slug = "perspectives-in-hamiltonian-dynamics-venice-june-18-22"
 title = "Perspectives in Hamiltonian Dynamics (Venice, June 18-22)"
 +++
+
 **"Perspectives in Hamiltonian dynamics"**
 
 will be held in Venice (Italy) <span class="aBn" tabindex="0"

@@ -5,6 +5,7 @@ date = "2018-03-20 17:00:38"
 slug = "3-post-doc-positions-at-university-of-padova"
 title = "3 post-doc positions at University of Padova"
 +++
+
 Announcement for 3 post-doc positions at University of Padova, under the
 supervision of Gabriella Pinzari.
 

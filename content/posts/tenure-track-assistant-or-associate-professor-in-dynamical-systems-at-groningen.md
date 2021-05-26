@@ -5,6 +5,7 @@ date = "2020-06-30 08:37:22"
 slug = "tenure-track-assistant-or-associate-professor-in-dynamical-systems-at-groningen"
 title = "Tenure Track Assistant or Associate Professor in Dynamical Systems at Groningen"
 +++
+
 The University of Groningen is looking for an Assistant Professor
 (tenure track) or (preferably) Associate Professor, depending on your
 profile (see The University of Groningen Career Paths in Science), with

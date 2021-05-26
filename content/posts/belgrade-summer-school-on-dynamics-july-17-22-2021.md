@@ -5,6 +5,7 @@ date = "2021-03-17 10:44:24"
 slug = "belgrade-summer-school-on-dynamics-july-17-22-2021"
 title = "Belgrade Summer School on Dynamics, July 17-22, 2021"
 +++
+
 The Mathematical Institute of the Serbian Academy of Sciences and Arts
 will host the **Belgrade Summer School on Dynamics**, July 17-22, 2021,
 organized by Vladimir Dragović (UTD/MISANU) and Vadim Kaloshin (IST,

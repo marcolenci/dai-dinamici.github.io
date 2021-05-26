@@ -5,6 +5,7 @@ date = "2016-07-15 13:53:17"
 slug = "seminar-in-trieste-ian-melbourne"
 title = "Seminar in Trieste: Ian Melbourne"
 +++
+
 Wednesday 17th August at 14:30
 ([ICTP](http://www.ictp.it/research/math/seminars.aspx))
 

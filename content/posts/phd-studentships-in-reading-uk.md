@@ -5,6 +5,7 @@ date = "2019-06-12 16:42:03"
 slug = "phd-studentships-in-reading-uk"
 title = "PhD Studentships in Reading, UK"
 +++
+
 **PhD Studentships in the Mathematics of Planet Earth - starting in
 October 2019**
 

@@ -5,6 +5,7 @@ date = "2020-03-03 21:51:52"
 slug = "phd-scholarships-at-the-university-of-groningen"
 title = "PhD scholarships at the university of Groningen"
 +++
+
 There will be nine 4 year PhD position available at the University of
 Groningen.
 

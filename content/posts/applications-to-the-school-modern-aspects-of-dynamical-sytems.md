@@ -5,6 +5,7 @@ date = "2021-03-02 09:41:51"
 slug = "applications-to-the-school-modern-aspects-of-dynamical-sytems"
 title = "Applications to the school \"Modern Aspects of Dynamical Sytems\""
 +++
+
 This is to announce that applications to the Fondazione CIME school
 **“Modern Aspects of Dynamical Systems”**, first announced
 [here](https://www.dinamici.org/school-modern-aspects-of-dynamical-systems-20-24-july-2020/)

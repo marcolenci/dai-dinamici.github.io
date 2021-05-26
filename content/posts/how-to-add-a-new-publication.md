@@ -5,6 +5,7 @@ date = "2015-07-15 21:08:00"
 slug = "how-to-add-a-new-publication"
 title = "How to add a new publication"
 +++
+
 Keeping an up-to-date list of publications on our site is important in
 terms of our visibility as DinAmicI. Adding a new publication (by you or
 another member of our community) is rather straightforward, but still

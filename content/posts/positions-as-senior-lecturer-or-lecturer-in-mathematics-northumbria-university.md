@@ -5,6 +5,7 @@ date = "2018-11-19 12:41:29"
 slug = "positions-as-senior-lecturer-or-lecturer-in-mathematics-northumbria-university"
 title = "Positions as Senior Lecturer or Lecturer in Mathematics, Northumbria University"
 +++
+
 The Faculty of Engineering and Environment at *[Northumbria
 University](https://www.northumbria.ac.uk/)* is passionate about the
 principles and applications of Science and Technology in all its forms

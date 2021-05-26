@@ -5,6 +5,7 @@ date = "2016-12-02 14:37:27"
 slug = "indam-dp-cofund-ph-d-fellowships"
 title = "INdAM-DP-COFUND Ph.D. Fellowships"
 +++
+
 The **INdAM Doctoral Programme fellowships in Mathematics and/or
 Applications Cofunded by Marie Skłodowska-Curie Actions**
 (INdAM-DP-COFUND-2015) offers fellowships in the framework of the

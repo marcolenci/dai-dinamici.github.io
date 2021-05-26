@@ -5,6 +5,7 @@ date = "2016-06-21 14:01:48"
 slug = "dynamical-systems-school-ictp-trieste-july-2016"
 title = "Dynamical Systems School - ICTP, Trieste - July 2016."
 +++
+
 The school "[Algebraic, Geometric and Probabilistic Aspects of Dynamical
 Systems and Control Theory](http://indico.ictp.it/event/7647/)" will be
 held at ICTP Trieste, 4 - 15 July 2016.

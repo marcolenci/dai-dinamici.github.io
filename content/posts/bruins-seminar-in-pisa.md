@@ -5,6 +5,7 @@ date = "2015-10-28 13:06:39"
 slug = "bruins-seminar-in-pisa"
 title = "Bruin's seminar in Pisa"
 +++
+
 <div class="entry-content">
 
 Thursday 12th November 2015, h 9:30 Sala Conferenze, Collegio Puteano,

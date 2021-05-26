@@ -5,6 +5,7 @@ date = "2018-02-13 16:18:01"
 slug = "school-stable-and-chaotic-motions-in-the-planetary-problem"
 title = "School \"Stable and Chaotic Motions in the Planetary Problem\""
 +++
+
 The school:
 
 **"Stable and Chaotic Motions in the Planetary Problem"**

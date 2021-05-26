@@ -2,6 +2,7 @@
 date = "2014-10-15 16:17:42"
 title = "Welcome!"
 +++
+
 The **DinAmicI** are a group of Italian and adoptive Italian researchers
 in dynamical systems.
 

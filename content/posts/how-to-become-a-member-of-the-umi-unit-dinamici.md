@@ -5,6 +5,7 @@ date = "2020-12-14 17:29:05"
 slug = "how-to-become-a-member-of-the-umi-unit-dinamici"
 title = "How to become a member of the UMI Unit DinAmicI"
 +++
+
 As you may remember (see
 [here](https://www.dinamici.org/il-gruppo-umi-dinamici-e-realta/))
 DinAmicI is now also a unit of the Italian Mathematical Union (UMI).

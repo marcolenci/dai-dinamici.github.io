@@ -5,6 +5,7 @@ date = "2020-03-03 10:20:27"
 slug = "two-year-research-fellowship-at-the-university-of-pisa"
 title = "Two-year research fellowship at the University of Pisa"
 +++
+
 Opening for a **two-year  research fellowship in Dynamical Systems** at
 the University of Pisa. This position is supported by the national grant
 MIUR-PRIN 2017 “*Regular and stochastic behaviour in dynamical

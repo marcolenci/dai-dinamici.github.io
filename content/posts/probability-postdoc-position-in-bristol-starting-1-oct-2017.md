@@ -5,6 +5,7 @@ date = "2016-11-10 11:59:45"
 slug = "probability-postdoc-position-in-bristol-starting-1-oct-2017"
 title = "Probability postdoc position in Bristol, starting 1 Oct 2017"
 +++
+
 <div>
 
 Applications are invited for a 3 year Research Associate role in

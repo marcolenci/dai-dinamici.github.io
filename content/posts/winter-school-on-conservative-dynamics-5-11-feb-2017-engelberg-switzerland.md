@@ -5,6 +5,7 @@ date = "2016-10-10 18:13:08"
 slug = "winter-school-on-conservative-dynamics-5-11-feb-2017-engelberg-switzerland"
 title = "Winter School on Conservative Dynamics (5-11 Feb 2017, Engelberg, Switzerland)"
 +++
+
 ANNOUNCEMENT
 
 ETH-ITS Winter School on "CONSERVATIVE DYNAMICS"

@@ -5,6 +5,7 @@ date = "2021-04-08 13:31:04"
 slug = "rtdb-in-mathematical-physics-university-of-milano-bicocca"
 title = "RTDb in Mathematical Physics (University of Milano - Bicocca)"
 +++
+
 A tenure-track assistant professorship  (“RTDb” according to the Italian
 legislation) has been announced at the Department of Mathematics and
 Applications, University of Milano - Bicocca.

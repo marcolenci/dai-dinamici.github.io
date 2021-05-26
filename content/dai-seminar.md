@@ -1,9 +1,10 @@
 +++
 date = "2020-05-04 12:29:46"
+menu = "main"
 slug = "dai-seminar"
 title = "DAI Seminar"
-menu = "main"
 +++
+
 Welcome to the page of the
 
 **DinAmicI: Another Internet Seminar**  
@@ -98,4 +99,4 @@ See you "there"!
   
 **Previous editions:**  
 Seminars from past seasons are accessible from the [DAI Seminar Previous
-Editions]({{< ref "dai-seminar-previous-editions.md" >}}/) page.
+Editions]({{< ref "dai-seminar-previous-editions.md" >}}) page.

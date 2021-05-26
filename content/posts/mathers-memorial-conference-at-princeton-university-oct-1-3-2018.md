@@ -5,6 +5,7 @@ date = "2018-07-21 18:46:31"
 slug = "mathers-memorial-conference-at-princeton-university-oct-1-3-2018"
 title = "Mather's memorial conference at Princeton University (Oct. 1-3 2018)"
 +++
+
 Dear colleagues,
 
 on October 1st - 3rd 2018, it will be held at Princeton University a

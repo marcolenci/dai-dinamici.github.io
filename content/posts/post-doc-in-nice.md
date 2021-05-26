@@ -5,6 +5,7 @@ date = "2018-05-03 11:24:41"
 slug = "post-doc-in-nice"
 title = "Postdoc in Nice"
 +++
+
 **Post-doc position (ANR project "DynGeo")**
 
 The post-doc position is a pure research position without mandatory

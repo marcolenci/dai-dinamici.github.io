@@ -5,6 +5,7 @@ date = "2019-02-15 12:29:02"
 slug = "rtd-di-tipo-b-tenure-track-pisa"
 title = "RTD di tipo B (tenure-track), University of Pisa"
 +++
+
 E\` stato pubblicato sul sito web dell'Università di Pisa, il seguente
 bando per ricercatore a tempo determinato di tipo B (tenure-track
 position)

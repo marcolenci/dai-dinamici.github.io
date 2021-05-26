@@ -5,6 +5,7 @@ date = "2021-01-13 19:41:20"
 slug = "postdocs-in-moscow"
 title = "Postdocs in Moscow"
 +++
+
 The Faculty of Mathematics (FM) of the Higher School of Economics (HSE
 University), Moscow, invites applications for postdoctoral research
 positions in Mathematics and Mathematical Physics. Appointments are

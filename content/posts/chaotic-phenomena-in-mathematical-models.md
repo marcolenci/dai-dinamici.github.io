@@ -5,6 +5,7 @@ date = "2016-07-05 21:38:48"
 slug = "chaotic-phenomena-in-mathematical-models"
 title = "Chaotic phenomena in mathematical models"
 +++
+
 At the end of the Pisa-Hokkaido, 2016 summer school, there will be a
 small workshop involving dynamics.
 

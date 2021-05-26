@@ -5,6 +5,7 @@ date = "2019-01-06 21:02:53"
 slug = "postdoc-at-scuola-normale-superiore-pisa"
 title = "Postdoc at Scuola Normale Superiore, Pisa"
 +++
+
 A two-year long research position in “Dynamical Systems" is available at
 the Centro di Ricerca Matematica Ennio De Giorgi in Pisa.
 

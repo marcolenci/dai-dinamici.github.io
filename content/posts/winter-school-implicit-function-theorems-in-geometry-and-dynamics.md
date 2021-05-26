@@ -5,6 +5,7 @@ date = "2019-11-04 13:58:30"
 slug = "winter-school-implicit-function-theorems-in-geometry-and-dynamics"
 title = "Winter school: Implicit Function Theorems in Geometry and Dynamics"
 +++
+
 Announcement of the Winter School:
 
 "**Implicit function theorems in Geometry and Dynamics**"

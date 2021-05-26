@@ -3,6 +3,7 @@ date = "2020-10-29 09:24:11"
 slug = "dai-seminar-previous-editions"
 title = "DAI Seminar, previous editions"
 +++
+
 This page contains a record of the past editions of the
 
 **DinAmicI: Another Internet Seminar**  

@@ -5,6 +5,7 @@ date = "2020-10-20 10:02:33"
 slug = "post-doc-and-junior-professorship-in-geometry-and-dynamics-at-heidelberg-university"
 title = "Postdoc and Junior Professorship in Geometry and Dynamics at Heidelberg University"
 +++
+
 **Postdoc position**
 
 The Department of Mathematics at Heidelberg University invites

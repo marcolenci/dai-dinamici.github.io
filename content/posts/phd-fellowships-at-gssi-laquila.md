@@ -5,6 +5,7 @@ date = "2019-04-25 16:36:24"
 slug = "phd-fellowships-at-gssi-laquila"
 title = "PhD Fellowships at GSSI, L'Aquila"
 +++
+
 The GSSI-Gran Sasso Science Institute offers [31 PhD
 fellowships](http://www.gssi.it/phd/) for the academic year 2019/20 and
 invites applications for fellowships for the PhD Programmes in

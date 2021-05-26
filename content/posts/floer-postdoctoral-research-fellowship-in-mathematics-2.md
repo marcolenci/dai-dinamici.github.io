@@ -5,6 +5,7 @@ date = "2019-12-09 18:11:07"
 slug = "floer-postdoctoral-research-fellowship-in-mathematics-2"
 title = "Floer Postdoctoral Research Fellowship in Mathematics"
 +++
+
 The Floer Centre of Geometry (FCG) invites applications for a 3 year
 postdoctoral fellowship to pursue research in mathematics at the
 Ruhr-Universität Bochum.  

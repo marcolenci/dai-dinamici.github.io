@@ -5,6 +5,7 @@ date = "2017-08-12 13:41:45"
 slug = "postdoc-at-exeter"
 title = "Postdoc at Exeter"
 +++
+
 **Postdoctoral position in Dynamical Systems at the University of
 Exeter**
 

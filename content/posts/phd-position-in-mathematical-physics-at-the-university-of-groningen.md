@@ -5,6 +5,7 @@ date = "2018-11-07 11:26:59"
 slug = "phd-position-in-mathematical-physics-at-the-university-of-groningen"
 title = "PhD position in Mathematical Physics at the University of Groningen"
 +++
+
 #### PhD position in Mathematical Physics (218498)
 
 The research group, *Dynamical Systems, Geometry and Mathematical

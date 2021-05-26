@@ -5,6 +5,7 @@ date = "2016-08-08 08:37:55"
 slug = "ictp-indam-research-in-pairs-in-mathematics"
 title = "ICTP-INdAM Research in Pairs in Mathematics"
 +++
+
 <div class="content">
 
 ICTP and the Istituto Nazionale di Alta Matematica (INdAM) have launched

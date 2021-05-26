@@ -5,6 +5,7 @@ date = "2019-02-15 11:30:44"
 slug = "esa-space-debris-training-course-2019"
 title = "ESA Space Debris Training Course 2019"
 +++
+
 ESA have opened the call for university students to participate in the
 space debris training course for 2019.
 

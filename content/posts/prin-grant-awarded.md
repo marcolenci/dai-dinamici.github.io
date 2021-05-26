@@ -5,6 +5,7 @@ date = "2019-02-18 16:34:01"
 slug = "prin-grant-awarded"
 title = "PRIN Grant Awarded!"
 +++
+
 A PRIN Grant has been awarded by the Italian Ministry of Education,
 University and Research to the research project *"Regular and stochastic
 behaviour in dynamical systems"*, submitted last year by several

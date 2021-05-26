@@ -5,6 +5,7 @@ date = "2018-06-01 08:53:07"
 slug = "34-phd-fellowships-at-the-gran-sasso-science-institute"
 title = "34 PhD fellowships at the Gran Sasso Science Institute"
 +++
+
 [GSSI – Gran Sasso Science Institute](http://gssi.it/) advertises: <span
 style="font-family: tahoma, sans-serif;"> </span>**34 PhD fellowships at
 the GSSI:** - 10 in “Astroparticle Physics” - 8 in “Mathematics in

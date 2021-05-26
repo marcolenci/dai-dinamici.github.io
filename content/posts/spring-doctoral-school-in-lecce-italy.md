@@ -5,6 +5,7 @@ date = "2017-02-26 13:11:20"
 slug = "spring-doctoral-school-in-lecce-italy"
 title = "Spring Doctoral School in Lecce, Italy"
 +++
+
 The 2017 CRITICS Spring Doctoral School  will be held at University of
 Salento in Lecce from April 18th to 22nd:
 

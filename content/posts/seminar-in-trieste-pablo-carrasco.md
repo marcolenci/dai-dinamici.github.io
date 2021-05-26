@@ -5,6 +5,7 @@ date = "2016-08-01 08:37:01"
 slug = "seminar-in-trieste-pablo-carrasco"
 title = "Seminar in Trieste: Pablo Carrasco"
 +++
+
 Thursday 4th August at 14:30
 ([ICTP](http://www.ictp.it/research/math/seminars.aspx))
 

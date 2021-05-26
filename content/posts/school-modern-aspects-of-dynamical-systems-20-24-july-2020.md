@@ -5,6 +5,7 @@ date = "2019-11-12 11:00:46"
 slug = "school-modern-aspects-of-dynamical-systems-20-24-july-2020"
 title = "School \"Modern Aspects of Dynamical Systems\" - 20-24 July 2020"
 +++
+
 This is the first announcement of the school
 
 **"Modern Aspects of Dynamical Systems"**

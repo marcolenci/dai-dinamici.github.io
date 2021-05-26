@@ -5,6 +5,7 @@ date = "2018-10-25 19:00:27"
 slug = "postdoc-in-porto-3"
 title = "Postdoc in Porto"
 +++
+
 One researcher position is available within the research project
 “Limiting laws ruling dynamical systems”, reference
 PTDC/MAT-PUR/28177/2017, funded by FCT.

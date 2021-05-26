@@ -5,6 +5,7 @@ date = "2018-08-03 16:48:44"
 slug = "vacancy-researcher-in-mathematical-physics-at-university-of-roma-la-sapienza"
 title = "Vacancy: Researcher in Mathematical Physics at University of Roma La Sapienza"
 +++
+
 Presso l'Università di Roma La Sapienza, è indetta la procedura per il
 reclutamento di un ricercatore a tempo determinato di tipo B (RTD-B)
 nell'ambito del settore scientifico-disciplinare di FISICA-MATEMATICA

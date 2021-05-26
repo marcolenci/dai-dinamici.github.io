@@ -5,6 +5,7 @@ date = "2019-10-30 19:13:54"
 slug = "rtdb-settore-01-a4-fisica-matematica-univ-roma-tor-vergata"
 title = "RTDb settore 01/A4 (Fisica Matematica) - Università di Roma \"Tor Vergata\""
 +++
+
 Selezione pubblica per il reclutamento di n. 1 ricercatore con contratto
 a tempo determinato ai sensi dell’art. 24, comma 3, lettera b) della
 legge 30 dicembre 2010, n. 240 presso il Dipartimento di Matematica

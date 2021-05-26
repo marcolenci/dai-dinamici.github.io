@@ -5,6 +5,7 @@ date = "2016-08-08 09:34:36"
 slug = "senior-postdoc-position-in-bologna"
 title = "Senior postdoc position in Bologna"
 +++
+
 The Department of Mathematics of Università di Bologna has opened a call
 for a 1+1-year postdoctoral position denominated *"Advanced postdoctoral
 position in Mathematics and Applications in Sciences, Social Sciences

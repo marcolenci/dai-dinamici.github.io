@@ -5,6 +5,7 @@ date = "2015-07-16 08:46:34"
 slug = "de-simois-seminar-in-pisa"
 title = "De Simoi's seminar in Pisa"
 +++
+
 Monday  20/7/2015, h 11:30-12:30 Sala Conferenze (Puteano, Centro De
 Giorgi)
 

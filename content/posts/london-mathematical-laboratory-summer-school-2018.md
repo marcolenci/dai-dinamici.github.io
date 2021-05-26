@@ -5,6 +5,7 @@ date = "2018-01-19 15:26:14"
 slug = "london-mathematical-laboratory-summer-school-2018"
 title = "London Mathematical Laboratory Summer School 2018"
 +++
+
 Applications are invited for the London Mathematical Laboratory (LML)
 Summer School from <span term="goog_1891825280">Monday 23rd July –
 Friday 17th August 2018</span>. Successful applicants will carry out a

@@ -5,6 +5,7 @@ date = "2020-04-21 12:52:55"
 slug = "the-brin-prize-2020-to-corinna-ulcigrai"
 title = "The Brin Prize 2020 awarded to Corinna Ulcigrai!"
 +++
+
 The ninth Brin Prize in Dynamical Systems has been awarded to our own
 
 **Corinna Ulcigrai** (University of Zurich)

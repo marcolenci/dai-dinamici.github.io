@@ -5,6 +5,7 @@ date = "2019-02-08 19:14:21"
 slug = "two-esr-early-stage-researcher-positions-at-the-department-of-mathematics-university-of-rome-tor-vergata"
 title = "Two ESR (Early Stage Researcher) positions, University of Rome Tor Vergata"
 +++
+
 As part of the Marie Curie Initial Training Network, STARDUST-R, the
 Department of Mathematics of the University of Rome Tor Vergata offers 2
 fully funded ESR positions on the following subjects:  

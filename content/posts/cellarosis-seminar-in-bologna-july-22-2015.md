@@ -5,6 +5,7 @@ date = "2015-07-16 08:58:17"
 slug = "cellarosis-seminar-in-bologna-july-22-2015"
 title = "Cellarosi's seminar in Bologna, July 22, 2015"
 +++
+
 When: Wednesday July 22, 2015, at 11:30
 
 Where: Seminario I, Dept. of Mathematics, Università di Bologna

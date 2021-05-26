@@ -5,6 +5,7 @@ date = "2016-11-22 16:20:31"
 slug = "prima-giornata-dinamica-25-november-2016"
 title = "Prima Giornata DinAmica - 25 November 2016"
 +++
+
 The [First DinAmicI
 Day](http://www.gssi.infn.it/seminars/seminars-and-events-2016/item/1100-first-dinamici-day)
 to be held at [Gran Sasso Science Institute](http://www.gssi.infn.it/)

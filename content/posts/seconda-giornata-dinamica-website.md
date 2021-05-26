@@ -5,6 +5,7 @@ date = "2018-11-12 20:10:21"
 slug = "seconda-giornata-dinamica-website"
 title = "Seconda Giornata DinAmica: website"
 +++
+
 A website for the [**Seconda Giornata
 DinAmica**](https://www.dinamici.org/?p=987), or **2nd DAI Day**,  is up
 and running:

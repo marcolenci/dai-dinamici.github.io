@@ -5,6 +5,7 @@ date = "2016-05-24 08:34:45"
 slug = "seminar-in-pisa-vitaly-bergelson"
 title = "Seminar in Pisa: Vitaly Bergelson"
 +++
+
 Thursday 9th June, h 16:00
 
 Aula Magna, Dipartimento di Matematica, Pisa

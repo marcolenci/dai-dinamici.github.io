@@ -5,6 +5,7 @@ date = "2017-10-26 13:53:03"
 slug = "postdoc-in-marseille"
 title = "Postdoc in Marseille"
 +++
+
 Institut de Mathematiques de Marseille announces CNRS ERC Post-Doctoral
 Research Positions in Mathematics.
 

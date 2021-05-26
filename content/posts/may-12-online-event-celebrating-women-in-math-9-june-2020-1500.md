@@ -5,6 +5,7 @@ date = "2020-05-23 10:16:21"
 slug = "may-12-online-event-celebrating-women-in-math-9-june-2020-1500"
 title = "May-12 online event: Celebrating Women in Math  (9 June 2020, 15:00)"
 +++
+
 The Department of Mathematics of University of Rome Tor Vergata invites
 you to attend the following event, organized as part of the
 international project "May 12" (<https://may12.womeninmaths.org/>).

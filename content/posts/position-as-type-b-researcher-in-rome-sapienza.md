@@ -5,6 +5,7 @@ date = "2015-09-02 07:54:59"
 slug = "position-as-type-b-researcher-in-rome-sapienza"
 title = "Position as Type B Researcher in Rome Sapienza"
 +++
+
 The Department of Mathematics of University of Rome Sapienza offers a
 position as a Type B Researcher *(Ricercatore a Tempo Determinato di
 tipo B)* in Mathematical Physics *(Settore Scientifico Disciplinare

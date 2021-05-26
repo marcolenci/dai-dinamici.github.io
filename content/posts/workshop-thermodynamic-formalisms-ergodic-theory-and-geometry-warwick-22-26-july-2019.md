@@ -5,6 +5,7 @@ date = "2019-02-27 17:16:28"
 slug = "workshop-thermodynamic-formalisms-ergodic-theory-and-geometry-warwick-22-26-july-2019"
 title = "Workshop \"Thermodynamic Formalisms: Ergodic Theory and Geometry\", Warwick, 22-26 July 2019"
 +++
+
 Workshop  
 **"Thermodynamic Formalisms: Ergodic Theory and Geometry"**  
 *University of Warwick, 22-26 July 2019*  
