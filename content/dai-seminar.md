@@ -98,4 +98,4 @@ See you "there"!
   
 **Previous editions:**  
 Seminars from past seasons are accessible from the [DAI Seminar Previous
-Editions](https://www.dinamici.org/dai-seminar-previous-editions/) page.
+Editions]({{< ref "dai-seminar-previous-editions.md" >}}/) page.

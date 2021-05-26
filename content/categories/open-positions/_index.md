@@ -1,4 +1,4 @@
 +++
 menu="main"
-title="open positions"
+title="Open Positions"
 +++
