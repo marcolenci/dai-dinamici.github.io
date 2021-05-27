@@ -1,0 +1,68 @@
+{{ define "main" }}
+<style>
+  .profile-container {
+    background-color: #ECEFF1;
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 10px;
+  }
+
+  .profile-img {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    margin-top: 55px;
+    margin-left: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  .text-container {
+    position: relative;
+    right: 0;
+    margin-left: 220px;
+    margin-right: 40px;
+    margin-top: 45px;
+    max-width: 230px;
+    text-align: center;
+  }
+
+  .title-text {
+    color: #263238;
+    font-size: 28px;
+    font-weight: 600;
+    margin-top: 5px;
+  }
+
+  .desc-text {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+</style>
+
+<main class="main list" role="main">
+  {{- with .Title }}
+  <header class="main__header">
+    <h1 class="main__title">{{ . }}</h1>
+  </header>
+  {{- end }}
+  <div class="content main__content clearfix">
+
+    {{ $dataJ := getJSON "data/people.json" }}
+    {{ range $dataJ }}
+
+    <div class="profile-container">
+      <div class="circle"></div>
+      <img class="profile-img" src="{{ $.Site.BaseURL }}/{{ .path }}">
+      <div class="text-container">
+        <p class="title-text">{{ .name }}</p>
+        {{ if .description }}<p class="desc-text">{{ .description | markdownify }}</p>{{ end }}
+      </div>
+    </div>
+
+    {{ end }}
+  </div>
+</main>
+{{ end }}
