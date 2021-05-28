@@ -22,7 +22,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Giulio Tiozzo (University of Toronto, Canada)
-DESCRIPTION:<no value>
+DESCRIPTION:Central limit theorems for counting measures in coarse negative curvature
 UID:2020-05-04 12:18:03 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,6 +34,6 @@ DTSTART:20200514T170000
 DTEND:20200514T180000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/giulio-tiozzo-university-of-toronto-canada/
+URL:https://dai-dinamici.github.org/dai-seminars/giulio-tiozzo-university-of-toronto-canada/
 END:VEVENT
 END:VCALENDAR

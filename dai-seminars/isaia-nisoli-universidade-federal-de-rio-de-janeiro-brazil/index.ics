@@ -22,7 +22,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Isaia Nisoli  (Universidade Federal do Rio de Janeiro, Brazil)
-DESCRIPTION:<no value>
+DESCRIPTION:A simple system presenting Noise Induced Order
 UID:2020-11-11 15:00:18 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,6 +34,6 @@ DTSTART:20201116T140000
 DTEND:20201116T150000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/isaia-nisoli-universidade-federal-de-rio-de-janeiro-brazil/
+URL:https://dai-dinamici.github.org/dai-seminars/isaia-nisoli-universidade-federal-de-rio-de-janeiro-brazil/
 END:VEVENT
 END:VCALENDAR

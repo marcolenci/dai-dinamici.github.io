@@ -22,7 +22,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Francesco Cellarosi  (Queen's University, Canada)
-DESCRIPTION:<no value>
+DESCRIPTION:Rational Horocycle lifts and the tails of Quadratic Weyl sums
 UID:2020-05-04 12:22:09 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,6 +34,6 @@ DTSTART:20200528T170000
 DTEND:20200528T180000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/28-5-francesco-cellarosi/
+URL:https://dai-dinamici.github.org/dai-seminars/28-5-francesco-cellarosi/
 END:VEVENT
 END:VCALENDAR

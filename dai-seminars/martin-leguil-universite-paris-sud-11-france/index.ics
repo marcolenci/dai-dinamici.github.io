@@ -21,8 +21,8 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Martin Leguil  (Université Paris-Sud 11, France)
-DESCRIPTION:<no value>
+SUMMARY:Martin Leguil (Université Paris-Sud 11, France)
+DESCRIPTION:Some rigidity results for billiards and hyperbolic flows
 UID:2020-05-04 12:20:21 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,6 +34,6 @@ DTSTART:20200521T170000
 DTEND:20200521T180000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/martin-leguil-universite-paris-sud-11-france/
+URL:https://dai-dinamici.github.org/dai-seminars/martin-leguil-universite-paris-sud-11-france/
 END:VEVENT
 END:VCALENDAR

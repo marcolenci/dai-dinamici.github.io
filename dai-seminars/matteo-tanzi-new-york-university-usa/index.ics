@@ -22,7 +22,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Matteo Tanzi (New York University, USA)
-DESCRIPTION:<no value>
+DESCRIPTION:Random-like properties of chaotic forcing
 UID:2021-05-25 08:28:30 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,6 +34,6 @@ DTSTART:20210604T160000
 DTEND:20210604T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/matteo-tanzi-new-york-university-usa/
+URL:https://dai-dinamici.github.org/dai-seminars/matteo-tanzi-new-york-university-usa/
 END:VEVENT
 END:VCALENDAR

@@ -22,7 +22,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Michele Gianfelice (Università della Calabria, Italy)
-DESCRIPTION:<no value>
+DESCRIPTION:Stochastic stability of classical Lorenz flow under impulsive type forcing
 UID:2021-01-11 13:27:47 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,6 +34,6 @@ DTSTART:20210128T160000
 DTEND:20210128T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/michele-gianfelice-universita-della-calabria-italy/
+URL:https://dai-dinamici.github.org/dai-seminars/michele-gianfelice-universita-della-calabria-italy/
 END:VEVENT
 END:VCALENDAR

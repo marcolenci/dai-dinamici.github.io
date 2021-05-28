@@ -22,7 +22,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Carlangelo Liverani (Università di Roma Tor Vergata, Italy)
-DESCRIPTION:<no value>
+DESCRIPTION:Locating Ruelle-Pollicott resonances
 UID:2020-11-10 13:58:20 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,6 +34,6 @@ DTSTART:20201210T160000
 DTEND:20201210T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/carlangelo-liverani-universita-di-roma-tor-vergata-italy/
+URL:https://dai-dinamici.github.org/dai-seminars/carlangelo-liverani-universita-di-roma-tor-vergata-italy/
 END:VEVENT
 END:VCALENDAR

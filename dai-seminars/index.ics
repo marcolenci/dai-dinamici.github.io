@@ -22,7 +22,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Kasun Fernando (University of Toronto, Canada)
-DESCRIPTION:<no value>
+DESCRIPTION:Kasun Fernando - TBA
 UID:2021-05-25 08:33:27 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,12 +34,12 @@ DTSTART:20210624T160000
 DTEND:20210624T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/kasun-fernando-university-of-toronto-canada/
+URL:https://dai-dinamici.github.org/dai-seminars/kasun-fernando-university-of-toronto-canada/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Mauro Artigiani (Universidad del Rosario, Colombia)
-DESCRIPTION:<no value>
+DESCRIPTION:Mauro Artigiani - TBA
 UID:2021-05-25 08:31:10 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -51,12 +51,12 @@ DTSTART:20210617T160000
 DTEND:20210617T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/mauro-artigiani-universidad-del-rosario-colombia/
+URL:https://dai-dinamici.github.org/dai-seminars/mauro-artigiani-universidad-del-rosario-colombia/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Matteo Tanzi (New York University, USA)
-DESCRIPTION:<no value>
+DESCRIPTION:Matteo Tanzi - Random-like properties of chaotic forcing
 UID:2021-05-25 08:28:30 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -68,12 +68,12 @@ DTSTART:20210604T160000
 DTEND:20210604T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/matteo-tanzi-new-york-university-usa/
+URL:https://dai-dinamici.github.org/dai-seminars/matteo-tanzi-new-york-university-usa/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Umberto Zannier (Scuola Normale Superiore, Italy)
-DESCRIPTION:<no value>
+DESCRIPTION:Umberto Zannier - Torsion values of sections, elliptical billiards and diophantine problems in dynamics
 UID:2021-04-29 08:40:46 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -85,12 +85,12 @@ DTSTART:20210520T160000
 DTEND:20210520T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/umberto-zannier-scuola-normale-superiore-italy/
+URL:https://dai-dinamici.github.org/dai-seminars/umberto-zannier-scuola-normale-superiore-italy/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Selim Ghazouani (Université d’Orsay, France)
-DESCRIPTION:<no value>
+DESCRIPTION:Selim Ghazouani - Piecewise affine homeomorphisms of the circle and dilation surfaces
 UID:2021-04-16 21:04:47 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -102,12 +102,12 @@ DTSTART:20210506T160000
 DTEND:20210506T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/selim-ghazouani-universite-dorsay-france/
+URL:https://dai-dinamici.github.org/dai-seminars/selim-ghazouani-universite-dorsay-france/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Tanja Schindler (Scuola Normale Superiore, Italy)
-DESCRIPTION:<no value>
+DESCRIPTION:Tanja Schindler - Almost sure asymptotic behaviour of Birkhoff sums for infinite measure-preserving dynamical systems
 UID:2021-04-08 22:04:06 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -119,12 +119,12 @@ DTSTART:20210422T160000
 DTEND:20210422T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/tanja-schindler-scuola-normale-superiore-italy/
+URL:https://dai-dinamici.github.org/dai-seminars/tanja-schindler-scuola-normale-superiore-italy/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Eva Miranda (Universitat Politècnica de Catalunya) and Daniel Peralta-Salas (Instituto de Ciencias Matemáticas, Spain)
-DESCRIPTION:<no value>
+DESCRIPTION:Eva Miranda and Daniel Peralta-Salas - Looking at Euler flows through a contact mirror: Universality and Turing completeness
 UID:2021-03-24 09:39:26 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -136,12 +136,12 @@ DTSTART:20210408T160000
 DTEND:20210408T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/eva-miranda-universitat-politecnica-de-catalunya-and-daniel-peralta-salas-instituto-de-ciencias-matematicas-spain/
+URL:https://dai-dinamici.github.org/dai-seminars/eva-miranda-universitat-politecnica-de-catalunya-and-daniel-peralta-salas-instituto-de-ciencias-matematicas-spain/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Álvaro del Pino Gómez (Utrecht University, The Netherlands)
-DESCRIPTION:<no value>
+DESCRIPTION:Álvaro del Pino Gómez - Billiards in subriemannian geometry
 UID:2021-03-08 15:14:43 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -153,12 +153,12 @@ DTSTART:20210325T160000
 DTEND:20210325T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/alvaro-del-pino-gomez/
+URL:https://dai-dinamici.github.org/dai-seminars/alvaro-del-pino-gomez/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Alessandro Della Corte (Università di Camerino, Italy)
-DESCRIPTION:<no value>
+DESCRIPTION:Alessandro Della Corte - The simplest erasing substitution
 UID:2021-02-23 16:22:09 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -170,12 +170,12 @@ DTSTART:20210311T170000
 DTEND:20210311T180000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/alessandro-della-corte-universita-di-camerino-italy/
+URL:https://dai-dinamici.github.org/dai-seminars/alessandro-della-corte-universita-di-camerino-italy/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Paolo Giulietti (Università di Pisa, Italy)
-DESCRIPTION:<no value>
+DESCRIPTION:Paolo Giulietti - Infinite mixing for accessible skew products
 UID:2021-02-17 15:15:05 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -187,12 +187,12 @@ DTSTART:20210225T160000
 DTEND:20210225T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/paolo-giulietti-universita-di-pisa-italy/
+URL:https://dai-dinamici.github.org/dai-seminars/paolo-giulietti-universita-di-pisa-italy/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Gary Froyland (University of New South Wales, Australia)
-DESCRIPTION:<no value>
+DESCRIPTION:Gary Froyland - The dynamic ocean
 UID:2021-01-26 12:12:10 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -204,12 +204,12 @@ DTSTART:20210204T100000
 DTEND:20210204T110000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/gary-froyland-university-of-new-south-wales-australia/
+URL:https://dai-dinamici.github.org/dai-seminars/gary-froyland-university-of-new-south-wales-australia/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Misha Bialy (Tel Aviv University, Israel)
-DESCRIPTION:<no value>
+DESCRIPTION:Misha Bialy - Birkhoff-Poritsky conjecture for centrally-symmetric billiards
 UID:2021-01-26 08:29:01 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -221,12 +221,12 @@ DTSTART:20210211T160000
 DTEND:20210211T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/mischa-bialy-tel-aviv-university-israel/
+URL:https://dai-dinamici.github.org/dai-seminars/mischa-bialy-tel-aviv-university-israel/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Michele Gianfelice (Università della Calabria, Italy)
-DESCRIPTION:<no value>
+DESCRIPTION:Michele Gianfelice - Stochastic stability of classical Lorenz flow under impulsive type forcing
 UID:2021-01-11 13:27:47 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -238,12 +238,12 @@ DTSTART:20210128T160000
 DTEND:20210128T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/michele-gianfelice-universita-della-calabria-italy/
+URL:https://dai-dinamici.github.org/dai-seminars/michele-gianfelice-universita-della-calabria-italy/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Andrea Venturelli (Université d’Avignon, France)
-DESCRIPTION:<no value>
+DESCRIPTION:Andrea Venturelli - Hyperbolic motion in the Newtonian N-body problem with arbitrary limit shape
 UID:2021-01-07 09:00:26 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -255,12 +255,12 @@ DTSTART:20210114T160000
 DTEND:20210114T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/andrea-venturelli-universite-davignon-france/
+URL:https://dai-dinamici.github.org/dai-seminars/andrea-venturelli-universite-davignon-france/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Anna Miriam Benini  (Università di Parma, Italy)
-DESCRIPTION:<no value>
+SUMMARY:Anna Miriam Benini (Università di Parma, Italy)
+DESCRIPTION:Anna Miriam Benini - Infinite entropy for transcendental entire functions
 UID:2020-11-12 14:07:49 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -272,12 +272,12 @@ DTSTART:20201126T170000
 DTEND:20201126T180000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/miriam-benini-universita-di-parma-italy/
+URL:https://dai-dinamici.github.org/dai-seminars/miriam-benini-universita-di-parma-italy/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Isaia Nisoli  (Universidade Federal do Rio de Janeiro, Brazil)
-DESCRIPTION:<no value>
+DESCRIPTION:Isaia Nisoli - A simple system presenting Noise Induced Order
 UID:2020-11-11 15:00:18 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -289,12 +289,12 @@ DTSTART:20201116T140000
 DTEND:20201116T150000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/isaia-nisoli-universidade-federal-de-rio-de-janeiro-brazil/
+URL:https://dai-dinamici.github.org/dai-seminars/isaia-nisoli-universidade-federal-de-rio-de-janeiro-brazil/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Carlangelo Liverani (Università di Roma Tor Vergata, Italy)
-DESCRIPTION:<no value>
+DESCRIPTION:Carlangelo Liverani - Locating Ruelle-Pollicott resonances
 UID:2020-11-10 13:58:20 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -306,12 +306,12 @@ DTSTART:20201210T160000
 DTEND:20201210T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/carlangelo-liverani-universita-di-roma-tor-vergata-italy/
+URL:https://dai-dinamici.github.org/dai-seminars/carlangelo-liverani-universita-di-roma-tor-vergata-italy/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Stefano Marò (Università di Pisa, Italy)
-DESCRIPTION:<no value>
+DESCRIPTION:Stefano Marò - Chaotic motion in the breathing circle billiard
 UID:2020-11-03 21:29:00 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -323,90 +323,147 @@ DTSTART:20201112T160000
 DTEND:20201112T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/stefano-maro-university-of-pisa-italy/
+URL:https://dai-dinamici.github.org/dai-seminars/stefano-maro-university-of-pisa-italy/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Françoise Pène  (Université de Bretagne Occidentale, France)
-DESCRIPTION:<no value>
+SUMMARY:Françoise Pène (Université de Bretagne Occidentale, France)
+DESCRIPTION:Françoise Pène - Invariance by induction of the asymptotic variance
 UID:2020-06-18 11:00:20 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:20200618T110020
 
+DTSTART:20200708T170000
+
+
+DTEND:20200708T180000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/francoise-pene-universite-de-bretagne-occidentale-france/
+URL:https://dai-dinamici.github.org/dai-seminars/francoise-pene-universite-de-bretagne-occidentale-france/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Andreas Knauf  (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany)
-DESCRIPTION:<no value>
+SUMMARY:Andreas Knauf (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany)
+DESCRIPTION:Andreas Knauf - Asymptotic velocity for scattering particles
 UID:2020-06-11 07:07:48 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:20200611T070748
 
+DTSTART:20200624T170000
+
+
+DTEND:20200624T180000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/andreas-knauf-friedrich-alexander-universitat-erlangen-nurnberg-germany/
+URL:https://dai-dinamici.github.org/dai-seminars/andreas-knauf-friedrich-alexander-universitat-erlangen-nurnberg-germany/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Seminar by Marta Maggioni postponed to July 1
-DESCRIPTION:<no value>
+DESCRIPTION:<p>The DinAmicI, in solidarity with the #Strike4BlackLives and
+#ShutDownSTEM movements on June 10, 2020, acknowledge the racism
+present throughout academia and especially in STEM subjects. In
+agreement with our speaker Marta Maggioni, whom we sincerely thank, we
+have decided to reschedule her talk to July 1st. We apologize for any
+inconvenience and invite everybody to reflect and take action on
+systemic inequalities in academia and science.</p>
+<p><a href="https://www.nature.com/articles/d41586-020-01721-x">https://www.nature.com/articles/d41586-020-01721-x</a></p>
+
 UID:2020-06-10 08:34:39 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:20200610T083439
 
+DTSTART:20200610T170000
+
+
+DTEND:20200610T180000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/seminar-by-marta-maggioni-universiteit-leiden-netherlands-postponed-to-july-1/
+URL:https://dai-dinamici.github.org/dai-seminars/seminar-by-marta-maggioni-universiteit-leiden-netherlands-postponed-to-july-1/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Sunrose Shrestha  (Tufts University, USA)
-DESCRIPTION:<no value>
+DESCRIPTION:<p><em>Speaker:</em> <strong>Sunrose Shrestha</strong>  (Tufts University, USA)</p>
+<p><em>Title:</em> <em><strong>The topology and geometry of random square-tiled surfaces</strong></em></p>
+<p><em>Abstract:</em> A square-tiled surface (STS) is a branched cover of the
+standard square torus with branching over exactly one point. They are
+concrete examples of translation surfaces which are an important class
+of singular flat metrics on 2-manifolds with applications in Teichmüller
+theory and polygonal billiards. In this talk we will consider a
+randomizing model for STSs based on permutation pairs and use it to
+compute the genus distribution. We also study holonomy vectors
+(Euclidean displacement vectors between cone points) on a random STS.
+Holonomy vectors of translation surfaces provide coordinates on the
+space of translation surfaces and their enumeration up to a fixed length
+has been studied by various authors such as Eskin and Masur. In this
+talk, we obtain finer information about the set of holonomy vectors,
+Hol(S), of a random STS. In particular, we will see how often Hol(S)
+contains the set of primitive integer vectors and find how often these
+sets are exactly equal.</p>
+
 UID:2020-06-04 13:29:58 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:20200604T132958
 
+DTSTART:20200617T170000
+
+
+DTEND:20200617T180000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/sunrose-shrestha-tufts-university-usa/
+URL:https://dai-dinamici.github.org/dai-seminars/sunrose-shrestha-tufts-university-usa/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Marta Maggioni (Universiteit Leiden, Netherlands)
-DESCRIPTION:<no value>
+DESCRIPTION:Marta Maggioni - Matching for random systems with an application to minimal weight expansions
 UID:2020-05-20 19:31:13 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:20200520T193113
 
+DTSTART:20200701T170000
+
+
+DTEND:20200701T180000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/marta-maggioni-universiteit-leiden-netherlands/
+URL:https://dai-dinamici.github.org/dai-seminars/marta-maggioni-universiteit-leiden-netherlands/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Sandro Vaienti (Centre de Physique Théorique, Marseille, France)
-DESCRIPTION:<no value>
+DESCRIPTION:<p><em>Speaker:</em> **Sandro Vaienti ** (Centre de Physique Théorique, Marseille,
+France)</p>
+<p><em>Title:</em> <em><strong>Thermodynamic formalism for random weighted covering
+systems</strong></em></p>
+<p><em>Abstract:</em> We develop a quenched thermodynamic formalism for random
+dynamical systems generated by countably branched, piecewise-monotone
+mappings of the interval that satisfy a random covering condition.</p>
+<p>Joint with J. Atnip, G. Froyland and C. Gonzalez-Tokman</p>
+
 UID:2020-05-04 12:24:50 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:20200504T122450
 
+DTSTART:20200604T170000
+
+
+DTEND:20200604T180000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/sandro-vaienti-centre-de-physique-theorique-marseille-france/
+URL:https://dai-dinamici.github.org/dai-seminars/sandro-vaienti-centre-de-physique-theorique-marseille-france/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Francesco Cellarosi  (Queen's University, Canada)
-DESCRIPTION:<no value>
+DESCRIPTION:Francesco Cellarosi - Rational Horocycle lifts and the tails of Quadratic Weyl sums
 UID:2020-05-04 12:22:09 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -418,12 +475,12 @@ DTSTART:20200528T170000
 DTEND:20200528T180000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/28-5-francesco-cellarosi/
+URL:https://dai-dinamici.github.org/dai-seminars/28-5-francesco-cellarosi/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
-SUMMARY:Martin Leguil  (Université Paris-Sud 11, France)
-DESCRIPTION:<no value>
+SUMMARY:Martin Leguil (Université Paris-Sud 11, France)
+DESCRIPTION:Martin Leguil - Some rigidity results for billiards and hyperbolic flows
 UID:2020-05-04 12:20:21 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -435,12 +492,12 @@ DTSTART:20200521T170000
 DTEND:20200521T180000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/martin-leguil-universite-paris-sud-11-france/
+URL:https://dai-dinamici.github.org/dai-seminars/martin-leguil-universite-paris-sud-11-france/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Giulio Tiozzo (University of Toronto, Canada)
-DESCRIPTION:<no value>
+DESCRIPTION:Giulio Tiozzo - Central limit theorems for counting measures in coarse negative curvature
 UID:2020-05-04 12:18:03 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -452,6 +509,6 @@ DTSTART:20200514T170000
 DTEND:20200514T180000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/giulio-tiozzo-university-of-toronto-canada/
+URL:https://dai-dinamici.github.org/dai-seminars/giulio-tiozzo-university-of-toronto-canada/
 END:VEVENT
 END:VCALENDAR

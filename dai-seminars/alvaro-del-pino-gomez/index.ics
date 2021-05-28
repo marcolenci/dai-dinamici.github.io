@@ -22,7 +22,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Álvaro del Pino Gómez (Utrecht University, The Netherlands)
-DESCRIPTION:<no value>
+DESCRIPTION:Billiards in subriemannian geometry
 UID:2021-03-08 15:14:43 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,6 +34,6 @@ DTSTART:20210325T160000
 DTEND:20210325T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/alvaro-del-pino-gomez/
+URL:https://dai-dinamici.github.org/dai-seminars/alvaro-del-pino-gomez/
 END:VEVENT
 END:VCALENDAR

@@ -22,7 +22,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Misha Bialy (Tel Aviv University, Israel)
-DESCRIPTION:<no value>
+DESCRIPTION:Birkhoff-Poritsky conjecture for centrally-symmetric billiards
 UID:2021-01-26 08:29:01 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,6 +34,6 @@ DTSTART:20210211T160000
 DTEND:20210211T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/mischa-bialy-tel-aviv-university-israel/
+URL:https://dai-dinamici.github.org/dai-seminars/mischa-bialy-tel-aviv-university-israel/
 END:VEVENT
 END:VCALENDAR

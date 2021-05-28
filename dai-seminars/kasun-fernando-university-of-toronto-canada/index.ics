@@ -22,7 +22,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Kasun Fernando (University of Toronto, Canada)
-DESCRIPTION:<no value>
+DESCRIPTION:TBA
 UID:2021-05-25 08:33:27 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,6 +34,6 @@ DTSTART:20210624T160000
 DTEND:20210624T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/kasun-fernando-university-of-toronto-canada/
+URL:https://dai-dinamici.github.org/dai-seminars/kasun-fernando-university-of-toronto-canada/
 END:VEVENT
 END:VCALENDAR

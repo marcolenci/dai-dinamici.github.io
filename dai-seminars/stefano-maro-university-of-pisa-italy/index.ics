@@ -22,7 +22,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Stefano Marò (Università di Pisa, Italy)
-DESCRIPTION:<no value>
+DESCRIPTION:Chaotic motion in the breathing circle billiard
 UID:2020-11-03 21:29:00 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,6 +34,6 @@ DTSTART:20201112T160000
 DTEND:20201112T170000
 
 LOCATION:TBD
-URL:https://dai-dinamici.github.io/dai-seminars/stefano-maro-university-of-pisa-italy/
+URL:https://dai-dinamici.github.org/dai-seminars/stefano-maro-university-of-pisa-italy/
 END:VEVENT
 END:VCALENDAR
