@@ -8,13 +8,13 @@ end = "2021-04-22 17:00:00"
 outputs = ["HTML", "Calendar"]
 seminar = "Almost sure asymptotic behaviour of Birkhoff sums for infinite measure-preserving dynamical systems"
 slug = "tanja-schindler-scuola-normale-superiore-italy"
-speaker = "Tanja Schindler "
+speaker = "Tanja Schindler"
 start = "2021-04-22 16:00:00"
 title = "Tanja Schindler (Scuola Normale Superiore, Italy)"
 +++
 *Speaker:* **Tanja Schindler**  (Scuola Normale Superiore, Italy)
 
-*Title: **Almost sure asymptotic behaviour of Birkhoff sums for infinite
+*Title:* ***Almost sure asymptotic behaviour of Birkhoff sums for infinite
 measure-preserving dynamical systems***
 
 *Abstract:* We are interested in the limit behaviour of Birkhoff sums

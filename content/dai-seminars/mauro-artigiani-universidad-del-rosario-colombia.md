@@ -8,13 +8,13 @@ end = "2021-06-17 17:00:00"
 outputs = ["HTML", "Calendar"]
 seminar = "TBA"
 slug = "mauro-artigiani-universidad-del-rosario-colombia"
-speaker = " Mauro Artigiani "
+speaker = "Mauro Artigiani"
 start = "2021-06-17 16:00:00"
 title = "Mauro Artigiani (Universidad del Rosario, Colombia)"
 +++
 *Speaker:* **Mauro Artigiani**  (Universidad del Rosario, Colombia)
 
-*Title: **TBA***
+*Title:* ***TBA***
 
 *Abstract:* TBA
 

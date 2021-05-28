@@ -23,7 +23,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:{{.Title}}
-DESCRIPTION:{{.Params.description}}
+DESCRIPTION:{{ if (and .Params.speaker .Params.seminar) }}{{ .Params.speaker }} - {{ .Params.seminar }}{{ else }}{{ .Content }}{{ end }}
 UID:{{.Params.date}}@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED

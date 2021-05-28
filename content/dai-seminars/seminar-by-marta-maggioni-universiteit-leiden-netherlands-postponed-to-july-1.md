@@ -2,7 +2,10 @@
 aliases = ["/event/seminar-by-marta-maggioni-universiteit-leiden-netherlands-postponed-to-july-1/"]
 categories = []
 date = "2020-06-10 08:34:39"
+end = "2020-06-10 18:00:00"
+outputs = ["HTML", "Calendar"]
 slug = "seminar-by-marta-maggioni-universiteit-leiden-netherlands-postponed-to-july-1"
+start = "2020-06-10 17:00:00"
 title = "Seminar by Marta Maggioni postponed to July 1"
 +++
 The DinAmicI, in solidarity with the \#Strike4BlackLives and

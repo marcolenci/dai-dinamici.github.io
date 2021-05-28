@@ -2,13 +2,16 @@
 aliases = ["/event/sandro-vaienti-centre-de-physique-theorique-marseille-france/"]
 categories = ["dai-seminar"]
 date = "2020-05-04 12:24:50"
+end = "2020-06-04 18:00:00"
+outputs = ["HTML", "Calendar"]
 slug = "sandro-vaienti-centre-de-physique-theorique-marseille-france"
+start = "2020-06-04 17:00:00"
 title = "Sandro Vaienti (Centre de Physique Théorique, Marseille, France)"
 +++
 *Speaker:* **Sandro Vaienti ** (Centre de Physique Théorique, Marseille,
 France)
 
-*Title: **Thermodynamic formalism for random weighted covering
+*Title:* ***Thermodynamic formalism for random weighted covering
 systems***
 
 *Abstract:* We develop a quenched thermodynamic formalism for random

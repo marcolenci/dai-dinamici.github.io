@@ -6,9 +6,9 @@ categories = ["dai-seminar"]
 date = "2020-11-03 21:29:00"
 end = "2020-11-12 17:00:00"
 outputs = ["HTML", "Calendar"]
-seminar = " Chaotic motion in the breathing circle billiard"
+seminar = "Chaotic motion in the breathing circle billiard"
 slug = "stefano-maro-university-of-pisa-italy"
-speaker = " Stefano Marò "
+speaker = "Stefano Marò"
 start = "2020-11-12 16:00:00"
 title = "Stefano Marò (Università di Pisa, Italy)"
 +++
@@ -16,7 +16,7 @@ title = "Stefano Marò (Università di Pisa, Italy)"
 
 *Speaker:* **Stefano Marò**  (Università di Pisa, Italy)
 
-*Title: **Chaotic motion in the breathing circle billiard***
+*Title:* ***Chaotic motion in the breathing circle billiard***
 
 *Abstract:* We consider the free motion of a point particle inside a
 circular billiard with periodically moving boundary, with the assumption

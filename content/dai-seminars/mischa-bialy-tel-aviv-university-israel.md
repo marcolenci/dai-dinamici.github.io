@@ -8,14 +8,13 @@ end = "2021-02-11 17:00:00"
 outputs = ["HTML", "Calendar"]
 seminar = "Birkhoff-Poritsky conjecture for centrally-symmetric billiards"
 slug = "mischa-bialy-tel-aviv-university-israel"
-speaker = "Misha Bialy "
+speaker = "Misha Bialy"
 start = "2021-02-11 16:00:00"
 title = "Misha Bialy (Tel Aviv University, Israel)"
 +++
 *Speaker:* **Misha Bialy ** (Tel Aviv University, Israel)
 
-*Title: **Birkhoff-Poritsky conjecture for centrally-symmetric
-billiards***
+*Title:* ***Birkhoff-Poritsky conjecture for centrally-symmetric billiards***
 
 *Abstract:* In this talk I shall discuss Birkhoff-Poritsky conjecture
 for centrally-symmetric C^2-smooth convex planar billiards. We assume

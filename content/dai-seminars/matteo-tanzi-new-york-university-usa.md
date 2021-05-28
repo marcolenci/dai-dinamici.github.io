@@ -8,13 +8,13 @@ end = "2021-06-04 17:00:00"
 outputs = ["HTML", "Calendar"]
 seminar = "Random-like properties of chaotic forcing"
 slug = "matteo-tanzi-new-york-university-usa"
-speaker = " Matteo Tanzi "
+speaker = "Matteo Tanzi"
 start = "2021-06-04 16:00:00"
 title = "Matteo Tanzi (New York University, USA)"
 +++
-*Speaker:* **Matteo Tanzi**  (New York University, USA)
+*Speaker:* **Matteo Tanzi** (New York University, USA)
 
-*Title: **Random-like properties of chaotic forcing***
+*Title:* ***Random-like properties of chaotic forcing***
 
 *Abstract:* We prove that skew systems with a sufficiently expanding
 base have "approximate" statistical properties similar to random ergodic

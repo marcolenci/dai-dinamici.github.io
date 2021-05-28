@@ -2,12 +2,15 @@
 aliases = ["/event/sunrose-shrestha-tufts-university-usa/"]
 categories = ["dai-seminar"]
 date = "2020-06-04 13:29:58"
+end = "2020-06-17 18:00:00"
+outputs = ["HTML", "Calendar"]
 slug = "sunrose-shrestha-tufts-university-usa"
+start = "2020-06-17 17:00:00"
 title = "Sunrose Shrestha  (Tufts University, USA)"
 +++
 *Speaker:* **Sunrose Shrestha**  (Tufts University, USA)
 
-*Title: **The topology and geometry of random square-tiled surfaces***
+*Title:* ***The topology and geometry of random square-tiled surfaces***
 
 *Abstract:* A square-tiled surface (STS) is a branched cover of the
 standard square torus with branching over exactly one point. They are

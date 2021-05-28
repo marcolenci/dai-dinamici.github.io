@@ -8,13 +8,13 @@ end = "2021-06-24 17:00:00"
 outputs = ["HTML", "Calendar"]
 seminar = "TBA"
 slug = "kasun-fernando-university-of-toronto-canada"
-speaker = " Kasun Fernando "
+speaker = "Kasun Fernando"
 start = "2021-06-24 16:00:00"
 title = "Kasun Fernando (University of Toronto, Canada)"
 +++
 *Speaker:* **Kasun Fernando**  (University of Toronto, Canada)
 
-*Title: **TBA***
+*Title:* ***TBA***
 
 *Abstract:* TBA
 

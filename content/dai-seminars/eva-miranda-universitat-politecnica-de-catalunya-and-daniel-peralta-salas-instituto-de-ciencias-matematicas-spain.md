@@ -6,7 +6,7 @@ categories = ["dai-seminar"]
 date = "2021-03-24 09:39:26"
 end = "2021-04-08 17:00:00"
 outputs = ["HTML", "Calendar"]
-seminar = " Looking at Euler flows through a contact mirror: Universality and Turing completeness"
+seminar = "Looking at Euler flows through a contact mirror: Universality and Turing completeness"
 slug = "eva-miranda-universitat-politecnica-de-catalunya-and-daniel-peralta-salas-instituto-de-ciencias-matematicas-spain"
 speaker = "Eva Miranda and Daniel Peralta-Salas"
 start = "2021-04-08 16:00:00"
@@ -15,7 +15,7 @@ title = "Eva Miranda (Universitat Politècnica de Catalunya) and Daniel Peralta-
 *Speakers:* **Eva Miranda** (Universitat Politècnica de Catalunya),
 **Daniel Peralta-Salas** (Instituto de Ciencias Matemáticas, Spain)
 
-*Title: **Looking at Euler flows through a contact mirror: Universality
+*Title:* ***Looking at Euler flows through a contact mirror: Universality
 and Turing completeness***
 
 *Abstract:* The dynamics of an inviscid and incompressible fluid flow on

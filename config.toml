@@ -1,4 +1,4 @@
-baseURL = "https://dai-dinamici.github.io"
+baseURL = "https://dai-dinamici.github.org"
 description = "The Community of Italian Dynamicists"
 languageCode = "en-US"
 theme = "mainroad"

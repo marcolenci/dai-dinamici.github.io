@@ -24,7 +24,7 @@ Sorrentino*
 -   [May 21, 2020, 5pm
     CET:]({{< ref "martin-leguil-universite-paris-sud-11-france.md" >}})
     **Martin Leguil** (Université Paris-Sud 11, France), ***Some
-    rigidity results for billiards and hyperbolic flows ***
+    rigidity results for billiards and hyperbolic flows***
 -   [May 28, 2020, 5pm
     CET:]({{< ref "28-5-francesco-cellarosi.md" >}})
     **Francesco Cellarosi** (Queen's University, Canada), ***Rational
@@ -36,7 +36,7 @@ Sorrentino*
     systems***
 -   [June 10, 2020, 5pm
     CET:]({{< ref "seminar-by-marta-maggioni-universiteit-leiden-netherlands-postponed-to-july-1.md" >}})
-    Seminar by Marta Maggioni postponed \#ShutDownSTEM
+    Seminar by Marta Maggioni **postponed \#ShutDownSTEM**
 -   [J]({{< ref "marta-maggioni-universiteit-leiden-netherlands.md" >}})[une
     17, 2020, 5pm
     CET:]({{< ref "sunrose-shrestha-tufts-university-usa.md" >}})

@@ -6,16 +6,16 @@ categories = ["dai-seminar"]
 date = "2020-11-10 13:58:20"
 end = "2020-12-10 17:00:00"
 outputs = ["HTML", "Calendar"]
-seminar = " Locating Ruelle-Pollicott resonances"
+seminar = "Locating Ruelle-Pollicott resonances"
 slug = "carlangelo-liverani-universita-di-roma-tor-vergata-italy"
-speaker = "Carlangelo Liverani "
+speaker = "Carlangelo Liverani"
 start = "2020-12-10 16:00:00"
 title = "Carlangelo Liverani (Università di Roma Tor Vergata, Italy)"
 +++
 *Speaker:* **Carlangelo Liverani**  (Università di Roma Tor Vergata,
 Italy)
 
-*Title: **Locating Ruelle-Pollicott resonances***
+*Title:* ***Locating Ruelle-Pollicott resonances***
 
 *Abstract:* We study the spectrum of transfer operators associated to
 various dynamical systems. Our aim is to obtain precise information on

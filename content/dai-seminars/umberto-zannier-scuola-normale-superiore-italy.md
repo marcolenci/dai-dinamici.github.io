@@ -8,13 +8,13 @@ end = "2021-05-20 17:00:00"
 outputs = ["HTML", "Calendar"]
 seminar = "Torsion values of sections, elliptical billiards and diophantine problems in dynamics"
 slug = "umberto-zannier-scuola-normale-superiore-italy"
-speaker = "Umberto Zannier "
+speaker = "Umberto Zannier"
 start = "2021-05-20 16:00:00"
 title = "Umberto Zannier (Scuola Normale Superiore, Italy)"
 +++
 *Speaker:* **Umberto Zannier**  (Scuola Normale Superiore, Italy)
 
-*Title: **Torsion values of sections, elliptical billiards and
+*Title:* ***Torsion values of sections, elliptical billiards and
 diophantine problems in dynamics***
 
 *Abstract:* After a very brief review of basics on elliptic curves and

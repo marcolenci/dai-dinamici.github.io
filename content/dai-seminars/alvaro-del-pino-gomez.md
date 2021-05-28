@@ -8,14 +8,14 @@ end = "2021-03-25 17:00:00"
 outputs = ["HTML", "Calendar"]
 seminar = "Billiards in subriemannian geometry"
 slug = "alvaro-del-pino-gomez"
-speaker = "Álvaro del Pino Gómez "
+speaker = "Álvaro del Pino Gómez"
 start = "2021-03-25 16:00:00"
 title = "Álvaro del Pino Gómez (Utrecht University, The Netherlands)"
 +++
 *Speaker:* **Álvaro del Pino Gómez**  (Utrecht University, The
 Netherlands)
 
-*Title: **Billiards in subriemannian geometry***
+*Title:* ***Billiards in subriemannian geometry***
 
 *Abstract:* When one considers manifolds with boundary, billiard
 dynamics are the natural analogue of standard geodesic dynamics. Namely,

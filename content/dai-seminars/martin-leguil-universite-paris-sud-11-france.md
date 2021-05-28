@@ -1,20 +1,20 @@
 +++
-abstract = "In a project with P. Bálint, J. De Simoi and V. Kaloshin, we have been studying the inverse problem for a class of open dispersing billiards obtained by removing from the plane a finite number of smooth strictly convex scatterers satisfying a non-eclipse condition. The dynamics of such billiards is hyperbolic (Axiom A), and there is a natural labeling of periodic orbits. We show that it is generically possible, in the analytic category and for billiard tables with two (partial) axial symmetries, to determine completely the geometry of those billiards from the purely dynamical data encoded in their Marked Length Spectrum (lengths of periodic orbits + marking). An important step is the obtention of asymptotic estimates for the Lyapunov exponents of certain periodic points accumulating a reference periodic point, which turn out to be useful in the study of other rigidity problems. In particular, I will explain the results obtained in a joint work with J. De Simoi, K. Vinhage and Y. Yang on the question of entropy rigidity for 3-dimensional Anosov flows and dispersing billiards.  "
+abstract = "In a project with P. Bálint, J. De Simoi and V. Kaloshin, we have been studying the inverse problem for a class of open dispersing billiards obtained by removing from the plane a finite number of smooth strictly convex scatterers satisfying a non-eclipse condition. The dynamics of such billiards is hyperbolic (Axiom A), and there is a natural labeling of periodic orbits. We show that it is generically possible, in the analytic category and for billiard tables with two (partial) axial symmetries, to determine completely the geometry of those billiards from the purely dynamical data encoded in their Marked Length Spectrum (lengths of periodic orbits + marking). An important step is the obtention of asymptotic estimates for the Lyapunov exponents of certain periodic points accumulating a reference periodic point, which turn out to be useful in the study of other rigidity problems. In particular, I will explain the results obtained in a joint work with J. De Simoi, K. Vinhage and Y. Yang on the question of entropy rigidity for 3-dimensional Anosov flows and dispersing billiards. "
 affiliation = "Université Paris-Sud 11, France"
 aliases = ["/event/martin-leguil-universite-paris-sud-11-france/"]
 categories = ["dai-seminar"]
 date = "2020-05-04 12:20:21"
 end = "2020-05-21 18:00:00"
 outputs = ["HTML", "Calendar"]
-seminar = "Some rigidity results for billiards and hyperbolic flows "
+seminar = "Some rigidity results for billiards and hyperbolic flows"
 slug = "martin-leguil-universite-paris-sud-11-france"
-speaker = "Martin Leguil "
+speaker = "Martin Leguil"
 start = "2020-05-21 17:00:00"
-title = "Martin Leguil  (Université Paris-Sud 11, France)"
+title = "Martin Leguil (Université Paris-Sud 11, France)"
 +++
-*Speaker:* **Martin Leguil**  (Université Paris-Sud 11, France)
+*Speaker:* **Martin Leguil** (Université Paris-Sud 11, France)
 
-*Title: **Some rigidity results for billiards and hyperbolic flows ***
+*Title:* ***Some rigidity results for billiards and hyperbolic flows***
 
 *Abstract:* In a project with P. Bálint, J. De Simoi and V. Kaloshin, we
 have been studying the inverse problem for a class of open dispersing

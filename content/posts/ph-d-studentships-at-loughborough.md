@@ -11,7 +11,7 @@ title = "Ph.D. Studentships at Loughborough"
 
 **Ph.D. Studentships at Loughborough University**
 
-**Title: **Rare Events in Dynamical Systems via Transfer Operator
+**Title:* ***Rare Events in Dynamical Systems via Transfer Operator
 Techniques
 
 **Supervisor:** Wael Bahsoun ([W.Bahsoun@lboro.ac.uk](W.Bahsoun@lboro.ac.uk); phone

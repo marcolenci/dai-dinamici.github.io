@@ -8,7 +8,7 @@ end = "2020-11-16 15:00:00"
 outputs = ["HTML", "Calendar"]
 seminar = "A simple system presenting Noise Induced Order"
 slug = "isaia-nisoli-universidade-federal-de-rio-de-janeiro-brazil"
-speaker = "Isaia Nisoli "
+speaker = "Isaia Nisoli"
 start = "2020-11-16 14:00:00"
 title = "Isaia Nisoli  (Universidade Federal do Rio de Janeiro, Brazil)"
 +++
@@ -17,7 +17,7 @@ title = "Isaia Nisoli  (Universidade Federal do Rio de Janeiro, Brazil)"
 *Speaker:* **Isaia Nisoli**  (Universidade Federal do Rio de Janeiro,
 Brazil)
 
-*Title: **A simple system presenting Noise Induced Order***
+*Title:* ***A simple system presenting Noise Induced Order***
 
 *Abstract:* In this talk I will present a family of one dimensional
 systems with random additive noise such that, as the noise size

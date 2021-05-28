@@ -14,7 +14,7 @@ title = "Gary Froyland (University of New South Wales, Australia)"
 +++
 *Speaker:* **Gary Froyland** (University of New South Wales, Australia)
 
-*Title: **The dynamic ocean***
+*Title:* ***The dynamic ocean***
 
 *Abstract:* The circulation of our oceans strongly influences climate,
 weather and biology. Our ocean currents are dynamic, and fluctuate to
