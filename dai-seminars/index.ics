@@ -1,0 +1,377 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//IVEPTA//DAI Seminar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DAI Seminar
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+X-LIC-LOCATION:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CEST
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Kasun Fernando (University of Toronto, Canada)
+DESCRIPTION:<no value>
+UID:2021-05-25 08:33:27 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210525T083327
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/kasun-fernando-university-of-toronto-canada/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Mauro Artigiani (Universidad del Rosario, Colombia)
+DESCRIPTION:<no value>
+UID:2021-05-25 08:31:10 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210525T083110
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/mauro-artigiani-universidad-del-rosario-colombia/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Matteo Tanzi (New York University, USA)
+DESCRIPTION:<no value>
+UID:2021-05-25 08:28:30 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210525T082830
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/matteo-tanzi-new-york-university-usa/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Umberto Zannier (Scuola Normale Superiore, Italy)
+DESCRIPTION:<no value>
+UID:2021-04-29 08:40:46 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210429T084046
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/umberto-zannier-scuola-normale-superiore-italy/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Selim Ghazouani (Université d’Orsay, France)
+DESCRIPTION:<no value>
+UID:2021-04-16 21:04:47 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210416T210447
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/selim-ghazouani-universite-dorsay-france/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Tanja Schindler (Scuola Normale Superiore, Italy)
+DESCRIPTION:<no value>
+UID:2021-04-08 22:04:06 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210408T220406
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/tanja-schindler-scuola-normale-superiore-italy/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Eva Miranda (Universitat Politècnica de Catalunya) and Daniel Peralta-Salas (Instituto de Ciencias Matemáticas, Spain)
+DESCRIPTION:<no value>
+UID:2021-03-24 09:39:26 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210324T093926
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/eva-miranda-universitat-politecnica-de-catalunya-and-daniel-peralta-salas-instituto-de-ciencias-matematicas-spain/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Álvaro del Pino Gómez (Utrecht University, The Netherlands)
+DESCRIPTION:<no value>
+UID:2021-03-08 15:14:43 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210308T151443
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/alvaro-del-pino-gomez/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Alessandro Della Corte (Università di Camerino, Italy)
+DESCRIPTION:<no value>
+UID:2021-02-23 16:22:09 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210223T162209
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/alessandro-della-corte-universita-di-camerino-italy/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Paolo Giulietti (Università di Pisa, Italy)
+DESCRIPTION:<no value>
+UID:2021-02-17 15:15:05 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210217T151505
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/paolo-giulietti-universita-di-pisa-italy/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Gary Froyland (University of New South Wales, Australia)
+DESCRIPTION:<no value>
+UID:2021-01-26 12:12:10 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210126T121210
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/gary-froyland-university-of-new-south-wales-australia/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Misha Bialy (Tel Aviv University, Israel)
+DESCRIPTION:<no value>
+UID:2021-01-26 08:29:01 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210126T082901
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/mischa-bialy-tel-aviv-university-israel/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Michele Gianfelice (Università della Calabria, Italy)
+DESCRIPTION:<no value>
+UID:2021-01-11 13:27:47 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210111T132747
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/michele-gianfelice-universita-della-calabria-italy/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Andrea Venturelli (Université d’Avignon, France)
+DESCRIPTION:<no value>
+UID:2021-01-07 09:00:26 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210107T090026
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/andrea-venturelli-universite-davignon-france/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Anna Miriam Benini  (Università di Parma, Italy)
+DESCRIPTION:<no value>
+UID:2020-11-12 14:07:49 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20201112T140749
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/miriam-benini-universita-di-parma-italy/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Isaia Nisoli  (Universidade Federal do Rio de Janeiro, Brazil)
+DESCRIPTION:<no value>
+UID:2020-11-11 15:00:18 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20201111T150018
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/isaia-nisoli-universidade-federal-de-rio-de-janeiro-brazil/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Carlangelo Liverani (Università di Roma Tor Vergata, Italy)
+DESCRIPTION:<no value>
+UID:2020-11-10 13:58:20 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20201110T135820
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/carlangelo-liverani-universita-di-roma-tor-vergata-italy/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Stefano Marò (Università di Pisa, Italy)
+DESCRIPTION:<no value>
+UID:2020-11-03 21:29:00 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20201103T212900
+
+DTSTART:20201112T160000
+
+
+DTEND:20201112T170000
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/stefano-maro-university-of-pisa-italy/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Françoise Pène  (Université de Bretagne Occidentale, France)
+DESCRIPTION:<no value>
+UID:2020-06-18 11:00:20 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20200618T110020
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/francoise-pene-universite-de-bretagne-occidentale-france/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Andreas Knauf  (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany)
+DESCRIPTION:<no value>
+UID:2020-06-11 07:07:48 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20200611T070748
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/andreas-knauf-friedrich-alexander-universitat-erlangen-nurnberg-germany/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Seminar by Marta Maggioni postponed to July 1
+DESCRIPTION:<no value>
+UID:2020-06-10 08:34:39 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20200610T083439
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/seminar-by-marta-maggioni-universiteit-leiden-netherlands-postponed-to-july-1/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Sunrose Shrestha  (Tufts University, USA)
+DESCRIPTION:<no value>
+UID:2020-06-04 13:29:58 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20200604T132958
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/sunrose-shrestha-tufts-university-usa/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Marta Maggioni (Universiteit Leiden, Netherlands)
+DESCRIPTION:<no value>
+UID:2020-05-20 19:31:13 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20200520T193113
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/marta-maggioni-universiteit-leiden-netherlands/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Sandro Vaienti (Centre de Physique Théorique, Marseille, France)
+DESCRIPTION:<no value>
+UID:2020-05-04 12:24:50 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20200504T122450
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/sandro-vaienti-centre-de-physique-theorique-marseille-france/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Francesco Cellarosi  (Queen's University, Canada)
+DESCRIPTION:<no value>
+UID:2020-05-04 12:22:09 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20200504T122209
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/28-5-francesco-cellarosi/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Martin Leguil  (Université Paris-Sud 11, France)
+DESCRIPTION:<no value>
+UID:2020-05-04 12:20:21 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20200504T122021
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/martin-leguil-universite-paris-sud-11-france/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:Giulio Tiozzo (University of Toronto, Canada)
+DESCRIPTION:<no value>
+UID:2020-05-04 12:18:03 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20200504T121803
+
+
+LOCATION:TBD
+URL:https://dai-dinamici.github.io/dai-seminars/giulio-tiozzo-university-of-toronto-canada/
+END:VEVENT
+END:VCALENDAR
