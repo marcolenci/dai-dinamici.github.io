@@ -1,8 +1,15 @@
 +++
+abstract = " We prove for the N-body problem the existence of hyperbolic motions for any prescribed limit shape and any given initial configuration of the bodies. The energy level h&gt;0 of the motion can also be chosen arbitrarily. Our approach is based on the construction of a global viscosity solutions for the Hamilton-Jacobi equation H(x,du(x))=h. Our hyperbolic motion is in fact a calibrating curve of the viscosity solution. The presented results can also be viewed as a new application of Marchal's theorem, whose main use in recent literature has been to prove the existence of periodic orbits. Joint work with Ezequiel Maderna."
+affiliation = "Université d’Avignon, France"
 aliases = ["/event/andrea-venturelli-universite-davignon-france/"]
 categories = ["dai-seminar"]
 date = "2021-01-07 09:00:26"
+end = "2021-01-14 17:00:00"
+outputs = ["HTML", "Calendar"]
+seminar = " Hyperbolic motion in the Newtonian N-body problem with arbitrary limit shape"
 slug = "andrea-venturelli-universite-davignon-france"
+speaker = " Andrea Venturelli "
+start = "2021-01-14 16:00:00"
 title = "Andrea Venturelli (Université d’Avignon, France)"
 +++
 *Speaker:* **Andrea Venturelli**  (Université d’Avignon, France)

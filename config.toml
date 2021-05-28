@@ -1,4 +1,4 @@
-baseURL = "https://dai-dinamici.github.io"
+baseURL = "https://www.dinamici.org"
 description = "The Community of Italian Dynamicists"
 languageCode = "en-US"
 theme = "mainroad"
@@ -34,11 +34,7 @@ url = "https://www.facebook.com/groups/1709850812592546"
 icon = "svg/youtube.svg"
 title = "Youtube"
 url = "https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg"
+[outputFormats.Calendar]
+protocol = "https://"
 [permalinks]
 posts = "/:year/:month/:slug/"
-# [mediaTypes]
-# [mediaTypes."text/calendar"]
-#   suffixes = [".ics"]
-[outputFormats]
-[outputFormats.Calendar]
-  protocol = "https://"

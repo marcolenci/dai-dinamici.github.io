@@ -22,27 +22,31 @@
       <p><em>Speaker:</em>&nbsp;<strong>{{ .Params.speaker }}</strong>&nbsp;({{ .Params.affiliation }})</p>
       <p><em>Title:</em>&nbsp;<strong><em>{{ .Params.seminar }}</em></strong></p>
       <style>
+        .abstract {
+          margin-bottom: 1em;
+        }
+
         .abstract p {
           padding-left: 20px;
           text-align: justify;
         }
       </style>
       <div class="abstract"><em>Abstract:</em> {{ .Params.abstract | markdownify }} </div>
-
-      {{ $p := .Params }}
-      {{ $start := dateFormat "20060102T150405" .Params.start }}
-      {{ $end := dateFormat "20060102T150405" .Params.end }}
-      {{ if (and .Params.speaker .Params.start) }}
-      {{ range (where .AlternativeOutputFormats ".MediaType.Type" "==" "text/calendar") -}}
-      <p style="text-align: center;"><a href="{{ .Permalink | safeURL }}" title="iCal export">+iCal Export</a>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <p><em>Time and location</em>:
+        {{ if .Params.start }}{{ dateFormat "Mon, 02 Jan 2006 15:04:05 MST" .Params.start }} -{{ end }}
+        {{ if .Params.location }}{{ .Params.location }}{{ else }}TBA{{ end }}<br />
+        {{ $p := .Params }}
+        {{ $start := dateFormat "20060102T150405" .Params.start }}
+        {{ $end := dateFormat "20060102T150405" .Params.end }}
+        {{ if (and .Params.speaker .Params.start) }}
+        {{ range (where .AlternativeOutputFormats ".MediaType.Type" "==" "text/calendar") -}}
+        Click on <a href="{{ .Permalink | safeURL }}" title="iCal export">+ iCal Export</a>
+        or on
         <a href="https://www.google.com/calendar/event?action=TEMPLATE&amp;text=DAI%20Seminar&amp;dates={{ $start }}/{{ $end }}&amp;details={{ $p.speaker }}%20-%20{{ $p.seminar }}&amp;trp=false&amp;sprop=website:https://www.dinamici.org&amp;ctz=Europe%2FRome"
-          title="Add to Google Calendar">+ Google Calendar</a>
+          title="Add to Google Calendar">+ Google Calendar</a> to add this event to your calendar.
+        {{ end -}}
+        {{ end }}
       </p>
-      {{ end -}}
-      {{ end }}
-
-      <p><em>Location</em>: {{ if .Params.location }}{{ .Params.location }}{{ else }}TBA{{ end }}</p>
       <p><strong>NOTE:</strong> <em>The seminar will be streamed live on our <a
             href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
             channel</a> then saved there. If you ask questions, with your video feed

@@ -1,8 +1,15 @@
 +++
+abstract = "We are interested in the limit behaviour of Birkhoff sums over an infinite sigma-finite measure space. If the observable is integrable then -- by a classical theorem by Aaronson -- there exists no sequence of real numbers such that the Birkhoff sum normed by this sequence converges almost surely to 1. Under strong mixing conditions on the underlying system we prove a generalized strong law of large numbers for integrable observables using a truncated sum adding a suitable number of terms depending on the point of evaluation. For f not integrable we give conditions on f such that the Birkhoff sum normed by a sequence of real numbers converges almost surely to 1. Joint work with Claudio Bonanno."
+affiliation = "Scuola Normale Superiore, Italy"
 aliases = ["/event/tanja-schindler-scuola-normale-superiore-italy/"]
 categories = ["dai-seminar"]
 date = "2021-04-08 22:04:06"
+end = "2021-04-22 17:00:00"
+outputs = ["HTML", "Calendar"]
+seminar = "Almost sure asymptotic behaviour of Birkhoff sums for infinite measure-preserving dynamical systems"
 slug = "tanja-schindler-scuola-normale-superiore-italy"
+speaker = "Tanja Schindler "
+start = "2021-04-22 16:00:00"
 title = "Tanja Schindler (Scuola Normale Superiore, Italy)"
 +++
 *Speaker:* **Tanja Schindler**  (Scuola Normale Superiore, Italy)

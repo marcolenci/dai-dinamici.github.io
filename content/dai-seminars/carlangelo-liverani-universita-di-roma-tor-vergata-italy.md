@@ -1,8 +1,15 @@
 +++
+abstract = "We study the spectrum of transfer operators associated to various dynamical systems. Our aim is to obtain precise information on discrete spectrum. To this end we propose a unitary approach. We consider various settings where new information can be obtained following different branches along the proposed path. These settings include affine expanding Markov maps, uniformly expanding Markov maps, non-uniformly expanding maps, hyperbolic diffeomorphisms. We believe this to be the germ of a general theory. Joint work with O. Butterley and N. Kiamari."
+affiliation = "Università di Roma Tor Vergata, Italy"
 aliases = ["/event/carlangelo-liverani-universita-di-roma-tor-vergata-italy/"]
 categories = ["dai-seminar"]
 date = "2020-11-10 13:58:20"
+end = "2020-12-10 17:00:00"
+outputs = ["HTML", "Calendar"]
+seminar = " Locating Ruelle-Pollicott resonances"
 slug = "carlangelo-liverani-universita-di-roma-tor-vergata-italy"
+speaker = "Carlangelo Liverani "
+start = "2020-12-10 16:00:00"
 title = "Carlangelo Liverani (Università di Roma Tor Vergata, Italy)"
 +++
 *Speaker:* **Carlangelo Liverani**  (Università di Roma Tor Vergata,
