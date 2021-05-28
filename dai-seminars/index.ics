@@ -34,7 +34,7 @@ DTSTART:20210624T160000
 DTEND:20210624T170000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/kasun-fernando-university-of-toronto-canada/
+URL:https://dai-dinamici.github.io/dai-seminars/kasun-fernando-university-of-toronto-canada/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -51,7 +51,7 @@ DTSTART:20210617T160000
 DTEND:20210617T170000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/mauro-artigiani-universidad-del-rosario-colombia/
+URL:https://dai-dinamici.github.io/dai-seminars/mauro-artigiani-universidad-del-rosario-colombia/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -68,7 +68,7 @@ DTSTART:20210604T160000
 DTEND:20210604T170000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/matteo-tanzi-new-york-university-usa/
+URL:https://dai-dinamici.github.io/dai-seminars/matteo-tanzi-new-york-university-usa/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -85,7 +85,7 @@ DTSTART:20210520T160000
 DTEND:20210520T170000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/umberto-zannier-scuola-normale-superiore-italy/
+URL:https://dai-dinamici.github.io/dai-seminars/umberto-zannier-scuola-normale-superiore-italy/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -102,7 +102,7 @@ DTSTART:20210506T160000
 DTEND:20210506T170000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/selim-ghazouani-universite-dorsay-france/
+URL:https://dai-dinamici.github.io/dai-seminars/selim-ghazouani-universite-dorsay-france/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -119,7 +119,7 @@ DTSTART:20210422T160000
 DTEND:20210422T170000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/tanja-schindler-scuola-normale-superiore-italy/
+URL:https://dai-dinamici.github.io/dai-seminars/tanja-schindler-scuola-normale-superiore-italy/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -136,7 +136,7 @@ DTSTART:20210408T160000
 DTEND:20210408T170000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/eva-miranda-universitat-politecnica-de-catalunya-and-daniel-peralta-salas-instituto-de-ciencias-matematicas-spain/
+URL:https://dai-dinamici.github.io/dai-seminars/eva-miranda-universitat-politecnica-de-catalunya-and-daniel-peralta-salas-instituto-de-ciencias-matematicas-spain/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -153,7 +153,7 @@ DTSTART:20210325T160000
 DTEND:20210325T170000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/alvaro-del-pino-gomez/
+URL:https://dai-dinamici.github.io/dai-seminars/alvaro-del-pino-gomez/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -170,7 +170,7 @@ DTSTART:20210311T170000
 DTEND:20210311T180000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/alessandro-della-corte-universita-di-camerino-italy/
+URL:https://dai-dinamici.github.io/dai-seminars/alessandro-della-corte-universita-di-camerino-italy/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -187,7 +187,7 @@ DTSTART:20210225T160000
 DTEND:20210225T170000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/paolo-giulietti-universita-di-pisa-italy/
+URL:https://dai-dinamici.github.io/dai-seminars/paolo-giulietti-universita-di-pisa-italy/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -204,7 +204,7 @@ DTSTART:20210204T100000
 DTEND:20210204T110000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/gary-froyland-university-of-new-south-wales-australia/
+URL:https://dai-dinamici.github.io/dai-seminars/gary-froyland-university-of-new-south-wales-australia/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -221,7 +221,7 @@ DTSTART:20210211T160000
 DTEND:20210211T170000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/mischa-bialy-tel-aviv-university-israel/
+URL:https://dai-dinamici.github.io/dai-seminars/mischa-bialy-tel-aviv-university-israel/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -238,7 +238,7 @@ DTSTART:20210128T160000
 DTEND:20210128T170000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/michele-gianfelice-universita-della-calabria-italy/
+URL:https://dai-dinamici.github.io/dai-seminars/michele-gianfelice-universita-della-calabria-italy/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -255,7 +255,7 @@ DTSTART:20210114T160000
 DTEND:20210114T170000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/andrea-venturelli-universite-davignon-france/
+URL:https://dai-dinamici.github.io/dai-seminars/andrea-venturelli-universite-davignon-france/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -272,7 +272,7 @@ DTSTART:20201126T170000
 DTEND:20201126T180000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/miriam-benini-universita-di-parma-italy/
+URL:https://dai-dinamici.github.io/dai-seminars/miriam-benini-universita-di-parma-italy/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -289,7 +289,7 @@ DTSTART:20201116T140000
 DTEND:20201116T150000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/isaia-nisoli-universidade-federal-de-rio-de-janeiro-brazil/
+URL:https://dai-dinamici.github.io/dai-seminars/isaia-nisoli-universidade-federal-de-rio-de-janeiro-brazil/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -306,7 +306,7 @@ DTSTART:20201210T160000
 DTEND:20201210T170000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/carlangelo-liverani-universita-di-roma-tor-vergata-italy/
+URL:https://dai-dinamici.github.io/dai-seminars/carlangelo-liverani-universita-di-roma-tor-vergata-italy/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -323,7 +323,7 @@ DTSTART:20201112T160000
 DTEND:20201112T170000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/stefano-maro-university-of-pisa-italy/
+URL:https://dai-dinamici.github.io/dai-seminars/stefano-maro-university-of-pisa-italy/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -336,7 +336,7 @@ DTSTAMP:20200618T110020
 
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/francoise-pene-universite-de-bretagne-occidentale-france/
+URL:https://dai-dinamici.github.io/dai-seminars/francoise-pene-universite-de-bretagne-occidentale-france/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -349,7 +349,7 @@ DTSTAMP:20200611T070748
 
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/andreas-knauf-friedrich-alexander-universitat-erlangen-nurnberg-germany/
+URL:https://dai-dinamici.github.io/dai-seminars/andreas-knauf-friedrich-alexander-universitat-erlangen-nurnberg-germany/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -362,7 +362,7 @@ DTSTAMP:20200610T083439
 
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/seminar-by-marta-maggioni-universiteit-leiden-netherlands-postponed-to-july-1/
+URL:https://dai-dinamici.github.io/dai-seminars/seminar-by-marta-maggioni-universiteit-leiden-netherlands-postponed-to-july-1/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -375,7 +375,7 @@ DTSTAMP:20200604T132958
 
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/sunrose-shrestha-tufts-university-usa/
+URL:https://dai-dinamici.github.io/dai-seminars/sunrose-shrestha-tufts-university-usa/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -388,7 +388,7 @@ DTSTAMP:20200520T193113
 
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/marta-maggioni-universiteit-leiden-netherlands/
+URL:https://dai-dinamici.github.io/dai-seminars/marta-maggioni-universiteit-leiden-netherlands/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -401,7 +401,7 @@ DTSTAMP:20200504T122450
 
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/sandro-vaienti-centre-de-physique-theorique-marseille-france/
+URL:https://dai-dinamici.github.io/dai-seminars/sandro-vaienti-centre-de-physique-theorique-marseille-france/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -418,7 +418,7 @@ DTSTART:20200528T170000
 DTEND:20200528T180000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/28-5-francesco-cellarosi/
+URL:https://dai-dinamici.github.io/dai-seminars/28-5-francesco-cellarosi/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -435,7 +435,7 @@ DTSTART:20200521T170000
 DTEND:20200521T180000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/martin-leguil-universite-paris-sud-11-france/
+URL:https://dai-dinamici.github.io/dai-seminars/martin-leguil-universite-paris-sud-11-france/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
@@ -452,6 +452,6 @@ DTSTART:20200514T170000
 DTEND:20200514T180000
 
 LOCATION:TBD
-URL:https://www.dinamici.org/dai-seminars/giulio-tiozzo-university-of-toronto-canada/
+URL:https://dai-dinamici.github.io/dai-seminars/giulio-tiozzo-university-of-toronto-canada/
 END:VEVENT
 END:VCALENDAR
