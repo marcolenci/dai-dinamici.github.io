@@ -34,7 +34,5 @@ url = "https://www.facebook.com/groups/1709850812592546"
 icon = "svg/youtube.svg"
 title = "Youtube"
 url = "https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg"
-[markup.goldmark.renderer]
-unsafe = true
 [permalinks]
 posts = "/:year/:month/:slug/"
