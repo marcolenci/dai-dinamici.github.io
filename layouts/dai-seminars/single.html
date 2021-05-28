@@ -1,0 +1,66 @@
+{{ define "main" }}
+<main class="main" role="main">
+  <article class="post">
+    <header class="post__header">
+      <h1 class="post__title">{{ .Title }}</h1>
+      {{- with .Params.lead }}
+      <p class="post__lead">{{ . }}</p>
+      {{- end }}
+      {{ with partial "post_meta.html" . -}}
+      <div class="post__meta meta">{{ . }}</div>
+      {{- end }}
+    </header>
+    {{- if .Params.thumbnail }}
+    <figure class="post__thumbnail">
+      <img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}">
+    </figure>
+    {{- end }}
+    {{- partial "post_toc.html" . -}}
+
+    <div class="content post__content clearfix">
+      {{ if .Params.speaker }}
+      <p><em>Speaker:</em>&nbsp;<strong>{{ .Params.speaker }}</strong>&nbsp;({{ .Params.affiliation }})</p>
+      <p><em>Title:</em>&nbsp;<strong><em>{{ .Params.seminar }}</em></strong></p>
+      <style>
+        .abstract p {
+          padding-left: 20px;
+          text-align: justify;
+        }
+      </style>
+      <div class="abstract"><em>Abstract:</em> {{ .Params.abstract | markdownify }} </div>
+
+      {{ $p := .Params }}
+      {{ $start := dateFormat "20060102T150405" .Params.start }}
+      {{ $end := dateFormat "20060102T150405" .Params.end }}
+      {{ if (and .Params.speaker .Params.start) }}
+      {{ range (where .AlternativeOutputFormats ".MediaType.Type" "==" "text/calendar") -}}
+      <p style="text-align: center;"><a href="{{ .Permalink | safeURL }}" title="iCal export">+iCal Export</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.google.com/calendar/event?action=TEMPLATE&amp;text=DAI%20Seminar&amp;dates={{ $start }}/{{ $end }}&amp;details={{ $p.speaker }}%20-%20{{ $p.seminar }}&amp;trp=false&amp;sprop=website:https://www.dinamici.org&amp;ctz=Europe%2FRome"
+          title="Add to Google Calendar">+ Google Calendar</a>
+      </p>
+      {{ end -}}
+      {{ end }}
+
+      <p><em>Location</em>: {{ if .Params.location }}{{ .Params.location }}{{ else }}TBA{{ end }}</p>
+      <p><strong>NOTE:</strong> <em>The seminar will be streamed live on our <a
+            href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">YouTube
+            channel</a> then saved there. If you ask questions, with your video feed
+          on or off, you agree to the use of your image/spoken words for said
+          purpose.</em></p>
+    </div>
+    {{ else }}
+    {{ .Content }}
+    {{end}}
+
+    {{- if .Params.tags }}
+    <footer class="post__footer">
+      {{ partial "post_tags.html" . }}
+    </footer>
+    {{- end }}
+  </article>
+</main>
+{{ partial "authorbox.html" . }}
+{{ partial "pager.html" . }}
+{{ partial "comments.html" . }}
+{{ end }}

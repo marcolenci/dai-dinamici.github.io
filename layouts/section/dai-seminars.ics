@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//IVEPTA//DAI Seminar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DAI Seminar
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+X-LIC-LOCATION:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CEST
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+{{range .Pages -}}
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+SUMMARY:{{.Title}}
+DESCRIPTION:{{.Params.description}}
+UID:{{.Params.date}}@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:{{dateFormat "20060102T150405" .Date}}
+{{if .Params.start }}
+DTSTART:{{dateFormat "20060102T150405" .Params.start}}
+{{ end }}
+{{if .Params.end }}
+DTEND:{{dateFormat "20060102T150405" .Params.end}}
+{{ end }}
+LOCATION:{{with .Params.location}}{{.}}{{else}}TBD{{end}}
+URL:{{.Permalink}}
+END:VEVENT
+{{end -}}
+END:VCALENDAR

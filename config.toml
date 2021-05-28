@@ -36,3 +36,9 @@ title = "Youtube"
 url = "https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg"
 [permalinks]
 posts = "/:year/:month/:slug/"
+# [mediaTypes]
+# [mediaTypes."text/calendar"]
+#   suffixes = [".ics"]
+[outputFormats]
+[outputFormats.Calendar]
+  protocol = "https://"
