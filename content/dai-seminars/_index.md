@@ -1,6 +1,7 @@
 +++
 outputs = ["HTML", "Calendar"]
 title = "DinAmicI: Another Internet Seminar"
+menu = "side"
 +++
 
 Welcome to the page of the

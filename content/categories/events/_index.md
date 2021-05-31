@@ -1,4 +1,4 @@
 +++
-menu = "main"
+menu = ["main", "side"]
 title = "Events"
 +++

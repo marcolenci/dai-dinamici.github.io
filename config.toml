@@ -21,9 +21,11 @@ subtitle = "The Community of Italian Dynamicists"
 home = "left"
 list = "left"
 single = "left"
-widgets = ["ddg-search", "recent", "categories", "social"]
+widgets = ["ddg-search", "recent", "sidemenu", "social"]
 [Params.style.vars]
 highlightColor = "#E5622A"
+[Params.widgets]
+recent_num = 5
 [Params.widgets.social]
 twitter = "dinamici"
 [[Params.widgets.social.custom]]

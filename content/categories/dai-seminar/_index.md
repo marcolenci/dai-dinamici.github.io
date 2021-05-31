@@ -1,3 +1,3 @@
 +++
-title="DAI seminar"
+title="DAI Seminar"
 +++

@@ -1,5 +1,5 @@
 +++
 title = "News"
-menu = "main"
+menu = ["main", "side"]
 weight=10
 +++
