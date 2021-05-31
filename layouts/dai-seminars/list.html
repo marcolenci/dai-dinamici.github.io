@@ -1,0 +1,40 @@
+{{ define "main" }}
+<main class="main list" role="main">
+	{{- with .Title }}
+	<header class="main__header">
+		<h1 class="main__title">{{ . }}</h1>
+	</header>
+	{{- end }}
+	<div class="content main__content clearfix">
+		<p>Welcome to the page of the</p>
+		<p style="text-align:center;"><strong>DinAmicI: Another Internet Seminar</strong><br>
+			(a.k.a. DAI Seminar)</p>
+		<p>a series of online seminars on Dynamical Systems and their applications.
+			Starting from November 2020 the seminar will run biweekly (mostly) on
+			Thursday afternoons at 4pm Central European Time.</p>
+		<p><strong>Organizers</strong>: <em>A. Bianchi, C. Bonanno, M. Lenci, M. Seri, A.
+				Sorrentino</em></p>
+
+		<p>The list of all seminar, ordered from the recent and upcoming backwards in time
+			is available below. <em>Click on a date to be directed to that seminar’s event
+				page, showing all details of the seminar, including the link to the Zoom room and
+				buttons to add the event to your electronic calendars.</em></p>
+		<ul>
+			{{- range .Paginator.Pages }}
+			<li><a href="{{.Permalink}}">{{ dateFormat "Mon, 02 Jan 2006 15:04 MST" .Params.Start }}</a>:
+				<strong>{{ .Params.Speaker }}</strong>&nbsp;({{ .Params.Affiliation }}),
+				<em><strong>{{ .Params.Seminar }}</strong></em>
+			</li>
+			{{ end }}
+		</ul>
+		<div style="text-align: center; margin-bottom:15px;">
+			{{ partial "pagination.html" . }}
+		</div>
+		<p>Most seminars will also be broadcast live on the <a
+				href="https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg">DinAmicI YouTube
+				Channel</a>,
+			where past seminars are also stored.</p>
+		<p>See you “there”!</p>
+	</div>
+</main>
+{{ end }}

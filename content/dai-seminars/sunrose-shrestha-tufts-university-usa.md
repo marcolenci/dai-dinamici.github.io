@@ -6,7 +6,10 @@ end = "2020-06-17 18:00:00"
 outputs = ["HTML", "Calendar"]
 slug = "sunrose-shrestha-tufts-university-usa"
 start = "2020-06-17 17:00:00"
-title = "Sunrose Shrestha  (Tufts University, USA)"
+title = "Sunrose Shrestha (Tufts University, USA)"
+speaker = "Sunrose Shrestha"
+affiliation = "Tufts University, USA"
+seminar = "The topology and geometry of random square-tiled surfaces"
 +++
 *Speaker:* **Sunrose Shrestha**  (Tufts University, USA)
 

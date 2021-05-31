@@ -7,6 +7,9 @@ outputs = ["HTML", "Calendar"]
 slug = "sandro-vaienti-centre-de-physique-theorique-marseille-france"
 start = "2020-06-04 17:00:00"
 title = "Sandro Vaienti (Centre de Physique Théorique, Marseille, France)"
+speaker = "Sandro Vaienti"
+affiliation = "Centre de Physique Théorique, Marseille, France"
+seminar = "Thermodynamic formalism for random weighted covering systems"
 +++
 *Speaker:* **Sandro Vaienti ** (Centre de Physique Théorique, Marseille,
 France)
