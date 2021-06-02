@@ -7,7 +7,7 @@ title = "" # In the form "Author (Affiliation)"
 speaker = ""
 seminar = "" # Seminar title
 affiliation = ""
-# The three " are for multiline comments
+# The three " are for multiline parts. Omitted abstract and date will produce TBA in the page
 abstract = """
 
 """
@@ -18,11 +18,21 @@ draft = true # Delete this line if you want the event to be published
 +++
 
 <!-- By omitting 'speaker', you can omit also 'affiliation', 'abstract', 'start', 'end' but you need to write manually the text below, after 
-deleting the first <!-- and the last -->
+deleting the irrelevant parts, the <!-- and the --> 
 
-<!-- 
-<!-- Use Markdown syntax: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf  --/>
+<!-- Use Markdown syntax: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf 
+See also: https://www.markdownguide.org/basic-syntax/
+(for a new line without breaking a paragraph simply end the line with two or more spaces)
 
+The following shortcodes for videos or images are available: https://gohugo.io/content-management/shortcodes/
+{{< center >}}To center text, use the center shortcode{{< /center >}}
+
+We can create more if needed, just let me know.
+
+You cannot add html content, if you need that, I can make it possible, so, in case, let me know.
+-->
+
+<!--
 *Speaker:* **NAME**  (AFFILIATION)
 
 *Title:* ***TITLE***
