@@ -21,7 +21,7 @@ subtitle = "The Community of Italian Dynamicists"
 home = "left"
 list = "left"
 single = "left"
-widgets = ["ddg-search", "recent", "sidemenu", "social"]
+widgets = ["ddg-search", "recent", "sidemenu", "newsletter", "social"]
 [Params.style.vars]
 highlightColor = "#E5622A"
 [Params.widgets]
