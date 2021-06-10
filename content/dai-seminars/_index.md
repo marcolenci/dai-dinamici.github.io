@@ -1,7 +1,7 @@
 +++
 outputs = ["HTML", "Calendar"]
-title = "DinAmicI: Another Internet Seminar"
-menu = "side"
+title = "DAI Seminar" #"DinAmicI: Another Internet Seminar"
+menu = ["main", "side"]
 +++
 
 Welcome to the page of the

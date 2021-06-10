@@ -5,7 +5,7 @@ theme = "mainroad"
 title = "DinAmicI"
 [Params]
 description = "The Community of Italian Dynamicists"
-mainSections = ["news", "dai-seminar", "events", "open-positions"]
+mainSections = ["news", "dai-seminars", "events", "open-positions"]
 mathjax = true
 mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
 mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"

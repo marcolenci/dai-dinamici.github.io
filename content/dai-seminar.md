@@ -1,6 +1,5 @@
 +++
 date = "2020-05-04 12:29:46"
-menu = "main"
 slug = "dai-seminar"
 title = "DAI Seminar"
 +++

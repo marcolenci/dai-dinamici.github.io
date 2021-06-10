@@ -19,10 +19,13 @@
 			is available below and on <a href="https://researchseminars.org/seminar/DinAmicI">researchseminars.org</a>.
 			<em>Click on a date to be directed to that seminar’s event
 				page, showing all details of the seminar, including the link to the Zoom room and
-				buttons to add the event to your electronic calendars.</em></p>
+				buttons to add the event to your electronic calendars.</em>
+		</p>
 		<ul>
 			{{- range .Paginator.Pages }}
-			<li><a href="{{.Permalink}}">{{ dateFormat "Mon, 02 Jan 2006 15:04 MST" .Params.Start }}</a>:
+			{{ $stime := time .Params.Start "Europe/Rome" }}
+			<li><a href="{{.Permalink}}">{{ dateFormat "Mon, 02 Jan 2006" .Params.Start }} {{printf "%2d:%.2d CET"
+					$stime.Hour $stime.Minute}}</a>:
 				<strong>{{ .Params.Speaker }}</strong>&nbsp;({{ .Params.Affiliation }}),
 				<em><strong>{{ .Params.Seminar }}</strong></em>
 			</li>
