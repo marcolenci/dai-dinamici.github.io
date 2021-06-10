@@ -1,6 +1,6 @@
 +++
 date = "2020-10-29 09:24:11"
-slug = "dai-seminar-previous-editions"
+slug = "dai-seminar-previous-editions-bak"
 title = "DAI Seminar, previous editions"
 +++
 

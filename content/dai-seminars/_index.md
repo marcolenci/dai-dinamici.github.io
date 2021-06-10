@@ -1,4 +1,5 @@
 +++
+aliases = ["/dai-seminar/", "/dai-seminar-previous-editions/"]
 outputs = ["HTML", "Calendar"]
 title = "DAI Seminar" #"DinAmicI: Another Internet Seminar"
 menu = ["main", "side"]
