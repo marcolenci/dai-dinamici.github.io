@@ -22,7 +22,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Mauro Artigiani (Universidad del Rosario, Colombia)
-DESCRIPTION:TBA
+DESCRIPTION:Double rotations and their ergodic properties 
 UID:2021-05-25 08:31:10 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED

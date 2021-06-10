@@ -22,7 +22,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 SUMMARY:Kasun Fernando (University of Toronto, Canada)
-DESCRIPTION:TBA
+DESCRIPTION:Expansions in the mixing local limit theorems for dynamical systems
 UID:2021-05-25 08:33:27 +0000 UTC@dinamici.org
 SEQUENCE:0
 STATUS:CONFIRMED
