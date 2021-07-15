@@ -11,9 +11,9 @@ A new PhD position call on the **topology of Hamiltonian systems** has
 been advertised by dr Nikolay Martynchuk at the University of Groningen
 (Netherlands).
 
-See
+**More info and application form:**
 [www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008GFP](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008GFP)
-for the application and for more information.
 
-**Deadline:** August 2, intended starting date between November 2021 and
-March 2022.
+**Deadline:** August 2,2021
+
+**Intended starting date:** between November 2021 and March 2022
