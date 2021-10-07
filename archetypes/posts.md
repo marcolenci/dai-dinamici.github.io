@@ -3,6 +3,7 @@ title = "{{ replace .Name "-" " " | title }}"
 date = "{{ .Date }}"
 categories = [] # comma separated list including "open-positions", "news", "events"
 # tags = [] # You can add them if you want
+# summary = "" # The post summary is automatically cut after 70 words, but you can enforce where to cut it by using <!--more-->
 draft = true # Delete this line if you want the post to be published
 +++
 
