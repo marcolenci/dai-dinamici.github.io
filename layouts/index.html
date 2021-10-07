@@ -4,6 +4,9 @@
   <div class="content main__content clearfix">
     {{ . }}
   </div>
+  <header class="main__header" style="margin-top: 5em;">
+    <h1 class="main__title">Previous posts</h1>
+  </header>
   <hr />
   {{- end }}
   {{ $paginator := .Paginate (where .Site.RegularPages "Type" "!=" "dai-seminars") }}

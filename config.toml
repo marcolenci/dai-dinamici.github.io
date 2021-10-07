@@ -15,8 +15,8 @@ readmore = true
 schema = true
 twitter_cards = true
 [Params.logo]
-image = "wp-content/DAI.png"
-subtitle = "The Community of Italian Dynamicists"
+image = "wp-content/DAI1.png"
+subtitle = "Dynamics, Applications, Interactions"
 [Params.sidebar]
 home = "left"
 list = "left"
