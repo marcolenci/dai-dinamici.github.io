@@ -10,6 +10,10 @@
     margin-bottom: 20px;
   }
 
+  .umi {
+    background-color: #f6e0d6;
+  }
+
   .profile-img {
     position: absolute;
     width: 150px;
@@ -26,7 +30,7 @@
     margin-left: 205px;
     margin-right: 25px;
     margin-top: 25px;
-    max-width: 300px;
+    max-width: 500px;
     text-align: justify;
   }
 
@@ -51,10 +55,13 @@
   {{- end }}
   <div class="content main__content clearfix">
 
+    <div class="main__content">The light orange profiles indicate members that are also associated to the <a
+        href="https://umi.dm.unibo.it/gruppi-umi-2/gruppo-umi-dinamici/">UMI Group DinAmicI</a>.</div>
+
     {{ $dataJ := getJSON "data/people.json" }}
     {{ range $dataJ }}
 
-    <div class="profile-container">
+    <div class="profile-container {{ if .umi }}umi{{ end }}">
       <div class="circle"></div>
       <img class="profile-img" src="{{ $.Site.BaseURL }}/{{ .path }}">
       <div class="text-container">
