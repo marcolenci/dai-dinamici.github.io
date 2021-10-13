@@ -21,7 +21,7 @@ subtitle = "Dynamics, Applications, Interactions"
 home = "left"
 list = "left"
 single = "left"
-widgets = ["ddg-search", "recent", "sidemenu", "newsletter", "social"]
+widgets = ["recent", "ddg-search", "sidemenu", "newsletter", "social"]
 [Params.style.vars]
 highlightColor = "#E5622A"
 [Params.widgets]
