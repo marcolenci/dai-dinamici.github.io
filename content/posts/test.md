@@ -2,6 +2,7 @@
 categories = ["news"]
 date = "2021-10-13 09:12:24"
 title = "A new beginning"
+draft=true
 +++
 
 # This is a large title
