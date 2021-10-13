@@ -26,6 +26,4 @@ Mirzakhani*” by George Csicsery.
 This initiative is sponsored by the Italian MIUR “Department of
 Excellence” grant (2018-2022) Math@Tov, CUP E83C18000100006.
 
-[figure](figure)
-<img src="https://www.dinamici.org/wp-content/uploads/2020/05/Maryam2020-1-731x1024.jpg" class="wp-image-1420" />
-[/figure](/figure)
+![Poster]({{< resource url="wp-content/Maryam2020-1.jpg" >}})

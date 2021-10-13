@@ -25,7 +25,14 @@ See also: https://www.markdownguide.org/basic-syntax/
 (for a new line without breaking a paragraph simply end the line with two or more spaces)
 
 The following shortcodes for videos or images are available: https://gohugo.io/content-management/shortcodes/
-{{< center >}}To center text, use the center shortcode{{< /center >}}
+
+    {{< center >}}To center text, use the center shortcode{{< /center >}}
+
+For images, I recommend to use:
+
+    ![alt text here]({{< resource url="path inside the static folder" >}})
+
+see may-12-online-event-celebrating-women-in-math-9-june-2020-1500.md for an example.
 
 We can create more if needed, just let me know.
 
