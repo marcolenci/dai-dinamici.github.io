@@ -127,7 +127,7 @@
   },
   {
     "path": "images/default-profile.svg",
-    "name": "Franco Cardin",
+    "name": "Cardin Franco",
     "umi": true
   },
   {
@@ -144,6 +144,12 @@
   {
     "path": "images/default-profile.svg",
     "name": "Carrasco Pablo D."
+  },
+  {
+    "path": "images/default-profile.svg",
+    "name": "Cauli Alessandra",
+    "description": "Politecnico di Torino",
+    "umi": true
   },
   {
     "path": "images/default-profile.svg",
