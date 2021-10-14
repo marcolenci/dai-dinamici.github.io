@@ -399,9 +399,9 @@ select {
 	max-height: 256px;
 }
 
-.logo__text {
+/* .logo__text {
 	text-transform: uppercase;
-}
+} */
 
 .logo--mixed .logo__item {
 	margin: .5rem auto;
