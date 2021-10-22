@@ -138,7 +138,7 @@
   {
     "path": "images/default-profile.svg",
     "name": "Carminati Carlo",
-    "description": "Dipartimento di Matematica -- Università di Pisa  http://arxiv.org/find/math/1/au:+Carminati_C/0/1/0/all/0/1",
+    "description": "Dipartimento di Matematica -- Università di Pisa  https://arxiv.org/find/math/1/au:+Carminati_C/0/1/0/all/0/1",
     "umi": true
   },
   {
@@ -163,7 +163,7 @@
   {
     "path": "wp-content/Lagrangian_points_equipotential.gif",
     "name": "Celletti Alessandra",
-    "description": "See http://www.mat.uniroma2.it/celletti/curriculum.html \n\n http://www.mat.uniroma2.it/celletti/articoli.html"
+    "description": "See https://www.mat.uniroma2.it/celletti/curriculum.html \n\n https://www.mat.uniroma2.it/celletti/articoli.html"
   },
   {
     "path": "wp-content/me_lakelouise-2.jpg",
@@ -487,7 +487,7 @@
   {
     "path": "wp-content/fototessera_sansottera-1.jpg",
     "name": "Sansottera Marco",
-    "description": "See my webpage http://www.mat.unimi.it/users/sansotte/"
+    "description": "See my webpage https://www.mat.unimi.it/users/sansotte/"
   },
   {
     "path": "images/default-profile.svg",
