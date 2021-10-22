@@ -51,7 +51,7 @@ established research programmes.
 
 To view the Job Description and Person Specification document
 please [click
-here.](http://www.admin.ex.ac.uk/personnel/jobs/P58224.pdf)
+here.](https://www.admin.ex.ac.uk/personnel/jobs/P58224.pdf)
 
 For further information please contact Mark Holland by
 e-mail [m.p.holland@exeter.ac.uk](m.p.holland@exeter.ac.uk)

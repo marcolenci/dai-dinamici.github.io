@@ -11,7 +11,7 @@ title = "JISD 2016 (UPC Barcelona, 11-15 July 2016)"
 
 JISD2016
 
-[http://www.ma1.upc.edu/recerca/jisd/jisd2016](http://www.ma1.upc.edu/recerca/jisd/jisd2016)
+[https://www.ma1.upc.edu/recerca/jisd/jisd2016](https://www.ma1.upc.edu/recerca/jisd/jisd2016)
 
 ###### 14th WORKSHOP ON INTERACTIONS BETWEEN DYNAMICAL SYSTEMS AND PARTIAL DIFFERENTIAL EQUATIONS (JISD2016)
 

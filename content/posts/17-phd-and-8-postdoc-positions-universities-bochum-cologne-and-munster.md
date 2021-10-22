@@ -15,6 +15,6 @@ Geometry, Algebra and Dynamics”.
 The deadline for the applications is January 6, 2017.
 
 Information on the projects and instructions for applying can be found
-at the link: <http://www.mi.uni-koeln.de/~geiges/SFB-ausschreibung.pdf>
+at the link: <https://www.mi.uni-koeln.de/~geiges/SFB-ausschreibung.pdf>
 
  

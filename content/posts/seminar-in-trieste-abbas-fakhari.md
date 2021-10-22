@@ -8,7 +8,7 @@ title = "Seminar in Trieste: Abbas Fakhari"
 +++
 
 Thursday 18th August at 14:30
-([ICTP](http://www.ictp.it/research/math/seminars.aspx))
+([ICTP](https://www.ictp.it/research/math/seminars.aspx))
 
 "Ergodicity of Surface Actions via Flag Manifold"
 

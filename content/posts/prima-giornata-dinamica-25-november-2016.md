@@ -8,8 +8,8 @@ title = "Prima Giornata DinAmica - 25 November 2016"
 +++
 
 The [First DinAmicI
-Day](http://www.gssi.infn.it/seminars/seminars-and-events-2016/item/1100-first-dinamici-day)
-to be held at [Gran Sasso Science Institute](http://www.gssi.infn.it/)
+Day](https://www.gssi.infn.it/seminars/seminars-and-events-2016/item/1100-first-dinamici-day)
+to be held at [Gran Sasso Science Institute](https://www.gssi.infn.it/)
 in L'Aquila is approaching. For people arriving on the 24th, we are
 meeting at the restaurant ["Il primo
 papavero"](https://www.tripadvisor.it/Restaurant_Review-g194790-d7360790-Reviews-Il_Primo_Papavero-L_Aquila_Province_of_L_Aquila_Abruzzo.html)

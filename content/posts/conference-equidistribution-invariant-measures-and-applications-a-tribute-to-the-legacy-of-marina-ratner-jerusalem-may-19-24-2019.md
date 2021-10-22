@@ -44,6 +44,6 @@ Pre-banquet personal remarks about Marina Ratner will be given by Yakov
 Sinai (Princeton).  
   
 The conference website
-is [http://ias.huji.ac.il/22midrshamathematicae](https://ictp.us19.list-manage.com/track/click?u=38f9abce1666519aae684660d&id=c31b44e7f1&e=9261ff6e2e).
+is [https://ias.huji.ac.il/22midrshamathematicae](https://ictp.us19.list-manage.com/track/click?u=38f9abce1666519aae684660d&id=c31b44e7f1&e=9261ff6e2e).
 We have some (limited) funding to support participants. The deadline for
 funding application is February 17, 2019.

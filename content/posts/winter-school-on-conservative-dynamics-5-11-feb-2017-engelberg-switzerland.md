@@ -39,7 +39,7 @@ REGISTRATION FEE: 150 CHF (to be paid by 10th December
 2016 by all participants). Please follow the
 instruction on this website:
 
-<http://www.eth-its.ethz.ch/its-winter-school-2017.html>
+<https://www.eth-its.ethz.ch/its-winter-school-2017.html>
 
 For further information, please visit the web page:
 <https://people.math.ethz.ch/~felder/eth-its/dynsys2017/>

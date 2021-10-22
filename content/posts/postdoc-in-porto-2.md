@@ -45,7 +45,7 @@ Applicants should also arrange for two letters of recommendation to be
 sent directly to the above e-mail addresses.
 
 For information about the project, please see the website:
-[https://cmup.fc.up.pt/main/content/probabilistic-methods-chaotic-dynamics](http://cmup.fc.up.pt/main/content/probabilistic-methods-chaotic-dynamics)
+[https://cmup.fc.up.pt/main/content/probabilistic-methods-chaotic-dynamics](https://cmup.fc.up.pt/main/content/probabilistic-methods-chaotic-dynamics)
 Questions can be addressed to José F. Alves &lt;[jfalves@fc.up.pt](jfalves@fc.up.pt)&gt;.
 
 \*Disclaimer:\*
@@ -53,7 +53,7 @@ Questions can be addressed to José F. Alves &lt;[jfalves@fc.up.pt](jfalves@fc.u
 This announcement is for informational purposes only and does not in any
 way supersede or replace the official call, published at:
 
-[http://www.eracareers.pt/opportunities/index.aspx?task=global&jobId=92335](http://www.eracareers.pt/opportunities/index.aspx?task=global&jobId=92335)
+[https://www.eracareers.pt/opportunities/index.aspx?task=global&jobId=92335](https://www.eracareers.pt/opportunities/index.aspx?task=global&jobId=92335)
 
 The project Probabilistic Methods in Chaotic Dynamics
 (PTDC/MAT-CAL/3884/2014) is funded by FCT (Portugal) with national funds

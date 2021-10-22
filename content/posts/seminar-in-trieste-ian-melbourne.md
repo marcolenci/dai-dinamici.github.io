@@ -8,7 +8,7 @@ title = "Seminar in Trieste: Ian Melbourne"
 +++
 
 Wednesday 17th August at 14:30
-([ICTP](http://www.ictp.it/research/math/seminars.aspx))
+([ICTP](https://www.ictp.it/research/math/seminars.aspx))
 
 "Martingale approximation for parametrised dynamical systems"
 

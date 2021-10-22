@@ -16,7 +16,7 @@ by “Centro Congressi Stefano Franscini” in Ascona.
 
 The list of invited speakers and other relevant information can be
 retrieved from the following
-website: <http://www.eth-its.ethz.ch/hamiltonian-systems-csf.html>
+website: <https://www.eth-its.ethz.ch/hamiltonian-systems-csf.html>
 
 We will be able to cover lodging/boarding expenses (from sunday evening to friday afternoon) to a
 number of participants, in the limit of the  maximal occupancy of the

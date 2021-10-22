@@ -16,8 +16,8 @@ See:
 <https://webusers.imj-prg.fr/~sobhan.seyfaddini/ERC_postdoc/ERC_postdoc.html>
 
 This is a **two-year post-doctoral position** funded by the [European
-Research Council](http://erc.europa.eu/) via the
-French [CNRS](http://www.cnrs.fr/index.php).
+Research Council](https://erc.europa.eu/) via the
+French [CNRS](https://www.cnrs.fr/index.php).
 
 -   **No teaching** requirements for this position.
 -   The starting date of is flexible.

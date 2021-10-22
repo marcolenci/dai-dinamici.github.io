@@ -12,7 +12,7 @@ title = "11 GSSI PhD fellowships in Mathematics"
 The new call for the Gran Sasso Science Institute (GSSI) PhD fellowships
 has been published at
 
-[http://www.gssi.it/phd/](http://www.gssi.it/phd/)
+[https://www.gssi.it/phd/](https://www.gssi.it/phd/)
 
 The  Math program offers 11 fellowships including 1 supported by IIT, on
 Communication Networks of Plant Roots.

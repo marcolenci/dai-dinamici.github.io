@@ -16,8 +16,8 @@ The deadline to apply is  April 3,
 Expected start date: May
 2nd.
 
-[http://www.math.unipd.it/it/news/?id=2217](http://www.math.unipd.it/it/news/?id=2217)
+[https://www.math.unipd.it/it/news/?id=2217](https://www.math.unipd.it/it/news/?id=2217)
 
-[http://www.math.unipd.it/it/news/?id=2218](http://www.math.unipd.it/it/news/?id=2218)
+[https://www.math.unipd.it/it/news/?id=2218](https://www.math.unipd.it/it/news/?id=2218)
 
 

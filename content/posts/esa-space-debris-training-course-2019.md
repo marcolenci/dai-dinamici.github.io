@@ -11,7 +11,7 @@ ESA have opened the call for university students to participate in the
 space debris training course for 2019.
 
 The course will be hosted  at the [ESA Academy's Training & Learning
-Facility](http://www.esa.int/Education/ESA_Academy/What_is_the_ESA_Academy)
+Facility](https://www.esa.int/Education/ESA_Academy/What_is_the_ESA_Academy)
 in ESEC-Galaxia, Transinne, Belgium, from 13 to 17 May 2019.
 
 University students will be provided with an introduction to the concept
@@ -26,4 +26,4 @@ The deadline for applications is 25 March 2019.
 
 For more information:
 
-<http://www.esa.int/Education/ESA_Academy/Calling_university_students_participate_in_the_Space_Debris_Training_Course_2019>
+<https://www.esa.int/Education/ESA_Academy/Calling_university_students_participate_in_the_Space_Debris_Training_Course_2019>

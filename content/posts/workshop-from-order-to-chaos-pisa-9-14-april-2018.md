@@ -7,4 +7,4 @@ tags = []
 title = "Workshop \"From order to chaos\", Pisa, 9-14 April 2018"
 +++
 
-All info at: [http://www.crm.sns.it/event/419/](http://www.crm.sns.it/event/419/)
+All info at: [https://www.crm.sns.it/event/419/](https://www.crm.sns.it/event/419/)

@@ -27,4 +27,4 @@ The deadline to apply is **November 24, 2017; h:13:00**
 
 The instructions to apply may be found in the announcement (in Italian):
 
-<http://www.math.unipd.it/news-files/2017/2017rua10-bando.pdf>
+<https://www.math.unipd.it/news-files/2017/2017rua10-bando.pdf>

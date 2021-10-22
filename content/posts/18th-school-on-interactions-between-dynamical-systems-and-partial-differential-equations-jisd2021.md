@@ -10,7 +10,7 @@ title = "18th School on interactions between Dynamical Systems and Partial Diffe
 **18th School on interactions between Dynamical Systems and Partial
 Differential Equations (JISD2021)**  
 **June 28  – July 2, 2021**  
-[**Centre de Recerca Matemàtica**](http://www.crm.cat/2021/JISD)
+[**Centre de Recerca Matemàtica**](https://www.crm.cat/2021/JISD)
 
 The JISD is an annual meeting between experts and young researchers in
 Dynamical Systems and Partial Differential Equations (PDEs). It is
@@ -44,4 +44,4 @@ singularities *
 by Prof. Joaquim Serra (ETH Zürich, Switzerland)
 
 **Website:**
-<http://www.crm.cat/en/Activities/Curs_2020-2021/Pages/Glads21.aspx>
+<https://www.crm.cat/en/Activities/Curs_2020-2021/Pages/Glads21.aspx>

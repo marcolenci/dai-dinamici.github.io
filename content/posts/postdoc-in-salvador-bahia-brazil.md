@@ -38,9 +38,9 @@ onwards. The result will be posted on the above webpage and also
 communicated by email to the candidates.
 
 The CVs of the faculty of the PhD Program in Mathematics UFBA/UFAL can
-be found at <http://www.pgmat.ufba.br/pt-br/doutorado/docentes> and
-<http://www.pgmat.ufba.br/pt-br/mestrado/docentes> and the corresponding
+be found at <https://www.pgmat.ufba.br/pt-br/doutorado/docentes> and
+<https://www.pgmat.ufba.br/pt-br/mestrado/docentes> and the corresponding
 faculty at UFAL can be found at
-<http://www.im.ufal.br/posgraduacao/posmat/index.php/mestrado/corpo-docente>
+<https://www.im.ufal.br/posgraduacao/posmat/index.php/mestrado/corpo-docente>
 
  

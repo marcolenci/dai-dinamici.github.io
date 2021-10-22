@@ -21,7 +21,7 @@ The exams are expected  to happen in mid July and a successful candidate
 expected to take his or her job by the end of the year. Please find more
 information  at:
 
-<http://www.copeve.ufal.br/sistema/anexos/Docente%20UFAL%20Efetivo%20-%20Edital%20n.014-2016%20-%20Maceio/Edital%20de%20Abertura%20N%20142016.pdf>
+<https://www.copeve.ufal.br/sistema/anexos/Docente%20UFAL%20Efetivo%20-%20Edital%20n.014-2016%20-%20Maceio/Edital%20de%20Abertura%20N%20142016.pdf>
 
 More about Maceió here:  [https://en.wikipedia.org/wiki/Macei%C3%B3](https://en.wikipedia.org/wiki/Macei%C3%B3)
 

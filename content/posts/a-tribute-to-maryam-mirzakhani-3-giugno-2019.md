@@ -22,6 +22,6 @@ Place: Sala delle Scienze Fisiche, Accademia dei Lincei, Palazzo
 Corsini, Roma
 
 This event is part of the international project "May 12"
-[may12.womeninmaths.org](http://may12.womeninmaths.org/) and is
+[may12.womeninmaths.org](https://may12.womeninmaths.org/) and is
 supported by the MIUR grant "Dipartimento di eccellenza" (2018-2022),
 CUP E83C18000100006.

@@ -29,6 +29,6 @@ October 2016).
 Application deadline: 11th January 2016.
 
 For more information visit [this
-page.](http://www.sns.it/bando/assegni-di-ricerca-denominati-%E2%80%9Cjunior-visiting-position%E2%80%9D-quattro-giovani-studiosi-lo-svolgimento-di-attivit%C3%A0-di-ricerca-nel)
+page.](https://www.sns.it/bando/assegni-di-ricerca-denominati-%E2%80%9Cjunior-visiting-position%E2%80%9D-quattro-giovani-studiosi-lo-svolgimento-di-attivit%C3%A0-di-ricerca-nel)
 
 

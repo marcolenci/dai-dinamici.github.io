@@ -17,7 +17,7 @@ confirmed that the school will take place and in which form.
 
 For all information on the courses of the school, news about the
 schedule, and how to apply, visit the website
-[http://web.math.unifi.it/users/cime/](http://web.math.unifi.it/users/cime/)
+[https://web.math.unifi.it/users/cime/](https://web.math.unifi.it/users/cime/)
 
 Please notice that those who have already applied last year should apply
 again. Applications from last year have been canceled.

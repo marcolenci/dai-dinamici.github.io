@@ -12,7 +12,7 @@ Dear colleagues,
 on October 1st - 3rd 2018, it will be held at Princeton University a
 meeting in tribute to the memory of John N. Mather (1942-2017):
 
-[http://web.math.princeton.edu/conference/mather/](http://web.math.princeton.edu/conference/mather/)
+[https://web.math.princeton.edu/conference/mather/](https://web.math.princeton.edu/conference/mather/)
 
 Here is a list of speakers, who have accepted to give lectures on John's
 fundamental contributions to many areas of mathematics:

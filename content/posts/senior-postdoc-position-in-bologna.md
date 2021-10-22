@@ -25,6 +25,6 @@ The appointment is initially for one year, but is expected to be renewed
 for a second year upon good performance in the first year.
 
 **More info at**:
-<http://www.mathematics.unibo.it/en/calls-of-competition/call-for-1-research-fellowships-advanced-postdoctoral-position-in-mathematics-and-applications-in-sciences-social-sciences-and-engineering>
+<https://www.mathematics.unibo.it/en/calls-of-competition/call-for-1-research-fellowships-advanced-postdoctoral-position-in-mathematics-and-applications-in-sciences-social-sciences-and-engineering>
 
 *Candidates interested in Dynamical Systems may contact Marco Lenci.*

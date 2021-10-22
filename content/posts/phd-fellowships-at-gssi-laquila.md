@@ -8,7 +8,7 @@ title = "PhD Fellowships at GSSI, L'Aquila"
 +++
 
 The GSSI-Gran Sasso Science Institute offers [31 PhD
-fellowships](http://www.gssi.it/phd/) for the academic year 2019/20 and
+fellowships](https://www.gssi.it/phd/) for the academic year 2019/20 and
 invites applications for fellowships for the PhD Programmes in
 “Astroparticle Physics” (9), “Mathematics in Natural, Social and Life
 Sciences” (8), “Computer Science” (7), “Urban Studies and Regional
@@ -18,7 +18,7 @@ The official language for all PhD courses is English. The fellowships
 are awarded for 4 years and their yearly amount is € 16.159,91 gross.
 All PhD students have free accommodation at the GSSI facilities and use
 of the canteen. The application must be submitted through the online
-form available at [www.gssi.it/phd/](http://www.gssi.it/phd/) by 18 June
+form available at [www.gssi.it/phd/](https://www.gssi.it/phd/) by 18 June
 2019 at 6 pm (Italian time zone).
 
 The GSSI-Gran Sasso Science Institute is an international PhD school and
@@ -37,4 +37,4 @@ dissemination of scientific results towards society and the promotion of
 cultural events for generic public, citizens and schools are among GSSI
 goals.
 
-<http://www.gssi.it/communication/news-events/item/5739-new-call-for-gssi-phd-applications-2019-20-now-open>
+<https://www.gssi.it/communication/news-events/item/5739-new-call-for-gssi-phd-applications-2019-20-now-open>

@@ -12,7 +12,7 @@ postdoctoral fellowship to pursue research in mathematics at the
 Ruhr-Universität Bochum.  
 They are looking for an outstanding, independent and highly motivated
 scholar with a strong research record in one of the fields covered by
-the FCG (see [http://www.floer.rub.de/).](http://www.floer.rub.de/)  
+the FCG (see [https://www.floer.rub.de/).](https://www.floer.rub.de/)  
   
 Payment is based on the German TVL-13 scale. The fellowship includes a
 research grant of 2000 € per year for conference travel support. The
@@ -23,7 +23,7 @@ The starting date is September 1, 2020.
   
 Applicants should hold a PhD in mathematics. The topic of the PhD Thesis
 should be related to the fields covered by the FCG (see
-again [http://www.floer.rub.de/).](http://www.floer.rub.de/)  
+again [https://www.floer.rub.de/).](https://www.floer.rub.de/)  
   
 Applications should be sent by e-mail to[  
 Prof. Dr. Alberto Abbondandolo](mailto:alberto.abbondandolo@rub.de) (cc

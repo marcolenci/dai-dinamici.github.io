@@ -37,4 +37,4 @@ childcare assistance and leisure facilities.
 
 **Deadline for application:** 6 October 2021
 
-**All info and application form:** [http://jobs.surrey.ac.uk/055621](http://jobs.surrey.ac.uk/055621)
+**All info and application form:** [https://jobs.surrey.ac.uk/055621](https://jobs.surrey.ac.uk/055621)

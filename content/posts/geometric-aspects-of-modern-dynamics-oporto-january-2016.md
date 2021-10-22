@@ -11,7 +11,7 @@ The conference "Geometric Aspects of Modern Dynamics" will be held in
 Oporto (Portugal) from January 11 until 15,
 2016:
 
-[http://cmup.fc.up.pt/complexdynamics/](http://cmup.fc.up.pt/complexdynamics/)
+[https://cmup.fc.up.pt/complexdynamics/](https://cmup.fc.up.pt/complexdynamics/)
 
 Organizing Committee: Jasmin Raissy (U. Toulouse, France) Helena Reis
 (U. Porto, Portugal)

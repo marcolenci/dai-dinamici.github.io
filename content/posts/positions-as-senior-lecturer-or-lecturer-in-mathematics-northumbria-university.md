@@ -23,7 +23,7 @@ Complex and Nonlinear Phenomena*
 ([MCNP](https://tinyurl.com/northumbria-mcnp)) and is especially keen to
 hire a strong mathematician, theoretical physicist or
 mathematical-physicist in the areas compatible with current research
-directions in the [MCNP group](http://mcnp.northumbria.ac.uk/mcnp.html).
+directions in the [MCNP group](https://mcnp.northumbria.ac.uk/mcnp.html).
 
 You must hold a first degree and be qualified, or soon to be qualified,
 to Doctoral level in a relevant discipline, and have subject expertise

@@ -18,4 +18,4 @@ subject. The projects are envisaged as suitable for late-stage
 undergraduates or early-stage postgraduates.
 
 For more details on the available projects and on how to apply, see
-<http://lml.org.uk/events/summer-school/summer-school-2018/>
+<https://lml.org.uk/events/summer-school/summer-school-2018/>

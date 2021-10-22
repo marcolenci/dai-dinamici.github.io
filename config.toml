@@ -1,4 +1,4 @@
-baseURL = "https://dai-dinamici.github.io"
+baseURL = "https://www.dinamici.org"
 description = "The Community of Italian Dynamicists"
 languageCode = "en-US"
 theme = "mainroad"
@@ -7,8 +7,8 @@ title = "DinAmicI"
 description = "The Community of Italian Dynamicists"
 mainSections = ["news", "dai-seminars", "events", "open-positions"]
 mathjax = true
-mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
-mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
+mathjaxConfig = "TeX-AMS_SVG"
+mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"
 opengraph = true
 pager = true
 readmore = true

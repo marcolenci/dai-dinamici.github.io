@@ -31,14 +31,14 @@ Theory.
 Please find official announcements at the following websites:
 
 Postdoc positions (English)  
-<http://www.rwth-aachen.de/cms/root/Die-RWTH/Jobs-Ausbildung/Jobboerse/~kbag/JOB-Einzelansicht/file/26646/lidx/1/>  
+<https://www.rwth-aachen.de/cms/root/Die-RWTH/Jobs-Ausbildung/Jobboerse/~kbag/JOB-Einzelansicht/file/26646/lidx/1/>  
 Postdoc positions (German)  
-<http://www.rwth-aachen.de/cms/root/Die-RWTH/Arbeiten-an-der-RWTH/Jobboerse/~kbag/JOB-Einzelansicht/?file=26640>
+<https://www.rwth-aachen.de/cms/root/Die-RWTH/Arbeiten-an-der-RWTH/Jobboerse/~kbag/JOB-Einzelansicht/?file=26640>
 
 PhD position (English)  
-<http://www.rwth-aachen.de/cms/root/Die-RWTH/Arbeiten-an-der-RWTH/Jobboerse/~kbag/JOB-Einzelansicht/?file=26648&lidx=1>  
+<https://www.rwth-aachen.de/cms/root/Die-RWTH/Arbeiten-an-der-RWTH/Jobboerse/~kbag/JOB-Einzelansicht/?file=26648&lidx=1>  
 PhD position (German)  
-<http://www.rwth-aachen.de/cms/root/Die-RWTH/Arbeiten-an-der-RWTH/Jobboerse/~kbag/JOB-Einzelansicht/?file=26642>
+<https://www.rwth-aachen.de/cms/root/Die-RWTH/Arbeiten-an-der-RWTH/Jobboerse/~kbag/JOB-Einzelansicht/?file=26642>
 
 The deadline is March 30 (possibly extendable), and we will interview 
 candidates shortly after (mostly via Skype), aiming to complete the 

@@ -39,7 +39,7 @@ Starck (CEA-Saclay, France) Emmanuel Trélat (Sorbonne Université - Paris
 6, France) Massimiliano Vasile (University of Strathclyde, UK)
 
 More information can be retrieved from the website:
-[http://www.mat.uniroma2.it/Progetto/mmmess19.php](http://www.mat.uniroma2.it/Progetto/mmmess19.php)
+[https://www.mat.uniroma2.it/Progetto/mmmess19.php](https://www.mat.uniroma2.it/Progetto/mmmess19.php)
 
 Participation is free, but registration is necessary (please, follow the
 instructions on the website). The deadline is 20th November 2018, but

@@ -9,7 +9,7 @@ title = "Conference \"Analysis and Dynamics\": in honour of Luigi Chierchia's 60
 
 ###### Analysis and Dynamics 
 
-    Conference in occasion of Luigi Chierchia's 60th BirthdayMarina di San Gregorio, Lecce  12-15 October 2017 http://ricerca.mat.uniroma3.it/users/procesi/ConvegnoLuigi60.html
+    Conference in occasion of Luigi Chierchia's 60th BirthdayMarina di San Gregorio, Lecce  12-15 October 2017 https://ricerca.mat.uniroma3.it/users/procesi/ConvegnoLuigi60.html
 
  
 

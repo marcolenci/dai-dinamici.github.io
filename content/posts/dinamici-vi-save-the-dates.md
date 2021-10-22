@@ -16,7 +16,7 @@ will take place on
 
 *June 4-7, 2019*  
 at the [Centro di Ricerca Matematica Ennio De
-Giorgi,](http://crm.sns.it/)  
+Giorgi,](https://crm.sns.it/)  
 [Scuola Normale Superiore](https://www.sns.it/), Pisa.
 
 A website with more info will appear soon and will be announced here.

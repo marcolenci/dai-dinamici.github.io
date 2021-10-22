@@ -14,8 +14,8 @@ in the field of in the field of **differentiable dynamical systems
 geometry)** starting September 1, 2021.
 
 This is a **two-year post-doctoral position** funded by the [European
-Research Council](http://erc.europa.eu/) (PI: Pierre Berger) via the
-French [CNRS](http://www.cnrs.fr/index.php).
+Research Council](https://erc.europa.eu/) (PI: Pierre Berger) via the
+French [CNRS](https://www.cnrs.fr/index.php).
 
 -   **No teaching** requirements for this position.
 -   The starting date of is flexible.

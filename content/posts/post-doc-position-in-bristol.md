@@ -10,6 +10,6 @@ title = "Postdoc position in Bristol"
 1-yr (potentially 2-yr) postdoctoral position with Corinna Ulcigrai at
 the University of Bristol:
 
-<http://www.bristol.ac.uk/jobs/find/details.html?nPostingId=3764&nPostingTargetId=13751&id=Q50FK026203F3VBQBV7V77V83&LG=UK&mask=uobext>
+<https://www.bristol.ac.uk/jobs/find/details.html?nPostingId=3764&nPostingTargetId=13751&id=Q50FK026203F3VBQBV7V77V83&LG=UK&mask=uobext>
 
  

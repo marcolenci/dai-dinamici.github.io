@@ -37,4 +37,4 @@ theorists in order to bridge cutting-edge theoretical discoveries with
 new and interesting computational developments.
 
 **Website:**
-<http://www2.warwick.ac.uk/fac/sci/maths/research/events/2016-17/nonsymposium/etarc/>
+<https://www2.warwick.ac.uk/fac/sci/maths/research/events/2016-17/nonsymposium/etarc/>

@@ -51,7 +51,7 @@ Questions can be addressed to José F. Alves &lt;[jfalves@fc.up.pt](jfalves@fc.u
 This announcement is for informational purposes only and does not in any
 way supersede or replace the official call, published at
 
-<http://www.eracareers.pt/opportunities/index.aspx?task=global&jobId=89063>
+<https://www.eracareers.pt/opportunities/index.aspx?task=global&jobId=89063>
 
 The project Probabilistic Methods in Chaotic Dynamics
 (PTDC/MAT-CAL/3884/2014) is funded by FCT (Portugal) with national funds

@@ -30,7 +30,7 @@ state of São Paulo, and benefits include:
 Brazilian income), - Additional 15% of yearly income for research
 related expenses, - Start-up costs, including air travel and one extra
 month of pay, - Maternity and paternity leave as described on
-[http://www.fapesp.br/270](http://www.fapesp.br/270).
+[https://www.fapesp.br/270](https://www.fapesp.br/270).
 
 Applicants should have a Ph.D. degree by the start date of the
 scholarship and should have graduated no longer than seven year ago. To

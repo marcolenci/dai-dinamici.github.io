@@ -13,7 +13,7 @@ has granted the funding of a Collaborative Research Centre / Transregio
 (CRC/TRR 191) on *Symplectic Structures in Geometry, Algebra and
 Dynamics*. This CRC is based at the universities of
 [Bochum](https://www.google.com/url?q=https%3A%2F%2Fwww.ruhr-uni-bochum.de%2Fffm%2Findex.html.de&sa=D&sntz=1&usg=AFQjCNHerCPkRUk7UFWcNrW8oIkD2EjogQ),
-[Cologne](http://www.google.com/url?q=http%3A%2F%2Fwww.mi.uni-koeln.de%2Fmain%2Findex.en.php&sa=D&sntz=1&usg=AFQjCNHouG7_MXtXF1t1a5-TBzjfUsq3Ig)
+[Cologne](https://www.google.com/url?q=http%3A%2F%2Fwww.mi.uni-koeln.de%2Fmain%2Findex.en.php&sa=D&sntz=1&usg=AFQjCNHouG7_MXtXF1t1a5-TBzjfUsq3Ig)
 and
 [Heidelberg](https://www.google.com/url?q=https%3A%2F%2Fwww.uni-heidelberg.de%2Fde%2Fstudium%2Falle-studienfaecher%2Fmathematik&sa=D&sntz=1&usg=AFQjCNFOlNwZD3IxTzi0_4iXHaGpiZKmlg),
 and it includes mathematicians from

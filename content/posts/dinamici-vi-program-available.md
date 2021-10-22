@@ -9,11 +9,11 @@ title = "DinAmicI VI: Program available"
 
 Please visit the page
 
-<http://www.crm.sns.it/event/450/timetable.html#title>
+<https://www.crm.sns.it/event/450/timetable.html#title>
 
 for the program of our upcoming workshop.
 
 You can also download the poster of the workshop at
-<http://www.crm.sns.it/media/event/450/posterA3v2-1.pdf>
+<https://www.crm.sns.it/media/event/450/posterA3v2-1.pdf>
 
 We hope to see you soon in Pisa.

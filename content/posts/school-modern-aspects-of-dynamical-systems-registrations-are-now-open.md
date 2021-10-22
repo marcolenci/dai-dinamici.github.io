@@ -15,4 +15,4 @@ until April 30th, 2020.
 the school with more information.
 
 To register please apply on the website
-[http://web.math.unifi.it/users/cime/](http://web.math.unifi.it/users/cime/)
+[https://web.math.unifi.it/users/cime/](https://web.math.unifi.it/users/cime/)

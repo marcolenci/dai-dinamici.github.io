@@ -14,7 +14,7 @@ scientifico-disciplinare di FISICA-MATEMATICA (MAT-07)
 
 Le domande devono essere presentate entro la data del 15/03/2018 Il
 bando e il fac-simile della domanda sono accessibili alla pagina web
-<http://web.uniroma2.it/module/name/Content/newlang/italiano/action/showpage/navpath/CON/content_id/51738/section_id/6206>
+<https://web.uniroma2.it/module/name/Content/newlang/italiano/action/showpage/navpath/CON/content_id/51738/section_id/6206>
 
 Il Dipartimento di Matematica - Univ. Roma Tor Vergata e' Dipartimento
 di Eccellenza 2018-2022.
@@ -30,11 +30,11 @@ in the scientific field of MATHEMATICAL PHYSICS. The application
 deadline is March 15, 2018.
 
 For more information, see the job advertisement at
-<http://web.uniroma2.it/module/name/Content/newlang/italiano/action/showpage/navpath/CON/content_id/51738/section_id/6206>
+<https://web.uniroma2.it/module/name/Content/newlang/italiano/action/showpage/navpath/CON/content_id/51738/section_id/6206>
 
 More information about the RTD-B position are available at "Art. 24" of
 the Italian law n. 240/2010:
-[http://www.camera.it/parlam/leggi/10240l.htm](http://www.camera.it/parlam/leggi/10240l.htm)
+[https://www.camera.it/parlam/leggi/10240l.htm](https://www.camera.it/parlam/leggi/10240l.htm)
 
 The Department of Mathematics - Univ. of Rome Tor Vergata is Italian
 Excellence Department 2018-2022.

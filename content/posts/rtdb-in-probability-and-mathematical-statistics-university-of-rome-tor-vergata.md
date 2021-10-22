@@ -17,6 +17,6 @@ related to Machine Learning, Big Data analysis and Artificial
 Intelligence.
 
 **Announcement and template of application form (in Italian):**
-<http://web.uniroma2.it/module/name/Content/newlang/italiano/action/showpage/navpath/CON/content_id/91941/section_id/6206>
+<https://web.uniroma2.it/module/name/Content/newlang/italiano/action/showpage/navpath/CON/content_id/91941/section_id/6206>
 
 **Deadline:** 1 April 2021

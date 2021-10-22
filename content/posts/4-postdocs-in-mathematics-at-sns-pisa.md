@@ -25,7 +25,7 @@ Application deadline: the application must be registered online by 23.59
 (Italian time) of **January 10[sup](sup)th[/sup](/sup) 2017**.
 
 More info and online application form at:
-<http://en.sns.it/bando/research-contracts-named-%E2%80%9Cjunior-visiting-positions%E2%80%9D-field-mathematics>
+<https://en.sns.it/bando/research-contracts-named-%E2%80%9Cjunior-visiting-positions%E2%80%9D-field-mathematics>
 
 Same page as above but in Italian:
-<http://www.sns.it/bando/assegni-di-ricerca-denominati-junior-visiting-position-lo-svolgimento-di-attivit%C3%A0-di-ricerca-nel-campo-della-matematica>
+<https://www.sns.it/bando/assegni-di-ricerca-denominati-junior-visiting-position-lo-svolgimento-di-attivit%C3%A0-di-ricerca-nel-campo-della-matematica>

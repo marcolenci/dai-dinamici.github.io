@@ -16,7 +16,7 @@ background in analysis, and in particular in dynamical systems and/or
 complex analysis, is a plus.
 
 The official advertisement can be found here:
-<http://www.uva.nl/en/research/phd/phd-vacancies/item/16-056_2-phd-candidates-in-analysis.html>
+<https://www.uva.nl/en/research/phd/phd-vacancies/item/16-056_2-phd-candidates-in-analysis.html>
 
 The positions are for 4 years and should lead to a Ph.D. thesis. They
 should start no later than 1 September 2016

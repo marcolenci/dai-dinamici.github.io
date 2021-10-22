@@ -10,8 +10,8 @@ title = "Conference \"Weak KAM theory - XXV years later\", Avignon, May 31 - Jun
 International conference
 
 **Weak KAM theory - XXV years later**  
-**[Avignon Université](http://univ-avignon.fr/), France**  
+**[Avignon Université](https://univ-avignon.fr/), France**  
 **May 31 - June 4, 2021**
 
 All info here:
-<http://perso.ens-lyon.fr/marco.mazzucchelli/Weak_KAM_XXV/?fbclid=IwAR0MDzTiWSjfaPgZPGxQF6iNtFCd_ud7cQi4_UvSPPLLRaaZOrIUmWmdFaE>
+<https://perso.ens-lyon.fr/marco.mazzucchelli/Weak_KAM_XXV/?fbclid=IwAR0MDzTiWSjfaPgZPGxQF6iNtFCd_ud7cQi4_UvSPPLLRaaZOrIUmWmdFaE>

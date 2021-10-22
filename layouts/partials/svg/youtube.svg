@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg"
+<svg xmlns="https://www.w3.org/2000/svg"
 aria-label="YouTube" role="img"
 height="24" widht="24"
 class="{{ with .class }}{{ . }} {{ end }}icon icon-youtube"

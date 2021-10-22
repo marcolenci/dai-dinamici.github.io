@@ -19,10 +19,10 @@ three-positions for PhD Fellowships in the center Research Lines:
 -   ML (supervisor: Jose Antonio Lozano)
 
 For further information visit the website:
-[http://www.bcamath.org/en/research/lines](http://www.bcamath.org/en/research/lines)
+[https://www.bcamath.org/en/research/lines](https://www.bcamath.org/en/research/lines)
 
 Applications must be submitted on-line at:
-[http://www.bcamath.org/en/research/job](http://www.bcamath.org/en/research/job)
+[https://www.bcamath.org/en/research/job](https://www.bcamath.org/en/research/job)
 
 Deadline for submission: March 30th 2016
 17:00 h  (CET)

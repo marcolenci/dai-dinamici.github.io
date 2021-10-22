@@ -14,7 +14,7 @@ Politecnico di Torino
 Deadline for applications: 12th January 2017
 
 Call:
-<http://www.swas.polito.it/services/concorsi/assric.asp?id_documento_padre=134082>
+<https://www.swas.polito.it/services/concorsi/assric.asp?id_documento_padre=134082>
 
 The selected candidate is expected to start his/her appointment on 16th
 February 2017.

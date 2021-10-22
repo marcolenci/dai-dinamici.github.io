@@ -24,6 +24,6 @@ his/her research proposal.
 The deadline for application is **November 30, 2016**, 1:00PM, CET.
 
 **More info at**:
-<http://www.mathematics.unibo.it/en/calls-of-competition/call-for-2-research-fellowships-advanced-postdoctoral-position-in-mathematics-and-applications-in-sciences-social-sciences-and-engineering>
+<https://www.mathematics.unibo.it/en/calls-of-competition/call-for-2-research-fellowships-advanced-postdoctoral-position-in-mathematics-and-applications-in-sciences-social-sciences-and-engineering>
 
 *Candidates interested in Dynamical Systems may contact Marco Lenci.*

@@ -23,4 +23,4 @@ Hence, if you have earned your Ph.D. outside Italy and are thinking of
 applying for a junior or senior RTD position in Italy, it is a good idea
 if you take a look at the following link
 
-<http://www.cimea.it/en/servizi/procedure-di-riconoscimento-dei-titoli/procedure-di-riconoscimento-accademico-dei-titoli.aspx>
+<https://www.cimea.it/en/servizi/procedure-di-riconoscimento-dei-titoli/procedure-di-riconoscimento-accademico-dei-titoli.aspx>

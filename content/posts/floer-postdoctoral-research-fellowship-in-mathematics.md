@@ -14,4 +14,4 @@ University of Bochum.
 The deadline for applications is January 15, 2017.
 
 Information on the position and instructions for applying can be found
-at the link: [http://www.floer.rub.de/index.html.en](http://www.floer.rub.de/index.html.en)
+at the link: [https://www.floer.rub.de/index.html.en](https://www.floer.rub.de/index.html.en)

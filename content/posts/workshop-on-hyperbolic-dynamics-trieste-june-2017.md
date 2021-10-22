@@ -7,7 +7,7 @@ tags = []
 title = "Workshop on Hyperbolic Dynamics | Trieste | June 2017"
 +++
 
-The workshop will be held at [ICTP](http://indico.ictp.it/event/7970/),
+The workshop will be held at [ICTP](https://indico.ictp.it/event/7970/),
 Trieste, 19-23 June 2017. Particular emphasis will be devoted to the
 core topics which have benefited from the seminal contributions of Yakov
 Pesin: nonuniform hyperbolicity, dimension theory, thermodynamical
@@ -20,4 +20,4 @@ Rodriguez-Hertz, Sarig, Schmeling, Senti, Shub, Viana, Wilkinson, Zhang
 **Organizers:** Dmitry Dolgopyat, Federico Rodriguez-Hertz, Omri Sarig.
 Local Organiser: Stefano Luzzatto.
 
-**Workshop's website:** [http://indico.ictp.it/event/7970/](http://indico.ictp.it/event/7970/)
+**Workshop's website:** [https://indico.ictp.it/event/7970/](https://indico.ictp.it/event/7970/)

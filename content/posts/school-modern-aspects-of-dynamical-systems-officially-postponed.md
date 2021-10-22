@@ -11,7 +11,7 @@ The school
 
 **"Modern Aspects of Dynamical Systems"**
 
-organized by [Fondazione CIME](http://web.math.unifi.it/users/cime/) to
+organized by [Fondazione CIME](https://web.math.unifi.it/users/cime/) to
 be held in Cetraro (Cosenza, Italy) at [Grand Hotel San
 Michele](https://www.grandhotelsanmichele.it/), (see the first
 announcement
@@ -20,7 +20,7 @@ has now been officially postponed to next year.
 
 The new dates are **August 2-7, 2021**. Procedures for the applications
 will be decided and communicated by [Fondazione
-CIME](http://web.math.unifi.it/users/cime/).
+CIME](https://web.math.unifi.it/users/cime/).
 
 For more information please contact one of the directors: Claudio
 Bonanno (Università di Pisa), Alfonso Sorrentino (Università di Roma

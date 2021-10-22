@@ -8,7 +8,7 @@ title = "Seminar in Trieste: Giovanni Panti"
 +++
 
 Tuesday 4th October at 17:00
-([ICTP](http://www.ictp.it/research/math/seminars.aspx))
+([ICTP](https://www.ictp.it/research/math/seminars.aspx))
 
 "A geometric model for the natural extension of continued fraction maps"
 

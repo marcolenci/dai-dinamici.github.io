@@ -24,7 +24,7 @@ capital, integrating education and research in a lively
 interdisciplinary environment.
 
 You can find details on the application procedure in the web page at 
-[www.gssi.it](http://www.gssi.it)
+[www.gssi.it](https://www.gssi.it)
 
 [u](u)What we offer to our students[/u](/u) We want our students get the best
 possible experience during their time at the Gran Sasso Science
@@ -32,7 +32,7 @@ Institute. We provide them **free housing plus the standard three years
 PhD grant**. Recreational and cultural services will be offered.
 
 For more information please visit our web site
-[www.gssi.it](http://www.gssi.infn.it) or contact the School secretary
+[www.gssi.it](https://www.gssi.infn.it) or contact the School secretary
 at  [info@gssi.it](mailto:info@gssi.infn.it)
 
  

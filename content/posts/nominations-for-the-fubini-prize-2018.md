@@ -21,7 +21,7 @@ The prize is awarded every second year: please look at the Fubini Prize
 webpage:
 
 <https://premiofubini.wordpress.com/premio-fubini/>
-\[[premiofubini.wordpress.com](http://premiofubini.wordpress.com/)\]
+\[[premiofubini.wordpress.com](https://premiofubini.wordpress.com/)\]
 
       \*\*\*\*\*\* The theme chosen for the 2018 edition concerns new
 analytical methods for the study of differential equations of relevance
@@ -31,7 +31,7 @@ in Mathematics and in Physics, Biology  and other Sciences.
 endorsing mathematicians (including the nominator) and accompanied by a
 short paragraph supplying the reasons for the nomination. Please use the
 form <https://docs.google.com/forms/d/1pQtcFgR_fmo0CwQbkCnqXYeSLBt_tPJUJ11MS5RXhNY>
-\[[docs.google.com](http://docs.google.com/)\] for this purpose.
+\[[docs.google.com](https://docs.google.com/)\] for this purpose.
 
 The final selection of the speakers will be done by the Fubini Prize
 Scientific Committee. The Prize will be awarded at the Turin Academy of

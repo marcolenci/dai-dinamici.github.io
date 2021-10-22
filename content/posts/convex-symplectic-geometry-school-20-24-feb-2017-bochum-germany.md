@@ -11,7 +11,7 @@ Spring school in convex symplectic geometry: Bochum, 20-24 February 2017
 
 For more information see:
 
-<http://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Lehrstuhl-VII/springschool17.html.en>
+<https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Lehrstuhl-VII/springschool17.html.en>
 
 Note: The school will cover travel and lodging expenses of a limited
 number of participants. See the above web site for instructions about

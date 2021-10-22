@@ -34,7 +34,7 @@ and to compute the Hausdorff dimension of survival sets.
 **How to apply:**
 
 All applications should be made online
-at [http://www.lboro.ac.uk/study/apply/research/](http://www.lboro.ac.uk/study/apply/research/).  Under programme
+at [https://www.lboro.ac.uk/study/apply/research/](https://www.lboro.ac.uk/study/apply/research/).  Under programme
 name, select ‘Mathematical Sciences’. Please quote reference number:
  MA/WB/2018. Closing date of advert: **16[sup](sup)th[/sup](/sup) February 2018.**
 

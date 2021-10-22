@@ -23,7 +23,7 @@ ODEs, PDEs or stochastic models is appreciated, but it is not necessary.
 
 Interested students must apply before **August 10th, 12:00 am** (Italian
 time), by using the web form at the following link:
-<http://www.unifi.it/cmpro-v-p-11202.html>
+<https://www.unifi.it/cmpro-v-p-11202.html>
 
 Complete information about the application procedure can be found at the
 same link in English.

@@ -21,4 +21,4 @@ the talks too.)
 
 The schedule and abstracts can be found here:
 
-<http://www.europeanwomeninmaths.org/activities/conference/17th-ewm-general-meeting-cortona-2015>
+<https://www.europeanwomeninmaths.org/activities/conference/17th-ewm-general-meeting-cortona-2015>

@@ -62,7 +62,7 @@ the position description in your application. Please apply online at:
 <https://applicant.cghrm.unsw.edu.au/psp/hrm/NS_CAREERS/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=60801&PostingSeq=1>
 
 If the above link does not work, search for position number "60801"
-at [www.jobs.unsw.edu.au](http://www.jobs.unsw.edu.au)
+at [www.jobs.unsw.edu.au](https://www.jobs.unsw.edu.au)
 
 Contact:
 

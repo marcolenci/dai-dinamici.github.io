@@ -8,7 +8,7 @@ title = "Seminar in Trieste: Pablo Carrasco"
 +++
 
 Thursday 4th August at 14:30
-([ICTP](http://www.ictp.it/research/math/seminars.aspx))
+([ICTP](https://www.ictp.it/research/math/seminars.aspx))
 
 "Geometric constructions of Equilibrium States"
 

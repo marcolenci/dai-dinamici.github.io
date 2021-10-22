@@ -20,7 +20,7 @@ c) Numerical optimization with special focus on big data and machine
 learning applications.
 
 For more information visit:  
-<http://www.mat.uniroma2.it/Docs_avvisi/call-of-interest.pdf>
+<https://www.mat.uniroma2.it/Docs_avvisi/call-of-interest.pdf>
 
 Applicants should express their interest within **JULY 15, 2020**, by
 sending an email to progetto@mat.uniroma2.it, including:  

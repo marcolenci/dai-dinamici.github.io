@@ -57,6 +57,6 @@ This announcement is for informational purposes only
 and does not in any way supersede or replace the official call,
 published at:
 
-[http://www.eracareers.pt/opportunities/index.aspx?task=showAnuncioOportunities&jobId=105256&idc=1](http://www.eracareers.pt/opportunities/index.aspx?task=showAnuncioOportunities&jobId=105256&idc=1)
+[https://www.eracareers.pt/opportunities/index.aspx?task=showAnuncioOportunities&jobId=105256&idc=1](https://www.eracareers.pt/opportunities/index.aspx?task=showAnuncioOportunities&jobId=105256&idc=1)
 
 

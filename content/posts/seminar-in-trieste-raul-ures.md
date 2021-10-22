@@ -8,7 +8,7 @@ title = "Seminar in Trieste: Raúl Ures"
 +++
 
 Thursday 29th September at 16:30
-([ICTP](http://www.ictp.it/research/math/seminars.aspx))
+([ICTP](https://www.ictp.it/research/math/seminars.aspx))
 
 "Ergodicity and Partial Hyperbolicity on Unit Tangent Bundles of
 Sufaces"

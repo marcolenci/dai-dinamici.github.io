@@ -12,4 +12,4 @@ StG "Stable and Chaotic Motions in the Planetary Problem", at the
 University of Naples "Federico II", Department of Mathematics and
 Applications. Deadline: 10 October, 2016 (1:30 p.m.)
 
-Link: <http://www.unina.it/documents/11958/12921780/MA_03_2016_TIPB_Bando_10.pdf/dd341992-dbdc-4562-8e2a-47fe6ff92bfb>
+Link: <https://www.unina.it/documents/11958/12921780/MA_03_2016_TIPB_Bando_10.pdf/dd341992-dbdc-4562-8e2a-47fe6ff92bfb>

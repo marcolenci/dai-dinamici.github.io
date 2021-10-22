@@ -22,6 +22,6 @@ Berkeley), F. Faure (U. Grenoble Alpes), F. Naud (U. Avignon), G.
 Paternain (U. Cambridge), F. Pène (U. Brest), M. Tsujii (Kyushu U.), T.
 Weich (U. Paderborn), M. Zworski (U. Berkeley).
 
-**Website**: <http://www.lebesgue.fr/content/sem2017-Dyn-Hyp>
+**Website**: <https://www.lebesgue.fr/content/sem2017-Dyn-Hyp>
 
 

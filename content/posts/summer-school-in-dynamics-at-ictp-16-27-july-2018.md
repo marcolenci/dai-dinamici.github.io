@@ -12,7 +12,7 @@ title = "Summer School in Dynamics at ICTP, 16-27 July 2018"
 A Summer School in Dynamical Systems which will be held at ICTP, Trieste
 (Italy) on 16-27 July 2018.
 
-[http://indico.ictp.it/event/8325/](http://indico.ictp.it/event/8325/)
+[https://indico.ictp.it/event/8325/](https://indico.ictp.it/event/8325/)
 
 The school is targeted to Masters and beginning PhD students and aims at
 introducing a variety of fundamental ideas and techniques in dynamics.

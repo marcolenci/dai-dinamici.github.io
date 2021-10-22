@@ -11,7 +11,7 @@ This is the first announcement of the school
 
 **"Modern Aspects of Dynamical Systems"**
 
-organized by [Fondazione CIME](http://web.math.unifi.it/users/cime/) to
+organized by [Fondazione CIME](https://web.math.unifi.it/users/cime/) to
 be held in Cetraro (Cosenza, Italy) in the period 20-24 July 2020. The
 venue of the school will be [Grand Hotel San
 Michele](https://www.grandhotelsanmichele.it/).

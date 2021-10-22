@@ -18,7 +18,7 @@ regions;
 
 More information are available at:
 
-http://www.stardust-network.eu/about/jobs/  
+https://www.stardust-network.eu/about/jobs/  
 
 **MSCA ELIGIBILITY CRITERION:** At the time of appointment applicants
 should have no more than 4 years experience after graduation and should
@@ -41,7 +41,7 @@ skills in English
 (celletti@mat.uniroma2.it as well as to info@stardust-network.eu) the
 following documents:  
 a) curriculum vitae (CV) following the template available at
-http://www.stardust-network.eu/about/jobs/ ;  
+https://www.stardust-network.eu/about/jobs/ ;  
 b) transcripts and certificates;  
 c) two letters of reference to be sent to celletti@mat.uniroma2.it;  
 d) cover letter explaining their motivation, research interests and the

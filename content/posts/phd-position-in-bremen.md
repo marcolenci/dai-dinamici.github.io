@@ -7,7 +7,7 @@ tags = []
 title = "PhD position in Bremen"
 +++
 
-[Prof. Anke Paul](http://user.math.uni-bremen.de/apohl/) at the
+[Prof. Anke Paul](https://user.math.uni-bremen.de/apohl/) at the
 University of Bremen advertises a position for a doctoral researcher
 (a.k.a. Ph.D. student), starting April 2021 or later. The position is a
 standard university position (proper employment, E 13 TV-L, 50%), fixed

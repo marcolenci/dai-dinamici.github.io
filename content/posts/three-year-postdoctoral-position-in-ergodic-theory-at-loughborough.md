@@ -15,7 +15,7 @@ involves collaboration with Prof. Mark Pollicott (Warwick) and with
 Prof. Carlangelo Liverani (Rome). 
 
 The appointee will be based in the [Department of Mathematical
-Sciences](http://www.lboro.ac.uk/departments/maths/) at Loughborough
+Sciences](https://www.lboro.ac.uk/departments/maths/) at Loughborough
 University. 
 
 Candidates should have a PhD in Mathematics and should be interested in

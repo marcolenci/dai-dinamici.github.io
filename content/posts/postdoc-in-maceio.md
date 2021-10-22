@@ -16,7 +16,7 @@ National Postdoctoral Program (PNPD / CAPES).
 
 More information at the link below:
 
-<http://www.ufal.edu.br/unidadeacademica/im/pt-br/pos-graduacao/matematica/bolsistas/edital-02-2018>
+<https://www.ufal.edu.br/unidadeacademica/im/pt-br/pos-graduacao/matematica/bolsistas/edital-02-2018>
 (in Portoguese)
 
 About Maceió:

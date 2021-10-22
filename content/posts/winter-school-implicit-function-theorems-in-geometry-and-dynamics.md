@@ -16,7 +16,7 @@ which will take place on
 February 19 - 22, 2020
 
 at Schloss Rauischholzhausen, a castle which is the congress hotel of
-the University of Gießen  <http://schloss.faber-management.de/>.
+the University of Gießen  <https://schloss.faber-management.de/>.
 
 The aim of the school is to present to master and PhD students two
 incarnations of the implicit function theorem that have strong
@@ -35,8 +35,8 @@ event <https://sites.google.com/view/ifthm-gnd/startseite>
 **Organizers:**
 
 -   Luca Asselle (luca.asselle
-    at [math.uni-giessen.de](http://math.uni-giessen.de/))
+    at [math.uni-giessen.de](https://math.uni-giessen.de/))
 -   Gabriele Benedetti (gbenedetti
-    at [mathi.uni-heidelberg.de](http://mathi.uni-heidelberg.de/))
+    at [mathi.uni-heidelberg.de](https://mathi.uni-heidelberg.de/))
 -   Kai Zehmisch (kai.zehmisch
-    at [math.uni-giessen.de](http://math.uni-giessen.de/))
+    at [math.uni-giessen.de](https://math.uni-giessen.de/))

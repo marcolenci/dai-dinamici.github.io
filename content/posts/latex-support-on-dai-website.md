@@ -7,7 +7,7 @@ tags = ["forum", "how to", "site"]
 title = "Latex support on this website"
 +++
 
-This website uses [MathJax](http://www.mathjax.org "MathJax"), a
+This website uses [MathJax](https://www.mathjax.org "MathJax"), a
 JavaScript library able to compile and render latex live in your
 browser. The syntax is fully explained here:
 <https://wordpress.org/plugins/mathjax-latex/>. Briefly:

@@ -40,7 +40,7 @@ M-Seara (Universitat Politécnica de Catalunya, Spain) Amie Wilkinson
 (University of Chicago, United States of America)
 
 More information can be retrieved from the website:
-[http://www.mat.uniroma2.it/Progetto/bridge2019.php](http://www.mat.uniroma2.it/Progetto/bridge2019.php)
+[https://www.mat.uniroma2.it/Progetto/bridge2019.php](https://www.mat.uniroma2.it/Progetto/bridge2019.php)
 
 Participation is free, but registration is necessary (please, follow
 the instructions on the website).

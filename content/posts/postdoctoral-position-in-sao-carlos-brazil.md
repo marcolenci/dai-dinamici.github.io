@@ -12,7 +12,7 @@ title = "Postdoctoral position in São Carlos, Brazil"
 The University of São Paulo campus São Carlos invites potential
 candidates for a two-year Postdoctoral position, renewable up to four
 years. Looking for candidates whose research is related to the interests
-of the Dynamical Systems group (see [http://sisdin.icmc.usp.br](http://sisdin.icmc.usp.br)):
+of the Dynamical Systems group (see [https://sisdin.icmc.usp.br](https://sisdin.icmc.usp.br)):
 Equilibrium states for partially hyperbolic diffeomorphisms (in
 particular measures of maximal entropy), Stable ergodicity for
 conservative diffeomorphisms, Comparing classical partially hyperbolic
@@ -30,7 +30,7 @@ research funding agency of the state of São Paulo, and benefits include:
 Additional 15% of yearly income for research related expenses, -
 Start-up costs, including air travel and one extra month of pay, -
 Maternity and paternity leave as described on
-[http://www.fapesp.br/270](http://www.fapesp.br/270).
+[https://www.fapesp.br/270](https://www.fapesp.br/270).
 
 Applicants should have a Ph.D. degree by the start date of the
 scholarship and should have graduated no longer than seven year ago. To

@@ -17,7 +17,7 @@ Title: *Varieties of Varieties after Mirzakhani.*
 Date: 9 Giugno 2020, ore 15
 
 Web page (on which it will be posted the link for the streaming):    
-[http://www.mat.uniroma2.it/may12.php](http://www.mat.uniroma2.it/may12.php)
+[https://www.mat.uniroma2.it/may12.php](https://www.mat.uniroma2.it/may12.php)
 
 The lecture will be followed by the **screening of the documentary
 film** : “*Secrets of the surface: the mathematical vision of Maryam
