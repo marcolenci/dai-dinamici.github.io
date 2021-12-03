@@ -3,7 +3,7 @@ The future version of [DAI](https://dinamici.org) website. Now statically genera
 
 ## New posts
 
-If you know how to use git, I recommend to install [`hugo`](https://gohugo.io/).
+If you know [how](https://githubtraining.github.io/training-manual) to [use](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) [git](https://www.coursera.org/learn/introduction-git-github), I recommend to install [`hugo`](https://gohugo.io/) and deal with everything locally.
 You can use `hugo new content/posts/post-title.md` or `hugo new content/dai-seminars/seminar-title.md` to generate the file, then edit its content and submit a pull-request.
 This will automate a number of changes and will allow you to preview the changes running `hugo serve`.
 
