@@ -13,7 +13,7 @@ the Centro De Giorgi - Scuola Normale Superiore in Pisa.
 PhD students can also apply, provided they obtain their PhD no later  
 than October 1st 2022.
 
-Deadline for application: ** January 11th 2022 (11.59 PM Italian
+Deadline for application: **January 11th 2022 (11.59 PM Italian
 time)**. 
 
 **Webpage for
