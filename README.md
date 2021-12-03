@@ -22,3 +22,15 @@ If you don't know how to use git, you can use github web interface to add or upl
 - Copy the content of [`archetypes/dai-seminars.md`](https://github.com/dai-dinamici/dai-dinamici.github.io/raw/main/archetypes/dai-seminars.md) into the file
 - Edit the content following the instructions in the file
 - Submit the change as a pull-request
+
+## Local Clone
+
+To clone this repository locally you should use
+```
+git clone --recursive https://github.com/dai-dinamici/dai-dinamici.github.io.git
+```
+
+If you forget the `--recursive` flag, you need to clone the submodules by hand. This can be done with
+```
+git submodule update --init
+```
