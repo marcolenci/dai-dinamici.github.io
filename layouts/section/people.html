@@ -63,7 +63,7 @@
 
     <div class="profile-container {{ if .umi }}umi{{ end }}">
       <div class="circle"></div>
-      <img class="profile-img" src="{{ $.Site.BaseURL }}/{{ .path }}">
+      <img class="profile-img" src="{{ $.Site.BaseURL }}{{ .path }}">
       <div class="text-container">
         <p class="title-text">{{ .name }}</p>
         {{ if .description }}<p class="desc-text">{{ .description | markdownify }}</p>{{ end }}
