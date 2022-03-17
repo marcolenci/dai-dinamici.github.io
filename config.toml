@@ -15,7 +15,7 @@ readmore = true
 schema = true
 twitter_cards = true
 [Params.logo]
-image = "wp-content/DAI1.png"
+image = "images/logo-crop.png"
 subtitle = "Dynamics, Applications, Interactions"
 [Params.sidebar]
 home = "left"
