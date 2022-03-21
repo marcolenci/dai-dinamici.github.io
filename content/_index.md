@@ -8,7 +8,7 @@ in dynamical systems.
 
 {{< rawhtml >}}
 
-<video width="290" controls autoplay loop style="display:block; margin-left:auto; margin-right:auto; margin-top:1em; margin-bottom: 1em;">
+<video width="290" autoplay loop style="display:block; margin-left:auto; margin-right:auto; margin-top:1em; margin-bottom: 1em;">
     <source src="/videos/logo.webm" type="video/webm">
     <source src="/videos/logo.mp4" type="video/mp4">
     Your browser does not support the video tag.  
