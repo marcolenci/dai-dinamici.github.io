@@ -6,7 +6,15 @@ title = "Welcome!"
 The **DinAmicI** are a group of Italian and adoptive Italian researchers
 in dynamical systems.
 
-![animated logo](images/logo-optim.gif)
+{{< rawhtml >}}
+
+<video width="290" controls autoplay loop style="display:block; margin-left:auto; margin-right:auto; margin-top:1em; margin-bottom: 1em;">
+    <source src="/videos/logo.webm" type="video/webm">
+    <source src="/videos/logo.mp4" type="video/mp4">
+    Your browser does not support the video tag.  
+</video>
+
+{{< /rawhtml >}}
 
 If you do research in dynamical systems and have anything to do with
 Italy (nationality, residence, current or past positions in Italian
