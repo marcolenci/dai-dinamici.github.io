@@ -18,10 +18,11 @@ in dynamical systems.
 
 If you do research in dynamical systems and have anything to do with
 Italy (nationality, residence, current or past positions in Italian
-institutions, or you just like us), we encourage you to register to this
-web site and be part of the group! You can also subscribe to our
-newsletter, which is a weekly digest of the new content added to the
-site. Use the links in the left-hand column of the page, or the footer,
+institutions, or you just like us), we encourage you to reach out to
+us on facebook, twitter or via email and become part of the group!
+You can also subscribe to our newsletter, which is a weekly digest of
+the new content added to the site.
+Use the links in the left-hand column of the page, or the footer,
 if you are using a mobile device.
 
 Since the fall of 2020, the community also includes the [**UMI Group
