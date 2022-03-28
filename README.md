@@ -1,5 +1,5 @@
 # dai-dinamici.github.io
-The future version of [DAI](https://dinamici.org) website. Now statically generated.
+The new version of [DAI](https://dinamici.org) website, now statically generated.
 
 ## New posts
 
