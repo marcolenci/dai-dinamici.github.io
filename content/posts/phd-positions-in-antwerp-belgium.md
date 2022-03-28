@@ -1,6 +1,6 @@
 +++
 aliases = ["/phd-positions-in-antwerp-belgium/"]
-categories = ["news", "open-positions", "open-positions"]
+categories = ["news", "open-positions"]
 date = "2022-03-28 11:14:51"
 slug = "phd-positions-in-antwerp-belgium"
 tags = []
