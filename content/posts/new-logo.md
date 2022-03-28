@@ -1,6 +1,6 @@
 +++
 title = "DAI gets a new logo"
-date = "2022-03-17 20:54:36"
+date = "2022-03-28 19:00:36"
 categories = ["news"]
 slug = "new-logo"
 +++
