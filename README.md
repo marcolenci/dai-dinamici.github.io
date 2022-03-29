@@ -11,7 +11,7 @@ If you don't know how to use git, you can use github web interface to add or upl
 
 ### Posts
 
-- Create a new file with `.md` extension into the `content/posts` folter
+- Create a new file with `.md` extension into the `content/posts` folter (try to give it a meaningful name)
 - Copy the content of [`archetypes/posts.md`](https://github.com/dai-dinamici/dai-dinamici.github.io/raw/main/archetypes/posts.md) into the file
 - Edit the content: you need to edit the `title`, `date` (in the form "2016-06-02 10:38:48"), `categories` fields and replace the `<!-- ... -->` part with the post body
 - Submit the change as a pull-request
