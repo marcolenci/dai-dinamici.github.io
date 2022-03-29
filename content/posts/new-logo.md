@@ -1,6 +1,7 @@
 +++
 title = "The DinAmicI get a new website and a new logo"
 date = "2022-03-28 19:00:36"
+updated = "2022-03-29 11:00:00"
 categories = ["news"]
 slug = "new-logo"
 +++
