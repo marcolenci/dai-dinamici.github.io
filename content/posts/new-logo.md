@@ -1,11 +1,15 @@
 +++
-title = "DAI gets a new logo"
+title = "The DinAmicI get a new website and a new logo"
 date = "2022-03-28 19:00:36"
 categories = ["news"]
 slug = "new-logo"
 +++
 
-Thanks to the efforts and the patience of Giovanni Canestrari, and the pushes from Marco Lenci, the DinAmicI are excited to share wity you the new logo:
+As you may have noticed, our website has gone through a restyling.
+In the process, we moved to a much simpler deployment strategy, which should make our website much much faster than before, and safer and easier to maintain for us.
+The price to pay for this, is that you will need to contact us to submit new posts, unless you want to [get your hands dirty](https://github.com/dai-dinamici/dai-dinamici).
+
+This is not all! Thanks to the efforts and the patience of Giovanni Canestrari, and the pushes from Marco Lenci, the DinAmicI are excited to share wity you also the new logo:
 
 ![New Logo by Giovanni Canestrari]({{< resource url="images/logo.png" >}})
 
