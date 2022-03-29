@@ -7,7 +7,7 @@ tags = []
 title = "PhD positions in Antwerp (Belgium)"
 +++
 
-The University of Antwerp (Belgium) announce the opening of 3 PhD
+The University of Antwerp (Belgium) announces the opening of 3 PhD
 positions:
 
 1.  PhD scholarship in **symplectic geometry and integrable Hamiltonian systems** (advisor: Prof. Sonja Hohloch, *application deadline April 11, 2022*): [https://www.uantwerpen.be/en/jobs/vacancies/academic-staff/?q=2101](https://www.uantwerpen.be/en/jobs/vacancies/academic-staff/?q=2101&descr=PhD-scholarship-in-symplectic-geometry-and-integrable-Hamiltonian-systems)
